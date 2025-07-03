@@ -1,0 +1,1001 @@
+transaction_id,date_of_sale,brand,product_name,category,sub_category,size,color,price,discount_percent,final_price,quantity,payment_mode,store_location,sales_channel,customer_id,customer_gender,return_status,return_reason,co2_saved,rating,review_text,delivery_days
+1,2025-05-14,ajio,jeans,Unisex,General,S,Red,1070,0,1070.0,5,Card,Noida,Offline,CUST00000,Male,True,Defective,1.09,4.0,Score each cause bill scientist.,2
+2,2025-06-25,dolce gabbana,scarf,Kids,General,XL,Green,525,10,472.5,4,UPI,Jaipur,Online,CUST00001,Male,False,,0.0,3.2,Opportunity all behavior discussion own.,3
+3,2025-06-27,jdy,necklace,Unisex,General,XXXL,Black,2380,40,1428.0,1,Wallet,Bangalore,App,CUST00002,Female,False,,0.0,4.2,,1
+4,2025-05-23,clovia,stole,Unisex,General,XS,Red,912,30,638.4,3,Wallet,Ludhiana,Offline,CUST00003,Male,False,,0.0,3.7,,6
+5,2025-06-25,jdy,hoodie,Women,General,XL,Red,1168,30,817.6,4,UPI,Ludhiana,App,CUST00004,Other,True,Color Mismatch,1.62,4.5,Determine operation speak according south recently future choice whatever.,7
+6,2025-06-05,truebrowns,tshirt,Unisex,General,L,Green,770,10,693.0,5,UPI,Pune,App,CUST00005,Female,False,,0.0,4.8,,2
+7,2025-05-13,gucci,sneakers,Women,General,XXL,Green,2893,30,2025.1,5,Wallet,Chandigarh,Online,CUST00006,Male,False,,0.0,3.2,Here grow gas enough analysis.,1
+8,2025-06-17,snitch,skirt,Women,General,XXXL,Yellow,2941,0,2941.0,4,Wallet,Gurgaon,Offline,CUST00007,Other,False,,0.0,4.9,,1
+9,2025-06-25,the label life,jeans,Unisex,General,XXXL,Pink,955,20,764.0,4,Cash,Bhopal,Online,CUST00008,Other,False,,0.0,4.9,,5
+10,2025-05-16,thesvaya,coat,Unisex,General,XXXL,Red,1125,20,900.0,2,Card,Gurgaon,Offline,CUST00009,Female,True,Defective,4.65,4.8,,3
+11,2025-06-09,shein,shawl,Women,General,XL,White,849,30,594.3,1,Cash,Chennai,App,CUST00010,Female,True,Changed Mind,2.64,4.2,,5
+12,2025-05-11,the souled store,palazzo,Unisex,General,L,Pink,2293,40,1375.8,4,Card,Ahmedabad,Online,CUST00011,Male,False,,0.0,3.0,,5
+13,2025-06-26,zara,scarf,Men,General,XXL,Black,1436,0,1436.0,1,UPI,Bangalore,App,CUST00012,Male,False,,0.0,4.3,Stop peace technology officer relate animal direction.,2
+14,2025-06-01,saint laurent,ethnic wear,Kids,General,XXXL,Yellow,1278,0,1278.0,1,Wallet,Chandigarh,Offline,CUST00013,Female,False,,0.0,4.7,Talk term herself law street.,6
+15,2025-05-19,shein,jacket,Kids,General,XXL,Pink,946,10,851.4,2,Cash,Visakhapatnam,Offline,CUST00014,Male,False,,0.0,3.4,Great prove reduce raise author play move each.,7
+16,2025-06-17,max fashion,hoodie,Men,General,XS,Black,881,10,792.9,2,Wallet,Coimbatore,Offline,CUST00015,Male,False,,0.0,4.8,Establish understand read detail food shoulder argue start.,1
+17,2025-06-03,celine,sunglasses,Kids,General,M,Yellow,2775,30,1942.5,2,Cash,Surat,Online,CUST00016,Male,True,Color Mismatch,1.57,3.1,Environment decision wall then fire pretty how trip.,7
+18,2025-06-17,shein,saree,Men,General,XXXL,Blue,779,40,467.4,1,Cash,Indore,Online,CUST00017,Other,True,Late Delivery,2.97,4.2,Enter east no enjoy once today.,5
+19,2025-06-11,fab alley,backpack,Unisex,General,S,Pink,1476,20,1180.8,4,Cash,Kanpur,App,CUST00018,Female,False,,0.0,3.6,,1
+20,2025-06-08,pantaloons,top,Men,General,XS,Red,2571,20,2056.8,2,UPI,Bangalore,Online,CUST00019,Female,False,,0.0,3.3,,6
+21,2025-05-25,urbanic,purse,Men,General,XXL,Green,923,10,830.7,3,Card,Hyderabad,App,CUST00020,Other,True,Changed Mind,1.41,3.4,Meeting before another body physical society.,6
+22,2025-06-13,vero moda,sneakers,Kids,General,M,Black,877,30,613.9,3,Card,Mumbai,Offline,CUST00021,Male,False,,0.0,3.3,As high you more wife team activity result race Mr.,6
+23,2025-05-29,y.a.s,tie,Men,General,XS,White,1109,40,665.4,1,UPI,Noida,App,CUST00022,Male,False,,0.0,3.3,Born itself law west then enjoy may condition.,7
+24,2025-05-14,rustorange,t-shirt,Unisex,General,S,Red,920,20,736.0,5,Wallet,Gurgaon,App,CUST00023,Male,True,Size Issue,4.88,4.6,,1
+25,2025-06-01,nush,salwar,Unisex,General,XXXL,Yellow,1515,20,1212.0,2,Card,Indore,Online,CUST00024,Female,True,Size Issue,4.08,3.9,Participant check several much single morning a food affect.,7
+26,2025-06-08,dolce gabbana,stole,Men,General,XXL,Red,2131,20,1704.8,3,Card,Patna,Offline,CUST00025,Female,False,,0.0,4.4,,3
+27,2025-06-02,levis,blouse,Unisex,General,S,Green,655,0,655.0,5,Wallet,Chandigarh,App,CUST00026,Female,False,,0.0,4.2,,4
+28,2025-05-27,bottega veneta,anarkali,Men,General,XXL,Yellow,505,40,303.0,5,Cash,Chandigarh,Offline,CUST00027,Male,False,,0.0,4.2,,1
+29,2025-05-09,vero moda,purse,Unisex,General,XXL,Yellow,1835,30,1284.5,3,Cash,Pune,Offline,CUST00028,Other,False,,0.0,4.4,,5
+30,2025-05-27,yeezy,purse,Men,General,M,Green,1359,30,951.3,5,UPI,Bhopal,Offline,CUST00029,Female,True,Late Delivery,2.37,4.8,,2
+31,2025-06-28,off white,cardigan,Unisex,General,XS,Red,1770,10,1593.0,2,Cash,Mumbai,Online,CUST00030,Male,False,,0.0,4.2,,4
+32,2025-05-11,libas,scarf,Women,General,XXL,Yellow,2523,30,1766.1,2,Cash,Ludhiana,App,CUST00031,Male,True,Damaged,1.09,4.6,,4
+33,2025-05-12,y.a.s,tank top,Women,General,XXXL,White,2368,10,2131.2,4,UPI,Patna,Offline,CUST00032,Other,False,,0.0,4.7,,2
+34,2025-06-20,lifestyle,ethnic wear,Unisex,General,XXXL,Red,1634,40,980.4,4,Cash,Jaipur,Offline,CUST00033,Male,False,,0.0,3.5,Within mouth call process water.,5
+35,2025-05-20,gucci,cardigan,Women,General,S,Yellow,1124,10,1011.6,1,Wallet,Nagpur,Offline,CUST00034,Other,False,,0.0,3.8,Month parent who up sense ready require.,4
+36,2025-06-11,rustorange,sunglasses,Men,General,XXXL,Yellow,2452,0,2452.0,3,UPI,Patna,Offline,CUST00035,Female,True,Damaged,1.1,3.9,Just military building different full open discover detail.,3
+37,2025-05-10,march tee,cap,Women,General,XXXL,Beige,1021,40,612.6,5,Card,Indore,App,CUST00036,Other,True,Defective,3.21,3.3,Arrive attack all form method everything magazine much rich think office.,1
+38,2025-05-27,new balance,sneakers,Unisex,General,S,Beige,1837,20,1469.6,4,UPI,Patna,Offline,CUST00037,Female,True,Damaged,0.1,4.1,,3
+39,2025-06-18,tata cliq,scarf,Men,General,XXXL,Black,626,10,563.4,2,Card,Gurgaon,Online,CUST00038,Male,True,Damaged,3.35,4.1,Couple best issue interest level rock pull worker.,6
+40,2025-05-13,clovia,heels,Unisex,General,S,White,1169,20,935.2,1,Card,Surat,App,CUST00039,Other,False,,0.0,3.8,,1
+41,2025-05-09,puma,shoes,Unisex,General,XXXL,White,2817,0,2817.0,3,Wallet,Kanpur,Offline,CUST00040,Male,False,,0.0,3.0,Rock song body court movie cell contain leg.,4
+42,2025-05-11,fabindia,coat,Unisex,General,XXL,Beige,1125,30,787.5,2,UPI,Gurgaon,App,CUST00041,Female,False,,0.0,3.9,,3
+43,2025-06-16,go colors,clutch,Women,General,XXXL,White,1641,30,1148.7,2,Wallet,Noida,App,CUST00042,Other,False,,0.0,3.7,Better present music address behavior send door image loss ten.,3
+44,2025-05-09,central,lehenga,Women,General,M,Green,1893,20,1514.4,5,UPI,Visakhapatnam,Online,CUST00043,Other,True,Defective,1.21,3.8,,2
+45,2025-05-19,bewakoof,ethnic wear,Kids,General,L,Black,880,20,704.0,2,Wallet,Vadodara,Online,CUST00044,Female,False,,0.0,3.9,,4
+46,2025-06-09,reebok,sling bag,Kids,General,M,Green,1528,10,1375.2,1,Cash,Lucknow,Online,CUST00045,Other,True,Size Issue,1.08,4.0,,7
+47,2025-05-04,adidas,flats,Women,General,M,Red,1977,10,1779.3,3,Card,Vadodara,App,CUST00046,Male,False,,0.0,3.1,Enter six lawyer institution whatever yet new responsibility.,3
+48,2025-05-19,daisy,trousers,Kids,General,XS,Black,2850,20,2280.0,4,Wallet,Bhopal,Offline,CUST00047,Male,True,Changed Mind,4.71,4.0,,4
+49,2025-05-22,mango,indo western,Men,General,S,Blue,2804,20,2243.2,1,Cash,Hyderabad,App,CUST00048,Female,True,Late Delivery,1.9,4.8,Design around save article finish anyone live.,5
+50,2025-06-24,moncler,tie,Men,General,XL,White,1350,10,1215.0,3,Card,Kolkata,Online,CUST00049,Male,True,Size Issue,0.01,3.9,,3
+51,2025-05-19,valentino,tshirt,Unisex,General,XXL,Green,2358,0,2358.0,2,UPI,Ludhiana,App,CUST00050,Other,True,Damaged,0.57,3.4,Whether bag control organization push.,3
+52,2025-05-26,mango,shorts,Men,General,S,Green,2936,40,1761.6,3,Wallet,Hyderabad,Offline,CUST00051,Other,False,,0.0,4.4,,5
+53,2025-06-12,max fashion,fusion wear,Men,General,XL,Black,2268,20,1814.4,5,UPI,Mumbai,Online,CUST00052,Male,True,Color Mismatch,4.11,4.2,,2
+54,2025-05-15,jack jones,ethnic wear,Kids,General,M,Blue,2896,30,2027.2,4,Card,Coimbatore,Offline,CUST00053,Female,False,,0.0,3.6,East organization people information on mission various daughter respond draw.,2
+55,2025-06-11,biba,sling bag,Kids,General,M,Yellow,2752,0,2752.0,4,Card,Lucknow,Offline,CUST00054,Female,True,Damaged,4.32,4.6,Public feel first sell authority leader.,7
+56,2025-06-27,biba,party wear,Men,General,S,Pink,2540,30,1778.0,1,Cash,Jaipur,App,CUST00055,Male,False,,0.0,3.9,,1
+57,2025-05-13,snitch,blouse,Women,General,XXL,Blue,1771,40,1062.6,1,Wallet,Bangalore,Online,CUST00056,Male,False,,0.0,4.9,,2
+58,2025-05-11,fab alley,fusion wear,Unisex,General,XL,Green,2200,30,1540.0,4,Cash,Bhopal,App,CUST00057,Male,False,,0.0,3.4,,6
+59,2025-06-25,the pant project,leggings,Men,General,M,Yellow,1891,40,1134.6,3,Card,Surat,App,CUST00058,Female,False,,0.0,4.7,Media car give attention each expect.,4
+60,2025-06-15,north face,necklace,Kids,General,L,Pink,1271,10,1143.9,5,Wallet,Ahmedabad,Offline,CUST00059,Male,False,,0.0,4.5,,7
+61,2025-06-25,asics,watch,Women,General,L,Black,1016,40,609.6,5,UPI,Hyderabad,Offline,CUST00060,Male,False,,0.0,3.0,Particularly would pressure account stage federal professional.,7
+62,2025-05-17,mango,skirt,Kids,General,XXXL,Green,1885,40,1131.0,4,Card,Lucknow,App,CUST00061,Other,False,,0.0,4.9,,7
+63,2025-05-29,thesvaya,indo western,Men,General,XL,White,1460,20,1168.0,2,Card,Nagpur,Online,CUST00062,Other,True,Damaged,0.83,3.6,Threat score choice example decision.,3
+64,2025-06-06,supreme,crop top,Unisex,General,M,Yellow,1095,10,985.5,5,Wallet,Noida,App,CUST00063,Male,True,Size Issue,0.39,4.7,,2
+65,2025-05-23,aachho,fusion wear,Women,General,S,Beige,1539,30,1077.3,3,Card,Bhopal,Offline,CUST00064,Other,True,Defective,2.21,3.7,,6
+66,2025-05-29,styched,tie,Unisex,General,L,Green,1314,30,919.8,4,Card,Ahmedabad,Offline,CUST00065,Other,False,,0.0,4.1,,3
+67,2025-06-22,alkemi,shirt,Kids,General,M,Black,2817,0,2817.0,5,Wallet,Surat,Online,CUST00066,Other,False,,0.0,3.4,Economy traditional anything plant stop analysis four capital woman.,3
+68,2025-05-19,snitch,leggings,Men,General,XXL,Black,1764,30,1234.8,1,UPI,Raipur,Online,CUST00067,Male,False,,0.0,3.7,Necessary into act away third tough nation strong old.,2
+69,2025-05-18,savlani,trousers,Unisex,General,XL,Green,1172,20,937.6,4,UPI,Raipur,Offline,CUST00068,Male,False,,0.0,4.9,Camera final together someone team together decide economic bill.,2
+70,2025-06-27,here & now,hat,Unisex,General,XS,Yellow,556,20,444.8,5,Card,Bhopal,Offline,CUST00069,Other,False,,0.0,4.2,,3
+71,2025-06-12,house of masaba,coat,Women,General,L,Black,2798,20,2238.4,5,Cash,Ludhiana,Online,CUST00070,Other,False,,0.0,4.8,See understand door class son computer include conference under site in.,4
+72,2025-05-28,gucci,jeans,Men,General,XS,Green,2516,0,2516.0,1,Cash,Visakhapatnam,Online,CUST00071,Female,False,,0.0,3.7,,6
+73,2025-05-29,carmakoma,scarf,Women,General,L,White,2503,40,1501.8,4,UPI,Delhi,App,CUST00072,Female,True,Damaged,2.22,3.5,Skin blue the teach develop staff.,6
+74,2025-06-17,name it,ring,Unisex,General,XS,Yellow,1629,10,1466.1,1,Wallet,Bangalore,App,CUST00073,Male,True,Defective,3.93,3.5,Figure somebody dinner age cover foreign ten whom.,5
+75,2025-05-31,forever21,churidar,Women,General,XL,Red,1453,20,1162.4,2,Card,Jaipur,Online,CUST00074,Male,False,,0.0,4.6,Political hundred wonder movie voice boy wife condition.,7
+76,2025-05-29,calvin klein,blouse,Men,General,M,Red,2910,20,2328.0,1,Cash,Jaipur,Online,CUST00075,Male,False,,0.0,4.1,,4
+77,2025-05-07,amanté,formal wear,Unisex,General,XL,White,2350,40,1410.0,2,Card,Raipur,App,CUST00076,Other,False,,0.0,3.9,,1
+78,2025-05-14,rare rabbit,western wear,Kids,General,L,White,2507,30,1754.9,1,Card,Lucknow,App,CUST00077,Male,True,Size Issue,1.38,4.3,,3
+79,2025-06-30,noisy may,watch,Unisex,General,L,Yellow,905,0,905.0,5,Cash,Nagpur,Offline,CUST00078,Male,False,,0.0,3.7,Generation skill job worker break tonight couple and job.,4
+80,2025-06-23,canada goose,jacket,Kids,General,M,Green,2032,10,1828.8,4,Card,Bangalore,Online,CUST00079,Male,False,,0.0,3.2,,7
+81,2025-06-25,y.a.s,trousers,Men,General,XL,Pink,999,30,699.3,3,Wallet,Raipur,Online,CUST00080,Female,False,,0.0,3.7,,2
+82,2025-05-23,zouk,skirt,Kids,General,S,White,1933,40,1159.8,3,Card,Patna,Offline,CUST00081,Other,True,Damaged,4.23,4.9,,5
+83,2025-06-08,jdy,blouse,Unisex,General,XS,Blue,1618,20,1294.4,3,UPI,Mumbai,Online,CUST00082,Male,False,,0.0,3.1,,1
+84,2025-06-14,folklore,blazer,Women,General,L,Yellow,2357,20,1885.6,2,UPI,Surat,App,CUST00083,Female,True,Defective,0.78,4.5,We TV perhaps professional by.,1
+85,2025-06-02,max fashion,sandals,Kids,General,L,Beige,2195,20,1756.0,2,Card,Chandigarh,Offline,CUST00084,Male,False,,0.0,4.4,,5
+86,2025-06-22,amazon,handbag,Women,General,L,Black,530,10,477.0,3,Cash,Patna,Online,CUST00085,Female,False,,0.0,3.7,Project for recent never court professor here.,6
+87,2025-05-20,balenciaga,bow tie,Women,General,L,Red,2548,40,1528.8,3,Card,Indore,App,CUST00086,Male,False,,0.0,3.0,,7
+88,2025-07-02,mamalicious,backpack,Kids,General,XL,Yellow,2209,20,1767.2,1,Wallet,Mumbai,Offline,CUST00087,Male,False,,0.0,4.7,,1
+89,2025-06-28,rare rabbit,bow tie,Men,General,S,Yellow,2911,30,2037.7,5,Card,Indore,Offline,CUST00088,Other,False,,0.0,3.4,,1
+90,2025-06-02,selected,jeans,Women,General,XXXL,Pink,1937,10,1743.3,2,Card,Chennai,Offline,CUST00089,Male,True,Late Delivery,0.76,4.5,Nature a expert involve oil pressure let kind.,7
+91,2025-05-24,westside,fusion wear,Kids,General,XXL,Pink,1793,10,1613.7,4,Card,Coimbatore,Offline,CUST00090,Other,False,,0.0,4.6,,3
+92,2025-06-22,mango,traditional wear,Unisex,General,L,Beige,653,0,653.0,3,UPI,Bangalore,App,CUST00091,Male,False,,0.0,3.9,,7
+93,2025-06-18,lifestyle,t-shirt,Women,General,M,Beige,2552,10,2296.8,1,Wallet,Hyderabad,Offline,CUST00092,Other,True,Late Delivery,3.23,3.1,,4
+94,2025-05-20,converse,saree,Unisex,General,M,Yellow,2173,20,1738.4,5,Card,Ludhiana,App,CUST00093,Female,True,Changed Mind,0.47,4.4,Exist professional people behavior weight.,6
+95,2025-05-26,north face,skirt,Men,General,XL,Blue,1931,20,1544.8,4,Cash,Gurgaon,App,CUST00094,Male,False,,0.0,4.1,,3
+96,2025-06-03,nirvanaa styles,trousers,Men,General,XXL,Yellow,2581,20,2064.8,1,UPI,Surat,Online,CUST00095,Male,False,,0.0,4.9,Southern challenge animal worker particularly shoulder lay.,2
+97,2025-06-28,chanel,leggings,Men,General,M,White,2578,40,1546.8,5,Card,Kanpur,Offline,CUST00096,Other,True,Late Delivery,1.88,3.3,,7
+98,2025-05-22,march tee,kurti,Kids,General,XS,Yellow,1991,10,1791.9,4,UPI,Patna,App,CUST00097,Female,True,Late Delivery,1.2,4.9,,7
+99,2025-06-10,vans,anarkali,Kids,General,L,Green,2063,40,1237.8,5,Wallet,Kolkata,Online,CUST00098,Other,True,Changed Mind,0.26,4.0,Hundred challenge reach throughout team those sing despite sound.,1
+100,2025-06-23,off white,pants,Men,General,XXXL,Blue,1616,30,1131.2,5,Cash,Nagpur,Online,CUST00099,Male,False,,0.0,4.8,,4
+101,2025-06-18,jordan,tank top,Unisex,General,S,Yellow,833,20,666.4,2,Card,Lucknow,Online,CUST00100,Other,False,,0.0,4.6,Newspaper true building card let.,3
+102,2025-06-24,campus sutra,ethnic wear,Women,General,XXXL,Beige,2336,40,1401.6,1,Card,Mumbai,Offline,CUST00101,Male,True,Late Delivery,4.7,4.2,Other wear through partner rest measure store natural today season.,7
+103,2025-06-19,givenchy,flats,Unisex,General,XS,Black,1475,30,1032.5,5,Wallet,Bangalore,Online,CUST00102,Female,True,Color Mismatch,2.58,3.5,Else easy point she miss phone ever back experience.,4
+104,2025-05-30,urbanic,dress,Unisex,General,S,Yellow,1266,0,1266.0,5,UPI,Bangalore,App,CUST00103,Other,True,Damaged,4.37,3.1,Floor music catch discuss really relationship ask imagine.,3
+105,2025-06-25,folklore,heels,Men,General,M,White,1911,10,1719.9,1,UPI,Chennai,Online,CUST00104,Female,False,,0.0,4.6,Indeed deal information toward once receive task she herself.,7
+106,2025-05-04,campus sutra,party wear,Kids,General,XXL,Blue,1051,0,1051.0,4,Card,Surat,Online,CUST00105,Male,True,Defective,1.58,3.6,Fear hope through structure Mrs same son today.,7
+107,2025-06-20,bottega veneta,ethnic wear,Men,General,XXXL,Red,1670,20,1336.0,1,UPI,Jaipur,Online,CUST00106,Female,False,,0.0,4.8,,4
+108,2025-05-25,louis vuitton,jewelry,Kids,General,XXL,Beige,2003,40,1201.8,3,Card,Raipur,Offline,CUST00107,Male,False,,0.0,4.2,,5
+109,2025-05-30,patagonia,bag,Men,General,XS,Pink,1709,20,1367.2,4,Wallet,Kolkata,App,CUST00108,Female,False,,0.0,3.9,,3
+110,2025-06-15,moschino,bow tie,Men,General,XS,Yellow,1987,40,1192.2,2,Card,Chennai,App,CUST00109,Other,False,,0.0,3.1,Ahead from quickly identify close level camera performance agree.,7
+111,2025-06-11,converse,bracelet,Kids,General,XL,Black,2977,10,2679.3,4,UPI,Chandigarh,Offline,CUST00110,Male,True,Late Delivery,1.83,3.6,North agree poor career left anyone here deep force seven.,1
+112,2025-06-09,nush,blouse,Women,General,L,Yellow,2799,0,2799.0,3,UPI,Vadodara,Offline,CUST00111,Male,False,,0.0,4.4,,2
+113,2025-05-31,gucci,pants,Men,General,L,Blue,2322,0,2322.0,3,UPI,Vadodara,Online,CUST00112,Other,False,,0.0,4.8,,6
+114,2025-06-13,sazo,salwar,Unisex,General,XL,Red,996,10,896.4,2,Cash,Coimbatore,Online,CUST00113,Female,False,,0.0,3.9,,2
+115,2025-05-28,forever21,blazer,Unisex,General,L,Beige,2652,30,1856.4,4,Card,Chennai,Offline,CUST00114,Other,True,Damaged,2.33,4.0,Like see appear weight difference.,7
+116,2025-05-10,clovia,lehenga,Women,General,L,Black,1007,40,604.2,2,UPI,Kolkata,Online,CUST00115,Female,True,Changed Mind,4.74,4.0,Senior wear current after charge.,1
+117,2025-05-16,burberry,heels,Unisex,General,S,Green,2684,0,2684.0,5,Cash,Noida,App,CUST00116,Male,True,Color Mismatch,3.12,4.8,Prove nor design record short cold parent security boy.,5
+118,2025-05-19,koovs,t-shirt,Men,General,XS,Black,2861,20,2288.8,2,Wallet,Gurgaon,App,CUST00117,Male,False,,0.0,4.8,,6
+119,2025-06-03,shoppers stop,purse,Women,General,XXXL,Yellow,1717,30,1201.9,1,Card,Kolkata,Offline,CUST00118,Female,False,,0.0,3.9,Official up office traditional heart.,2
+120,2025-05-23,the pant project,backpack,Unisex,General,XXL,Pink,2132,10,1918.8,3,Card,Lucknow,Online,CUST00119,Female,True,Changed Mind,2.25,3.3,Option store drug recent feeling.,4
+121,2025-07-01,saint laurent,scarf,Women,General,XXXL,Pink,2865,20,2292.0,2,Cash,Coimbatore,App,CUST00120,Female,False,,0.0,4.8,Someone not American mouth product attention.,1
+122,2025-06-06,vero moda,hat,Kids,General,S,Red,2888,20,2310.4,1,Card,Surat,Offline,CUST00121,Other,False,,0.0,3.6,Support state black whether.,1
+123,2025-06-17,gucci,bow tie,Unisex,General,XXL,Pink,2150,20,1720.0,1,Wallet,Delhi,App,CUST00122,Other,True,Changed Mind,2.77,3.1,,7
+124,2025-05-18,koovs,boots,Men,General,S,White,2112,20,1689.6,3,UPI,Patna,Online,CUST00123,Male,False,,0.0,4.0,Computer miss practice pattern try simple let stay or.,2
+125,2025-06-04,fable street,sling bag,Kids,General,XL,Beige,1109,40,665.4,5,Cash,Lucknow,App,CUST00124,Female,True,Damaged,4.95,4.5,Store beautiful think during let particular her.,3
+126,2025-05-06,alkemi,traditional wear,Kids,General,XXL,Green,2444,0,2444.0,3,UPI,Kanpur,Online,CUST00125,Female,False,,0.0,4.6,,6
+127,2025-06-20,noisy may,blouse,Kids,General,M,Red,709,40,425.4,4,Cash,Kochi,App,CUST00126,Other,False,,0.0,3.3,,1
+128,2025-06-04,hermes,jeans,Men,General,L,Pink,2214,10,1992.6,4,Cash,Nagpur,App,CUST00127,Other,False,,0.0,4.7,,1
+129,2025-05-21,jack jones,leggings,Women,General,XL,Pink,2458,40,1474.8,4,UPI,Kolkata,Offline,CUST00128,Other,False,,0.0,4.1,,7
+130,2025-06-20,urbanic,sneakers,Kids,General,S,Red,1641,40,984.6,3,Cash,Surat,Offline,CUST00129,Other,True,Color Mismatch,3.52,3.6,Great election evidence other they new.,7
+131,2025-06-23,off white,boots,Men,General,XL,Yellow,2115,20,1692.0,2,UPI,Delhi,Offline,CUST00130,Other,True,Changed Mind,4.62,4.3,,2
+132,2025-05-22,koovs,palazzo,Unisex,General,XL,Green,1061,0,1061.0,5,Cash,Ahmedabad,Online,CUST00131,Other,True,Color Mismatch,1.16,3.2,Drop image new drive live.,4
+133,2025-06-20,the label life,jacket,Women,General,XS,Blue,2165,30,1515.5,4,Cash,Patna,Offline,CUST00132,Female,False,,0.0,4.3,,1
+134,2025-06-16,pieces,stole,Men,General,S,Yellow,1219,0,1219.0,4,Wallet,Kolkata,App,CUST00133,Female,True,Defective,1.49,4.2,,3
+135,2025-05-05,pantaloons,flats,Kids,General,S,Beige,1616,10,1454.4,1,UPI,Kolkata,App,CUST00134,Female,False,,0.0,4.4,Family identify during professional hard.,3
+136,2025-06-26,object,bag,Women,General,S,Yellow,2250,40,1350.0,3,Card,Indore,App,CUST00135,Male,True,Size Issue,2.39,4.9,Gas you nearly goal law fill discover return firm sea.,4
+137,2025-05-21,lifestyle,shawl,Unisex,General,M,Green,2884,40,1730.4,1,UPI,Ludhiana,Offline,CUST00136,Other,True,Defective,3.34,3.9,Describe machine right with modern executive.,6
+138,2025-05-13,melange,traditional wear,Unisex,General,XXL,White,1707,20,1365.6,5,Cash,Ahmedabad,Online,CUST00137,Female,True,Damaged,3.74,4.2,Fast guess few remain call animal.,5
+139,2025-05-09,postfold,ethnic wear,Women,General,XXXL,Red,2939,0,2939.0,5,Wallet,Kochi,App,CUST00138,Female,True,Late Delivery,0.56,4.7,,2
+140,2025-06-26,versace,skirt,Unisex,General,XXXL,Beige,975,10,877.5,5,Wallet,Bangalore,App,CUST00139,Female,True,Damaged,0.66,3.8,,5
+141,2025-06-01,house of masaba,party wear,Unisex,General,XXL,Black,2120,20,1696.0,1,Cash,Noida,Online,CUST00140,Male,False,,0.0,3.7,Point sell bill activity expect long.,1
+142,2025-06-06,fab alley,sweater,Kids,General,XS,Green,2173,10,1955.7,2,Wallet,Chandigarh,Offline,CUST00141,Female,False,,0.0,3.8,,6
+143,2025-05-21,tata cliq,leggings,Unisex,General,XS,Blue,2699,30,1889.3,5,Cash,Raipur,Online,CUST00142,Male,True,Changed Mind,2.32,4.4,Education technology box assume man.,4
+144,2025-06-29,saint laurent,stole,Kids,General,M,Blue,1628,10,1465.2,1,Card,Kanpur,Offline,CUST00143,Other,True,Size Issue,1.03,3.2,Rather charge specific we be easy newspaper indicate other peace simply.,5
+145,2025-06-09,saint laurent,tank top,Men,General,L,Beige,1458,40,874.8,2,Card,Chennai,App,CUST00144,Female,True,Color Mismatch,2.88,4.2,,7
+146,2025-06-16,givenchy,clutch,Unisex,General,S,Red,2192,20,1753.6,3,Card,Visakhapatnam,App,CUST00145,Other,True,Color Mismatch,3.39,4.1,Father open investment notice art whether between several personal.,3
+147,2025-05-29,savlani,watch,Unisex,General,XXL,Yellow,2171,10,1953.9,3,Wallet,Kolkata,App,CUST00146,Female,True,Size Issue,1.5,4.4,,1
+148,2025-05-11,here & now,belt,Kids,General,XL,Blue,2089,10,1880.1,3,Cash,Lucknow,App,CUST00147,Male,False,,0.0,4.7,Dream necessary choose impact ready like.,6
+149,2025-05-07,flipkart,anarkali,Unisex,General,L,Black,797,10,717.3,5,Cash,Coimbatore,Online,CUST00148,Female,False,,0.0,4.9,Explain executive teacher author do enough social.,2
+150,2025-06-30,folklore,pants,Kids,General,S,Red,2123,10,1910.7,5,UPI,Patna,Offline,CUST00149,Female,False,,0.0,4.1,Interesting name positive training step author.,3
+151,2025-05-20,only,bracelet,Kids,General,L,White,2422,20,1937.6,2,UPI,Lucknow,Offline,CUST00150,Male,True,Color Mismatch,0.73,3.5,,5
+152,2025-06-02,supreme,scarf,Women,General,S,Pink,1441,30,1008.7,5,Cash,Coimbatore,App,CUST00151,Other,False,,0.0,3.5,,6
+153,2025-06-30,pantaloons,indo western,Women,General,XXL,Pink,1192,10,1072.8,5,Wallet,Kolkata,App,CUST00152,Other,True,Late Delivery,0.17,4.7,,6
+154,2025-06-28,zivame,tank top,Men,General,L,Blue,1446,0,1446.0,2,Card,Pune,App,CUST00153,Female,False,,0.0,3.1,,5
+155,2025-06-01,zouk,western wear,Kids,General,XS,Black,2678,40,1606.8,4,Card,Mumbai,App,CUST00154,Other,False,,0.0,4.1,Buy read record wall matter management ball always it.,5
+156,2025-06-04,truebrowns,bow tie,Women,General,XS,White,2646,10,2381.4,2,Cash,Gurgaon,App,CUST00155,Female,False,,0.0,3.5,Economy before while structure offer week yourself public especially American.,3
+157,2025-05-21,pantaloons,cap,Women,General,XXL,Red,1727,0,1727.0,1,Card,Indore,Offline,CUST00156,Female,False,,0.0,3.1,Million kind everything young job sport why like impact.,2
+158,2025-06-04,brand factory,cardigan,Kids,General,XXL,Pink,2816,0,2816.0,5,Card,Ahmedabad,Online,CUST00157,Other,False,,0.0,3.5,,6
+159,2025-05-14,rustorange,boots,Men,General,S,Pink,563,10,506.7,5,Cash,Patna,App,CUST00158,Female,True,Changed Mind,0.81,3.5,,4
+160,2025-05-19,asics,sling bag,Women,General,XXXL,White,2550,20,2040.0,1,Card,Nagpur,Online,CUST00159,Male,False,,0.0,4.2,,5
+161,2025-06-05,amanté,hat,Unisex,General,XS,Green,2344,30,1640.8,2,UPI,Visakhapatnam,Offline,CUST00160,Female,True,Color Mismatch,2.93,3.8,,3
+162,2025-06-12,the souled store,shoes,Men,General,XS,Green,1130,30,791.0,2,Wallet,Lucknow,Offline,CUST00161,Male,True,Defective,4.71,3.9,,1
+163,2025-06-21,nike,trousers,Women,General,L,Beige,2780,40,1668.0,5,Wallet,Hyderabad,Online,CUST00162,Male,False,,0.0,4.1,,7
+164,2025-05-31,the pant project,clutch,Kids,General,XS,Green,2193,30,1535.1,1,Cash,Noida,App,CUST00163,Male,False,,0.0,3.3,Spend nearly lawyer fire follow wife identify method.,3
+165,2025-05-04,prada,fusion wear,Men,General,S,Yellow,1629,30,1140.3,3,Wallet,Bangalore,Offline,CUST00164,Female,True,Color Mismatch,3.13,4.2,Left approach million performance material kind appear environment capital explain.,1
+166,2025-06-20,stone island,leggings,Men,General,L,Pink,2055,20,1644.0,4,UPI,Nagpur,App,CUST00165,Other,True,Changed Mind,1.6,4.9,Ahead picture son report financial add.,3
+167,2025-06-12,here & now,salwar,Kids,General,M,Green,2510,40,1506.0,2,UPI,Indore,Offline,CUST00166,Female,False,,0.0,3.2,,5
+168,2025-05-13,the label life,lehenga,Men,General,XXL,Beige,1357,30,949.9,3,Card,Nagpur,App,CUST00167,Female,True,Color Mismatch,1.51,3.5,Yeah tree left brother strategy marriage respond.,4
+169,2025-06-22,mango,watch,Kids,General,XL,Beige,2883,30,2018.1,5,Wallet,Visakhapatnam,Online,CUST00168,Female,True,Defective,3.84,4.3,Indeed lot line lead certain course out.,6
+170,2025-05-17,object,t-shirt,Kids,General,XXXL,Pink,2262,0,2262.0,1,Card,Jaipur,Online,CUST00169,Other,True,Damaged,1.87,3.9,,6
+171,2025-05-10,chanel,traditional wear,Unisex,General,XS,Beige,927,20,741.6,4,Card,Hyderabad,App,CUST00170,Male,False,,0.0,3.6,Significant take future skin environment able rise.,2
+172,2025-06-29,under armour,western wear,Kids,General,XS,Beige,2352,20,1881.6,1,UPI,Delhi,App,CUST00171,Male,True,Changed Mind,3.24,4.4,Your majority chance Mrs generation necessary myself lay focus country.,6
+173,2025-05-27,jack jones,shoes,Women,General,XL,Blue,1854,40,1112.4,4,Wallet,Ahmedabad,Offline,CUST00172,Other,True,Size Issue,3.2,3.9,Him task improve fish list tree high write society present.,5
+174,2025-05-18,lifestyle,palazzo,Kids,General,L,Black,1378,10,1240.2,3,Card,Noida,Online,CUST00173,Other,True,Changed Mind,1.63,3.9,Who call whole forward beyond suddenly between treat address.,7
+175,2025-05-17,selected,indo western,Unisex,General,XL,Yellow,2106,40,1263.6,1,UPI,Chandigarh,Offline,CUST00174,Other,True,Color Mismatch,3.53,3.6,,1
+176,2025-06-12,canada goose,leggings,Men,General,S,Green,978,10,880.2,3,Cash,Kochi,Offline,CUST00175,Female,True,Late Delivery,1.92,3.4,,6
+177,2025-05-18,y.a.s,salwar,Women,General,L,Green,1073,10,965.7,3,Wallet,Gurgaon,Online,CUST00176,Female,True,Damaged,0.68,4.6,,5
+178,2025-05-11,biba,fusion wear,Kids,General,L,Beige,2500,10,2250.0,1,Card,Patna,Online,CUST00177,Female,True,Changed Mind,1.12,3.6,,5
+179,2025-06-18,vila,fusion wear,Men,General,XL,White,1596,40,957.6,3,Card,Patna,App,CUST00178,Female,True,Damaged,0.51,4.7,,3
+180,2025-05-29,lifestyle,tshirt,Unisex,General,M,White,2297,0,2297.0,2,Cash,Raipur,App,CUST00179,Other,False,,0.0,4.7,,4
+181,2025-06-05,urbanic,kurti,Women,General,XXXL,Red,1346,0,1346.0,5,UPI,Visakhapatnam,Offline,CUST00180,Other,True,Changed Mind,4.9,3.6,,7
+182,2025-06-11,gucci,jacket,Kids,General,XS,Green,1018,10,916.2,2,Cash,Vadodara,Offline,CUST00181,Male,False,,0.0,4.0,,3
+183,2025-05-11,new balance,scarf,Kids,General,XS,White,2149,40,1289.4,3,UPI,Bhopal,Offline,CUST00182,Female,True,Color Mismatch,0.47,4.9,,6
+184,2025-06-04,rare rabbit,earrings,Men,General,XXXL,Yellow,1391,30,973.7,2,Wallet,Jaipur,Offline,CUST00183,Female,False,,0.0,4.1,Here first responsibility service their along attention piece TV young.,7
+185,2025-05-12,savlani,indo western,Unisex,General,XXL,Black,687,0,687.0,4,Card,Hyderabad,Online,CUST00184,Female,False,,0.0,3.0,,2
+186,2025-06-15,bunaai,trousers,Unisex,General,S,Green,881,20,704.8,3,Card,Chandigarh,App,CUST00185,Other,True,Defective,1.98,3.6,,2
+187,2025-05-13,tata cliq,tie,Men,General,XXL,White,503,10,452.7,4,Card,Chennai,App,CUST00186,Male,False,,0.0,3.0,,7
+188,2025-05-13,the pant project,pants,Kids,General,XXL,Blue,2455,0,2455.0,2,Wallet,Bangalore,App,CUST00187,Male,True,Changed Mind,1.84,3.6,Coach federal ahead food argue grow issue each include.,7
+189,2025-05-21,bewakoof,leggings,Women,General,XS,Black,2998,10,2698.2,4,UPI,Raipur,Online,CUST00188,Other,True,Damaged,3.08,3.9,Company participant him raise marriage on.,1
+190,2025-05-26,postfold,leggings,Men,General,XL,Yellow,1938,30,1356.6,3,Cash,Ahmedabad,Offline,CUST00189,Other,True,Size Issue,2.77,4.2,,7
+191,2025-06-17,rare rabbit,blouse,Unisex,General,S,Red,2103,20,1682.4,1,Cash,Coimbatore,Offline,CUST00190,Male,True,Damaged,3.19,3.1,,1
+192,2025-05-28,fab alley,bracelet,Unisex,General,S,Yellow,2827,30,1978.9,3,Cash,Patna,Offline,CUST00191,Male,True,Late Delivery,0.34,3.5,Effort act source top quality citizen kid generation onto.,1
+193,2025-06-14,vero moda,hat,Unisex,General,XXL,Yellow,2233,30,1563.1,1,Cash,Jaipur,Online,CUST00192,Female,True,Late Delivery,4.6,4.9,Lead few yourself table blood high grow.,3
+194,2025-06-01,carmakoma,hat,Men,General,M,Yellow,1476,0,1476.0,2,Card,Nagpur,Online,CUST00193,Female,True,Changed Mind,3.33,4.3,Against stop how account ten sing wind.,1
+195,2025-07-01,campus sutra,leggings,Men,General,S,Beige,1919,40,1151.4,5,UPI,Kolkata,Offline,CUST00194,Male,False,,0.0,4.5,Strategy total simply discover soon despite couple economy sense.,1
+196,2025-05-17,truebrowns,sling bag,Kids,General,M,White,1576,40,945.6,1,Wallet,Bhopal,App,CUST00195,Female,True,Damaged,4.3,3.3,Best physical always small almost half capital travel force indeed customer.,7
+197,2025-06-25,rangriti,coat,Men,General,S,Black,679,0,679.0,2,Card,Coimbatore,Offline,CUST00196,Female,True,Size Issue,4.66,4.7,,6
+198,2025-06-08,dolce gabbana,scarf,Unisex,General,S,Yellow,1809,20,1447.2,1,UPI,Hyderabad,App,CUST00197,Other,True,Size Issue,1.12,4.0,Maybe evening clearly trial want whose far that sound life.,4
+199,2025-05-11,bunaai,sweater,Kids,General,XXXL,Green,1771,20,1416.8,1,Wallet,Mumbai,Offline,CUST00198,Male,False,,0.0,4.1,Senior difficult put purpose however suffer.,5
+200,2025-06-27,westside,shoes,Unisex,General,XL,Beige,1299,40,779.4,2,Cash,Mumbai,Offline,CUST00199,Male,True,Late Delivery,1.73,4.7,,3
+201,2025-06-08,zivame,dress,Kids,General,XXXL,Green,924,10,831.6,5,Cash,Nagpur,Offline,CUST00200,Male,True,Color Mismatch,1.4,3.1,So add Mr lawyer pull.,7
+202,2025-05-29,campus sutra,belt,Unisex,General,L,White,2877,0,2877.0,5,Cash,Ludhiana,Offline,CUST00201,Male,True,Damaged,3.31,3.3,Herself police he push likely people wall foreign particular positive.,7
+203,2025-06-18,melange,backpack,Kids,General,XXL,Pink,1801,30,1260.7,3,Cash,Bangalore,Online,CUST00202,Male,True,Size Issue,0.53,3.9,Power bring animal also you break doctor.,1
+204,2025-06-25,here & now,earrings,Women,General,L,Green,2396,20,1916.8,1,Card,Kolkata,App,CUST00203,Female,True,Size Issue,4.18,3.7,Home he we recent music onto.,2
+205,2025-05-19,jordan,earrings,Men,General,XXL,Green,1564,10,1407.6,1,Wallet,Bhopal,App,CUST00204,Other,True,Defective,2.31,4.6,Pressure street past voice evidence real describe know door.,1
+206,2025-06-08,alkemi,crop top,Women,General,S,Red,2139,20,1711.2,1,UPI,Bangalore,Online,CUST00205,Male,True,Color Mismatch,2.22,3.3,,7
+207,2025-05-13,tommy hilfiger,sling bag,Men,General,L,Black,1187,40,712.2,4,Wallet,Coimbatore,Online,CUST00206,Female,False,,0.0,3.3,Name within grow huge couple business summer lawyer.,2
+208,2025-05-24,moschino,boots,Kids,General,S,Black,1505,20,1204.0,4,Wallet,Visakhapatnam,Offline,CUST00207,Male,True,Changed Mind,1.92,3.8,,7
+209,2025-06-30,snitch,shoes,Men,General,L,Pink,2463,40,1477.8,4,UPI,Noida,App,CUST00208,Female,False,,0.0,3.5,Anything four writer skin.,5
+210,2025-05-23,ajio,scarf,Unisex,General,XS,Beige,2667,20,2133.6,5,Cash,Kolkata,Online,CUST00209,Male,True,Changed Mind,2.67,4.6,,7
+211,2025-05-10,mamalicious,scarf,Kids,General,M,Blue,1220,10,1098.0,5,UPI,Raipur,App,CUST00210,Female,True,Color Mismatch,3.5,4.9,,5
+212,2025-06-26,nush,anarkali,Kids,General,XL,Green,1218,30,852.6,1,Card,Delhi,Online,CUST00211,Other,True,Defective,2.63,3.0,,2
+213,2025-05-24,columbia,trousers,Women,General,XXXL,Pink,742,0,742.0,2,Cash,Patna,Online,CUST00212,Other,False,,0.0,4.9,Democratic thank forget challenge too able teach certain candidate economy.,6
+214,2025-05-20,carmakoma,hat,Men,General,M,Green,1820,10,1638.0,2,Wallet,Ludhiana,Offline,CUST00213,Other,False,,0.0,3.3,,6
+215,2025-05-14,dolce gabbana,earrings,Women,General,L,Green,1705,10,1534.5,2,Card,Vadodara,App,CUST00214,Female,True,Size Issue,3.01,4.8,,2
+216,2025-05-06,fab alley,coat,Kids,General,S,Pink,817,10,735.3,3,UPI,Kolkata,App,CUST00215,Male,False,,0.0,3.9,Address so draw food company appear.,2
+217,2025-06-13,under armour,sweater,Unisex,General,XXXL,White,504,0,504.0,4,Wallet,Raipur,Offline,CUST00216,Male,False,,0.0,4.0,Box as large gun order later develop past road training.,5
+218,2025-06-23,adidas,watch,Kids,General,XXXL,Red,1165,30,815.5,1,Card,Surat,Online,CUST00217,Female,False,,0.0,4.9,Leader who article look husband rather make.,2
+219,2025-06-16,dior,watch,Men,General,XL,White,1883,40,1129.8,5,Wallet,Vadodara,Online,CUST00218,Female,True,Late Delivery,4.45,3.3,Tonight focus chance call person.,2
+220,2025-06-29,biba,anarkali,Unisex,General,XXL,Green,1717,10,1545.3,1,Card,Indore,App,CUST00219,Other,False,,0.0,3.3,Republican herself our far measure involve soldier boy pressure there.,4
+221,2025-06-26,supreme,blazer,Kids,General,S,White,604,10,543.6,2,UPI,Bangalore,Offline,CUST00220,Male,False,,0.0,4.6,Involve thousand including still human role.,6
+222,2025-06-03,nike,sneakers,Kids,General,S,Pink,2061,20,1648.8,2,Wallet,Delhi,Offline,CUST00221,Female,False,,0.0,3.5,,5
+223,2025-06-14,chanel,crop top,Men,General,XS,Pink,2716,30,1901.2,5,Cash,Visakhapatnam,Online,CUST00222,Female,False,,0.0,4.9,,4
+224,2025-06-03,reliance trends,shawl,Unisex,General,XS,Yellow,641,40,384.6,5,Cash,Hyderabad,Offline,CUST00223,Male,True,Size Issue,4.04,3.3,Hear check type attack story behavior benefit.,6
+225,2025-06-09,burberry,bow tie,Women,General,XXXL,Green,1808,0,1808.0,1,Wallet,Visakhapatnam,Offline,CUST00224,Other,False,,0.0,4.7,,7
+226,2025-05-16,savlani,top,Kids,General,XS,Yellow,1111,10,999.9,5,Card,Hyderabad,App,CUST00225,Male,False,,0.0,4.7,,4
+227,2025-06-27,asics,sneakers,Kids,General,XL,Beige,652,10,586.8,3,Wallet,Chennai,App,CUST00226,Other,False,,0.0,3.1,,3
+228,2025-05-09,flipkart,shawl,Kids,General,M,Pink,581,20,464.8,3,UPI,Jaipur,Offline,CUST00227,Other,True,Size Issue,0.67,4.9,What no prove improve them wait institution trouble anything explain.,7
+229,2025-06-03,fendi,clutch,Kids,General,XL,White,1268,30,887.6,2,Wallet,Raipur,Offline,CUST00228,Other,False,,0.0,4.6,,2
+230,2025-06-07,moncler,sweater,Kids,General,S,Black,1210,10,1089.0,2,Card,Ahmedabad,Online,CUST00229,Female,True,Changed Mind,3.52,3.5,,5
+231,2025-05-14,daisy,hat,Men,General,XXL,Black,1489,20,1191.2,4,Wallet,Kolkata,Offline,CUST00230,Other,False,,0.0,3.7,,3
+232,2025-06-29,off white,blazer,Men,General,L,Black,1166,40,699.6,2,Cash,Ludhiana,Online,CUST00231,Other,True,Changed Mind,3.26,4.0,,7
+233,2025-06-22,reliance trends,top,Women,General,XXL,Blue,2961,0,2961.0,2,UPI,Gurgaon,Offline,CUST00232,Other,False,,0.0,3.8,Choice lot suggest glass news boy.,3
+234,2025-05-31,bottega veneta,casual wear,Women,General,L,Green,2631,40,1578.6,4,Card,Mumbai,App,CUST00233,Other,False,,0.0,4.1,,3
+235,2025-06-28,the label life,purse,Men,General,L,White,1876,20,1500.8,3,UPI,Jaipur,App,CUST00234,Other,False,,0.0,3.4,,2
+236,2025-05-25,truebrowns,crop top,Kids,General,XXL,Pink,1072,0,1072.0,4,UPI,Jaipur,Offline,CUST00235,Female,False,,0.0,4.5,,5
+237,2025-06-14,columbia,anarkali,Women,General,XXL,Beige,1967,40,1180.2,3,Cash,Kanpur,App,CUST00236,Male,False,,0.0,3.2,Window stand party poor ago upon stop environment Congress reflect.,3
+238,2025-06-02,lavie,lehenga,Unisex,General,XXL,White,1409,20,1127.2,2,UPI,Nagpur,Offline,CUST00237,Female,False,,0.0,4.2,Go consider century price attorney scientist will begin.,1
+239,2025-06-24,flipkart,ethnic wear,Men,General,L,Red,2548,0,2548.0,4,UPI,Nagpur,Online,CUST00238,Male,True,Size Issue,1.71,5.0,,4
+240,2025-05-24,canada goose,shorts,Women,General,XXXL,White,2496,20,1996.8,2,UPI,Ludhiana,Online,CUST00239,Male,False,,0.0,3.5,,2
+241,2025-06-09,central,saree,Men,General,S,Yellow,2257,30,1579.9,4,Wallet,Indore,Online,CUST00240,Male,True,Color Mismatch,1.87,3.0,Law church find food walk other third choose senior.,7
+242,2025-05-08,myntra,anarkali,Men,General,XXL,Red,1425,20,1140.0,3,Cash,Hyderabad,Offline,CUST00241,Other,False,,0.0,3.3,,3
+243,2025-05-11,pantaloons,bag,Unisex,General,L,Blue,1902,30,1331.4,3,Cash,Kolkata,Offline,CUST00242,Male,True,Size Issue,3.64,3.3,,5
+244,2025-05-30,versace,traditional wear,Men,General,M,Black,2035,20,1628.0,5,Card,Gurgaon,Online,CUST00243,Other,True,Color Mismatch,4.18,3.1,Product magazine kind event sense box involve exist question.,4
+245,2025-06-20,tommy hilfiger,watch,Unisex,General,L,Blue,1340,0,1340.0,3,Wallet,Kanpur,Online,CUST00244,Other,False,,0.0,4.2,,4
+246,2025-06-24,only,coat,Men,General,M,White,934,30,653.8,2,Cash,Patna,Offline,CUST00245,Other,True,Changed Mind,3.52,3.6,Animal house out account feeling deep case.,4
+247,2025-05-28,styched,churidar,Kids,General,M,Red,510,0,510.0,1,Card,Noida,App,CUST00246,Female,True,Defective,3.9,3.2,,3
+248,2025-06-01,pantaloons,stole,Unisex,General,M,Beige,704,0,704.0,2,Card,Surat,Offline,CUST00247,Other,False,,0.0,3.9,Build market issue can mouth discover next property.,7
+249,2025-06-07,h&m,t-shirt,Women,General,XXL,Blue,1845,20,1476.0,4,UPI,Raipur,Online,CUST00248,Female,False,,0.0,3.4,However score job least back.,4
+250,2025-06-03,alkemi,sandals,Kids,General,XXL,Beige,2226,10,2003.4,1,Cash,Vadodara,App,CUST00249,Male,True,Defective,2.08,4.2,,6
+251,2025-06-28,louis vuitton,suit,Kids,General,XXXL,Pink,617,10,555.3,4,Wallet,Hyderabad,Offline,CUST00250,Female,True,Defective,1.31,3.6,,6
+252,2025-06-14,mast and harbour,scarf,Unisex,General,XL,White,2271,10,2043.9,4,UPI,Kanpur,App,CUST00251,Other,False,,0.0,3.3,,5
+253,2025-06-28,h&m,tank top,Women,General,XL,Beige,2529,10,2276.1,1,Wallet,Lucknow,Online,CUST00252,Female,False,,0.0,3.1,Remember individual boy again foot soon peace story.,6
+254,2025-06-08,yeezy,watch,Women,General,XS,Beige,2318,40,1390.8,4,Card,Coimbatore,Offline,CUST00253,Female,True,Damaged,3.73,3.0,Join black job hundred bad.,1
+255,2025-06-03,koovs,dress,Men,General,XXXL,Green,2581,40,1548.6,2,Wallet,Lucknow,Offline,CUST00254,Male,True,Damaged,1.66,4.5,,6
+256,2025-06-05,the souled store,bracelet,Kids,General,XS,White,1407,0,1407.0,3,UPI,Ludhiana,Offline,CUST00255,Other,False,,0.0,4.4,Four collection member box member town glass.,2
+257,2025-05-18,gucci,fusion wear,Kids,General,XS,Green,1301,10,1170.9,1,Wallet,Pune,Offline,CUST00256,Male,False,,0.0,3.2,Bill eight community check service away week.,6
+258,2025-06-20,clovia,pants,Kids,General,L,Blue,2542,0,2542.0,5,Card,Visakhapatnam,Offline,CUST00257,Other,False,,0.0,4.8,,2
+259,2025-06-18,tistabene,salwar,Women,General,XS,Yellow,2958,40,1774.8,3,Wallet,Nagpur,App,CUST00258,Other,True,Changed Mind,1.99,3.7,Service large under north play person ten physical character attention.,7
+260,2025-06-15,gucci,leggings,Kids,General,XL,Green,2742,20,2193.6,5,Cash,Pune,Online,CUST00259,Other,False,,0.0,4.4,,2
+261,2025-06-02,vero moda,salwar,Unisex,General,XXL,White,1941,40,1164.6,4,Wallet,Kanpur,App,CUST00260,Other,False,,0.0,4.8,Option goal avoid left also hard expert.,1
+262,2025-05-12,ajio,coat,Kids,General,S,Black,730,10,657.0,3,Cash,Surat,App,CUST00261,Female,True,Defective,3.45,3.6,,1
+263,2025-07-02,paul and shark,earrings,Kids,General,XS,Red,2797,30,1957.9,2,UPI,Vadodara,App,CUST00262,Male,False,,0.0,3.8,,6
+264,2025-06-30,here & now,backpack,Men,General,XS,Green,1330,40,798.0,4,Cash,Ludhiana,App,CUST00263,Other,False,,0.0,4.5,,5
+265,2025-06-22,amanté,palazzo,Women,General,M,Beige,1225,0,1225.0,2,Cash,Raipur,App,CUST00264,Male,False,,0.0,3.1,Leg never social time last special prepare focus.,3
+266,2025-06-19,dior,trousers,Unisex,General,XS,Pink,2409,10,2168.1,1,Cash,Lucknow,App,CUST00265,Male,False,,0.0,4.0,,3
+267,2025-06-21,savlani,hoodie,Unisex,General,XL,Red,1252,40,751.2,1,Cash,Nagpur,App,CUST00266,Other,False,,0.0,3.2,Whatever late specific study word base.,2
+268,2025-05-20,north face,sling bag,Unisex,General,M,Red,2671,30,1869.7,5,Card,Hyderabad,App,CUST00267,Female,False,,0.0,3.5,,5
+269,2025-05-07,mast and harbour,shoes,Men,General,XXL,Pink,2061,0,2061.0,4,UPI,Visakhapatnam,App,CUST00268,Female,True,Late Delivery,4.11,3.7,,4
+270,2025-05-28,amazon,indo western,Unisex,General,XXL,Red,1811,40,1086.6,1,Card,Kolkata,App,CUST00269,Other,True,Color Mismatch,0.33,4.3,,7
+271,2025-06-15,alkemi,tie,Men,General,S,Yellow,794,10,714.6,1,Wallet,Vadodara,Offline,CUST00270,Male,True,Defective,0.27,4.6,,5
+272,2025-06-15,aachho,stole,Unisex,General,L,Yellow,2346,30,1642.2,4,UPI,Mumbai,Offline,CUST00271,Other,True,Late Delivery,0.03,4.4,Mission city health executive impact full our smile positive at.,6
+273,2025-05-13,campus sutra,t-shirt,Men,General,M,White,1686,20,1348.8,5,Card,Surat,Offline,CUST00272,Female,False,,0.0,4.6,Question exist rich prevent trade their four old center glass.,2
+274,2025-06-11,gucci,scarf,Kids,General,XXXL,Green,1089,20,871.2,3,Card,Visakhapatnam,App,CUST00273,Male,True,Defective,0.03,4.2,,1
+275,2025-05-16,ralph lauren,handbag,Unisex,General,S,Yellow,2598,10,2338.2,2,Cash,Ahmedabad,App,CUST00274,Female,True,Defective,0.91,4.6,,7
+276,2025-06-30,bewakoof,party wear,Men,General,M,White,1525,0,1525.0,2,Wallet,Lucknow,Offline,CUST00275,Male,True,Defective,1.43,3.1,Finally heavy social spend prove.,4
+277,2025-06-24,north face,formal wear,Unisex,General,XXL,Blue,2815,40,1689.0,3,UPI,Nagpur,Online,CUST00276,Male,False,,0.0,3.5,Position interest gun guy Congress.,6
+278,2025-05-24,moschino,bow tie,Unisex,General,S,Pink,2464,30,1724.8,4,UPI,Patna,Offline,CUST00277,Female,True,Size Issue,3.23,3.2,Way main difficult case baby such big side.,7
+279,2025-06-24,rangriti,leggings,Women,General,M,White,807,0,807.0,5,Card,Noida,App,CUST00278,Female,True,Defective,2.76,4.1,,4
+280,2025-05-07,converse,skirt,Kids,General,S,Green,1047,30,732.9,5,Card,Indore,Offline,CUST00279,Other,True,Color Mismatch,1.19,4.9,,6
+281,2025-06-05,postfold,kurti,Women,General,L,Blue,1232,40,739.2,5,Cash,Raipur,App,CUST00280,Female,False,,0.0,3.1,,2
+282,2025-05-16,celine,sweater,Unisex,General,S,Black,1345,40,807.0,3,Wallet,Coimbatore,Offline,CUST00281,Male,True,Color Mismatch,1.62,4.4,,7
+283,2025-06-30,alkemi,boots,Unisex,General,XL,Blue,2041,30,1428.7,3,Card,Kochi,Offline,CUST00282,Female,True,Late Delivery,2.03,4.6,Child Congress realize person total return analysis hair.,7
+284,2025-05-27,libas,western wear,Men,General,XL,Blue,2300,10,2070.0,2,Card,Kochi,App,CUST00283,Female,True,Size Issue,0.93,3.7,,1
+285,2025-06-16,w,stole,Unisex,General,XXL,White,2471,30,1729.7,4,Cash,Noida,Online,CUST00284,Other,False,,0.0,3.0,Expect security large move finally speak light strong happy water worker.,5
+286,2025-06-17,gucci,saree,Men,General,XL,Blue,728,10,655.2,3,Cash,Kochi,Offline,CUST00285,Other,True,Color Mismatch,3.64,4.6,,2
+287,2025-05-31,jdy,formal wear,Kids,General,XXXL,Beige,1197,10,1077.3,4,Cash,Noida,Online,CUST00286,Other,False,,0.0,3.3,,4
+288,2025-06-10,valentino,sweater,Kids,General,L,Blue,943,0,943.0,2,Wallet,Chennai,App,CUST00287,Male,True,Damaged,4.51,4.2,,5
+289,2025-06-21,postfold,traditional wear,Men,General,XS,Beige,1032,40,619.2,5,Card,Patna,App,CUST00288,Other,False,,0.0,4.0,Industry class current painting their appear lose he various represent.,1
+290,2025-06-23,valentino,tie,Kids,General,XXXL,Yellow,1934,40,1160.4,5,Card,Nagpur,Online,CUST00289,Female,False,,0.0,4.5,,1
+291,2025-05-16,noisy may,flats,Kids,General,M,Red,521,0,521.0,5,Card,Kochi,Online,CUST00290,Female,True,Color Mismatch,4.02,3.8,Base civil last message store begin treat.,4
+292,2025-06-16,celine,heels,Kids,General,XL,Pink,1627,30,1138.9,2,Wallet,Visakhapatnam,App,CUST00291,Female,True,Changed Mind,2.8,4.0,,5
+293,2025-06-06,amanté,necklace,Kids,General,XXL,Blue,986,10,887.4,4,Cash,Hyderabad,Online,CUST00292,Other,False,,0.0,4.6,,5
+294,2025-05-06,dior,tank top,Kids,General,XXL,Black,872,10,784.8,4,Wallet,Bangalore,Online,CUST00293,Female,True,Changed Mind,0.4,3.1,Apply maybe dog yes heart agreement us stuff practice.,4
+295,2025-05-18,the souled store,flats,Men,General,XXXL,Blue,2523,30,1766.1,1,Cash,Kanpur,App,CUST00294,Female,True,Defective,3.92,4.0,,5
+296,2025-05-17,house of masaba,kurti,Men,General,M,Red,500,10,450.0,1,UPI,Patna,Offline,CUST00295,Female,False,,0.0,3.8,Expert stop receive catch relationship.,1
+297,2025-06-16,indya,sweater,Men,General,XL,Green,2789,40,1673.4,3,UPI,Jaipur,Online,CUST00296,Other,True,Damaged,4.65,4.1,Accept bad eight strong nature road month book explain feeling answer.,4
+298,2025-06-13,puma,traditional wear,Men,General,XL,Green,1891,0,1891.0,5,UPI,Visakhapatnam,App,CUST00297,Female,False,,0.0,4.9,,7
+299,2025-06-17,postfold,shoes,Unisex,General,XXXL,Beige,2386,40,1431.6,1,Wallet,Hyderabad,Offline,CUST00298,Male,False,,0.0,4.3,,6
+300,2025-05-10,fable street,stole,Unisex,General,L,Pink,2614,40,1568.4,1,UPI,Ahmedabad,Offline,CUST00299,Male,False,,0.0,4.3,,1
+301,2025-05-14,reliance trends,salwar,Unisex,General,M,Red,2848,20,2278.4,2,Cash,Coimbatore,App,CUST00300,Male,True,Color Mismatch,1.21,3.5,Others administration middle drop century investment pass drive indicate.,7
+302,2025-05-12,nush,shoes,Unisex,General,S,White,990,0,990.0,4,Card,Patna,App,CUST00301,Male,False,,0.0,3.7,Window attack moment medical write never hospital like player wonder.,5
+303,2025-05-28,central,boots,Women,General,XXXL,Green,2128,10,1915.2,5,Cash,Delhi,App,CUST00302,Female,False,,0.0,4.9,Ground attack drop price.,3
+304,2025-05-14,the pant project,hat,Women,General,L,White,2621,30,1834.7,3,Card,Mumbai,App,CUST00303,Male,False,,0.0,4.2,Same forward and national spend compare single let receive place.,5
+305,2025-05-17,louis vuitton,sneakers,Unisex,General,S,Green,2429,40,1457.4,3,UPI,Kolkata,Offline,CUST00304,Female,True,Damaged,3.5,3.7,,3
+306,2025-05-10,louis vuitton,formal wear,Women,General,XL,Red,908,20,726.4,2,Wallet,Indore,Online,CUST00305,Male,True,Damaged,4.03,3.4,Already cut social though firm financial huge spring list.,7
+307,2025-05-07,savlani,backpack,Kids,General,M,Green,2801,40,1680.6,1,Wallet,Hyderabad,App,CUST00306,Male,True,Size Issue,4.07,4.0,,4
+308,2025-05-22,celine,sling bag,Unisex,General,M,Green,1908,0,1908.0,4,Card,Chandigarh,App,CUST00307,Other,True,Late Delivery,2.88,4.3,Ground sit tend forward buy happy threat.,7
+309,2025-06-15,reebok,flats,Unisex,General,XXL,Beige,2329,0,2329.0,4,UPI,Bhopal,App,CUST00308,Male,True,Color Mismatch,4.04,3.7,,5
+310,2025-06-10,rare rabbit,cap,Men,General,XS,Blue,1906,10,1715.4,3,UPI,Ludhiana,Offline,CUST00309,Other,False,,0.0,4.2,Wind many marriage under mind song risk bad.,4
+311,2025-07-01,folklore,bracelet,Kids,General,L,Blue,1252,0,1252.0,2,Cash,Kanpur,Offline,CUST00310,Other,True,Size Issue,0.83,3.2,Nation fly bag produce fill owner.,4
+312,2025-06-14,ajio,tank top,Kids,General,XL,White,924,20,739.2,5,Cash,Bangalore,App,CUST00311,Female,False,,0.0,3.5,,4
+313,2025-05-20,calvin klein,trousers,Women,General,XS,Black,1960,20,1568.0,4,Wallet,Visakhapatnam,Offline,CUST00312,Other,False,,0.0,3.3,,5
+314,2025-06-16,carmakoma,salwar,Kids,General,XXL,Yellow,2643,40,1585.8,3,UPI,Coimbatore,App,CUST00313,Male,True,Damaged,1.54,3.8,Language risk treatment past itself police social arm.,1
+315,2025-06-12,jack jones,dress,Women,General,M,Green,2420,40,1452.0,1,Wallet,Patna,Offline,CUST00314,Female,True,Damaged,3.99,4.2,,5
+316,2025-06-08,hermes,ring,Kids,General,XL,Yellow,2115,10,1903.5,2,Wallet,Indore,Online,CUST00315,Female,True,Damaged,3.13,4.0,,5
+317,2025-06-22,off white,sandals,Unisex,General,L,Red,779,10,701.1,2,UPI,Hyderabad,App,CUST00316,Female,False,,0.0,3.5,,2
+318,2025-05-19,myntra,clutch,Women,General,XS,Black,1260,0,1260.0,3,UPI,Chennai,App,CUST00317,Female,True,Size Issue,0.45,3.0,Central parent sit alone attack.,4
+319,2025-06-08,savlani,handbag,Kids,General,M,Beige,628,20,502.4,1,Cash,Delhi,Offline,CUST00318,Female,True,Late Delivery,2.35,3.4,,7
+320,2025-06-08,alkemi,watch,Men,General,XS,Red,2075,30,1452.5,2,Card,Pune,Offline,CUST00319,Other,True,Late Delivery,3.33,3.4,We allow check last he know baby case.,3
+321,2025-06-08,dior,clutch,Men,General,XXL,White,1536,30,1075.2,3,Cash,Chandigarh,Online,CUST00320,Other,True,Defective,1.18,3.9,Fire everything whether ago control military trial brother.,7
+322,2025-05-29,junarose,boots,Men,General,L,Red,535,0,535.0,5,Wallet,Vadodara,App,CUST00321,Male,False,,0.0,4.5,Democrat partner really your customer career available common require.,4
+323,2025-05-12,the label life,blazer,Unisex,General,XXXL,Black,743,20,594.4,2,Card,Chennai,Offline,CUST00322,Male,False,,0.0,5.0,,7
+324,2025-06-04,truebrowns,necklace,Kids,General,XXL,Red,586,30,410.2,3,Cash,Jaipur,Online,CUST00323,Female,False,,0.0,4.1,,4
+325,2025-06-06,object,anarkali,Women,General,XL,Pink,1824,30,1276.8,3,Cash,Bangalore,App,CUST00324,Male,False,,0.0,3.6,Nearly face feel church remember.,3
+326,2025-05-20,zara,casual wear,Kids,General,XXL,Blue,575,40,345.0,3,Cash,Lucknow,App,CUST00325,Male,False,,0.0,3.4,,7
+327,2025-06-08,urbanic,skirt,Unisex,General,M,Yellow,1818,0,1818.0,1,Card,Delhi,Online,CUST00326,Male,True,Size Issue,0.54,3.4,Difference world society door management guess occur level work candidate.,6
+328,2025-05-12,zouk,sunglasses,Kids,General,XL,Green,700,20,560.0,2,Card,Mumbai,Online,CUST00327,Other,False,,0.0,4.9,,4
+329,2025-05-10,converse,crop top,Kids,General,XXXL,Pink,737,40,442.2,3,Card,Raipur,Online,CUST00328,Female,True,Size Issue,4.8,3.2,,5
+330,2025-06-03,hermes,sunglasses,Women,General,XL,Red,2833,10,2549.7,5,Wallet,Raipur,Online,CUST00329,Other,False,,0.0,4.3,,4
+331,2025-06-11,versace,coat,Women,General,XL,Yellow,2566,20,2052.8,2,Wallet,Chandigarh,Offline,CUST00330,Other,False,,0.0,4.7,Moment shoulder statement available win politics last quite general.,6
+332,2025-06-26,koovs,bow tie,Unisex,General,XL,Red,2805,40,1683.0,2,Wallet,Patna,App,CUST00331,Other,False,,0.0,3.7,Consider whom item treat area buy check clearly follow remember.,4
+333,2025-06-06,march tee,dress,Men,General,M,Black,2619,10,2357.1,3,Card,Surat,Online,CUST00332,Male,False,,0.0,3.0,,6
+334,2025-06-23,indya,boots,Women,General,XS,Black,2384,20,1907.2,2,Cash,Jaipur,Offline,CUST00333,Other,True,Size Issue,1.28,3.6,,5
+335,2025-05-31,tistabene,dupatta,Men,General,XXL,Pink,2475,10,2227.5,4,Card,Gurgaon,App,CUST00334,Female,True,Color Mismatch,4.04,3.8,,7
+336,2025-05-11,under armour,sling bag,Kids,General,L,White,1427,40,856.2,1,Wallet,Delhi,Offline,CUST00335,Other,True,Changed Mind,2.7,3.3,,2
+337,2025-05-28,flipkart,skirt,Kids,General,L,White,1408,30,985.6,3,Wallet,Chennai,Online,CUST00336,Female,True,Damaged,2.86,3.1,Play nearly by field move maybe.,1
+338,2025-05-20,vero moda,cap,Kids,General,XXXL,Blue,1051,30,735.7,5,Cash,Coimbatore,Offline,CUST00337,Other,True,Late Delivery,3.08,4.5,Walk child probably result painting successful nor stay agreement animal.,1
+339,2025-06-28,amanté,sandals,Kids,General,M,White,959,30,671.3,4,UPI,Chandigarh,Online,CUST00338,Female,False,,0.0,4.2,Prepare short indicate police marriage phone face.,3
+340,2025-06-02,under armour,kurti,Kids,General,XL,Blue,2303,0,2303.0,2,Cash,Kanpur,Offline,CUST00339,Male,True,Defective,3.7,3.5,,2
+341,2025-06-19,h&m,flats,Unisex,General,XXL,White,1748,30,1223.6,4,Card,Lucknow,Online,CUST00340,Other,True,Size Issue,2.73,4.5,,5
+342,2025-05-27,styched,shorts,Men,General,L,Black,1545,10,1390.5,1,UPI,Pune,App,CUST00341,Other,False,,0.0,3.1,,1
+343,2025-06-12,asics,sweater,Unisex,General,XXL,Pink,940,0,940.0,3,Wallet,Ahmedabad,Offline,CUST00342,Other,True,Changed Mind,2.42,4.2,Law read citizen indeed less future century.,2
+344,2025-06-04,here & now,traditional wear,Kids,General,XL,Black,661,10,594.9,5,UPI,Lucknow,Offline,CUST00343,Female,True,Defective,1.73,3.7,,2
+345,2025-06-06,moschino,traditional wear,Men,General,XXL,Green,2084,0,2084.0,5,UPI,Ahmedabad,Online,CUST00344,Female,False,,0.0,4.3,Candidate have no five letter environment easy best.,4
+346,2025-06-01,w,stole,Women,General,XL,Blue,2245,20,1796.0,5,UPI,Bhopal,App,CUST00345,Male,True,Color Mismatch,0.69,4.1,,7
+347,2025-06-10,moncler,leggings,Women,General,L,Blue,2812,10,2530.8,3,Card,Visakhapatnam,App,CUST00346,Other,True,Size Issue,1.59,4.8,,7
+348,2025-07-02,bunaai,backpack,Kids,General,L,Green,2313,20,1850.4,2,Cash,Hyderabad,Online,CUST00347,Male,True,Late Delivery,3.08,4.2,,5
+349,2025-06-13,valentino,stole,Men,General,M,White,2451,10,2205.9,5,Wallet,Vadodara,App,CUST00348,Female,True,Damaged,2.46,3.3,While total spend value return couple city.,1
+350,2025-06-22,zivame,belt,Men,General,M,Yellow,1410,10,1269.0,2,Card,Kolkata,Offline,CUST00349,Other,False,,0.0,4.4,,2
+351,2025-06-18,yeezy,tie,Men,General,XL,Yellow,1780,30,1246.0,5,Card,Kochi,Online,CUST00350,Female,False,,0.0,4.7,These market bed hotel lead drive on any example.,2
+352,2025-07-01,nush,hat,Men,General,XL,Yellow,2613,0,2613.0,2,UPI,Bhopal,Offline,CUST00351,Female,False,,0.0,3.9,Experience account blue care enough hand idea and anything.,5
+353,2025-06-27,styched,tank top,Women,General,L,Beige,869,40,521.4,1,Cash,Patna,App,CUST00352,Other,True,Damaged,2.07,3.9,Guy eye hit late near stay.,5
+354,2025-07-02,bunaai,palazzo,Kids,General,XS,Green,1826,10,1643.4,1,Card,Hyderabad,App,CUST00353,Female,False,,0.0,3.2,,6
+355,2025-05-15,new balance,saree,Kids,General,XS,Blue,1871,40,1122.6,2,Cash,Chennai,Online,CUST00354,Other,True,Damaged,1.54,4.5,,3
+356,2025-05-16,tommy hilfiger,lehenga,Women,General,S,Black,1535,0,1535.0,4,Wallet,Coimbatore,App,CUST00355,Male,False,,0.0,3.5,,4
+357,2025-05-13,biba,casual wear,Kids,General,XS,Black,1501,40,900.6,3,Cash,Delhi,Online,CUST00356,Male,True,Color Mismatch,1.75,3.3,Health would newspaper hand certain own husband American.,5
+358,2025-05-07,north face,purse,Men,General,XS,White,2206,10,1985.4,2,UPI,Gurgaon,App,CUST00357,Other,True,Damaged,3.75,3.7,Require sound mind chance throw cause.,7
+359,2025-07-02,patagonia,purse,Unisex,General,L,White,2249,40,1349.4,1,UPI,Coimbatore,Online,CUST00358,Male,False,,0.0,3.7,Class wrong school federal from stock mother remember.,2
+360,2025-06-02,urbanic,churidar,Men,General,XS,White,2480,40,1488.0,3,Wallet,Gurgaon,Offline,CUST00359,Female,False,,0.0,4.9,,4
+361,2025-06-19,brand factory,fusion wear,Women,General,XL,Red,1688,10,1519.2,1,Card,Mumbai,Offline,CUST00360,Other,True,Color Mismatch,4.24,4.6,,4
+362,2025-05-05,north face,t-shirt,Unisex,General,XL,Red,545,10,490.5,3,UPI,Bangalore,Offline,CUST00361,Female,False,,0.0,4.5,Former body indicate film together the picture others.,3
+363,2025-05-29,jordan,jewelry,Men,General,XXXL,Blue,1293,20,1034.4,3,Wallet,Coimbatore,Online,CUST00362,Other,True,Damaged,0.78,3.9,,3
+364,2025-06-29,savlani,party wear,Kids,General,XXL,Black,2633,20,2106.4,5,UPI,Visakhapatnam,App,CUST00363,Male,True,Late Delivery,3.43,4.6,,3
+365,2025-06-29,chanel,sweater,Unisex,General,XXXL,Black,1888,30,1321.6,5,Cash,Noida,App,CUST00364,Female,True,Late Delivery,0.58,4.6,Return on color pick people subject challenge.,7
+366,2025-05-27,ek by ekta kapoor,backpack,Men,General,M,Yellow,854,30,597.8,2,UPI,Bhopal,Offline,CUST00365,Male,False,,0.0,3.4,Occur red course kid industry.,1
+367,2025-06-13,aachho,palazzo,Men,General,L,Black,2475,40,1485.0,2,Cash,Lucknow,Offline,CUST00366,Other,False,,0.0,4.6,Improve simple turn their save artist.,7
+368,2025-05-17,koovs,jacket,Women,General,S,Black,2380,30,1666.0,5,Card,Mumbai,Offline,CUST00367,Male,True,Changed Mind,2.33,3.1,,6
+369,2025-06-23,myntra,handbag,Unisex,General,XXL,Red,1813,10,1631.7,2,UPI,Jaipur,App,CUST00368,Female,False,,0.0,4.3,Night your long heavy what least.,2
+370,2025-06-24,levis,boots,Men,General,XL,White,1345,40,807.0,3,UPI,Jaipur,Online,CUST00369,Other,False,,0.0,4.1,National put test race sound enough machine whatever.,3
+371,2025-05-31,name it,jewelry,Kids,General,XS,Blue,617,30,431.9,1,Card,Indore,Online,CUST00370,Male,False,,0.0,3.8,,5
+372,2025-06-27,urbanic,formal wear,Unisex,General,M,Pink,1310,40,786.0,1,Wallet,Noida,Online,CUST00371,Male,False,,0.0,3.2,Different win father eye debate relate first.,6
+373,2025-06-06,reliance trends,party wear,Women,General,S,Blue,1555,20,1244.0,4,Cash,Vadodara,App,CUST00372,Female,False,,0.0,3.9,Value somebody event business quality here woman stand west source.,4
+374,2025-06-01,under armour,jeans,Kids,General,L,Blue,1655,20,1324.0,5,Cash,Kochi,Online,CUST00373,Female,True,Changed Mind,2.78,3.1,Explain research get kind either.,4
+375,2025-06-19,carmakoma,cap,Kids,General,S,Red,2743,10,2468.7,4,Wallet,Bangalore,Offline,CUST00374,Male,False,,0.0,4.6,Dark Mrs usually receive case past.,7
+376,2025-06-29,name it,jewelry,Women,General,S,White,2850,30,1995.0,1,Wallet,Lucknow,App,CUST00375,Male,False,,0.0,3.4,,1
+377,2025-05-27,the label life,coat,Kids,General,M,Beige,750,0,750.0,2,Cash,Noida,App,CUST00376,Male,True,Color Mismatch,0.75,4.1,Anything toward difficult do beyond form line.,5
+378,2025-05-17,burberry,formal wear,Women,General,XXL,Pink,1726,40,1035.6,3,Wallet,Vadodara,Offline,CUST00377,Male,True,Late Delivery,4.93,3.8,Who within citizen present.,3
+379,2025-06-19,vans,crop top,Men,General,XS,Pink,948,20,758.4,1,Cash,Nagpur,App,CUST00378,Other,False,,0.0,4.3,,4
+380,2025-06-19,fabindia,watch,Women,General,XXL,Blue,2444,10,2199.6,2,Wallet,Chandigarh,Offline,CUST00379,Male,False,,0.0,5.0,,2
+381,2025-05-23,mango,top,Men,General,S,Beige,2287,10,2058.3,1,Cash,Ludhiana,Offline,CUST00380,Female,False,,0.0,4.2,Fly position traditional become off movement rich.,4
+382,2025-05-07,asics,formal wear,Unisex,General,S,Blue,2238,40,1342.8,1,Wallet,Raipur,Online,CUST00381,Other,False,,0.0,3.8,,3
+383,2025-05-20,nykaa,tshirt,Kids,General,XXL,Pink,962,40,577.2,4,Card,Chennai,App,CUST00382,Other,False,,0.0,3.9,Think compare try young however many view while unit.,5
+384,2025-05-07,saint laurent,blazer,Kids,General,XXL,White,2707,40,1624.2,3,Card,Lucknow,App,CUST00383,Male,False,,0.0,3.9,,5
+385,2025-05-04,w,sling bag,Unisex,General,XXXL,Green,1683,10,1514.7,1,UPI,Raipur,App,CUST00384,Female,True,Color Mismatch,2.37,3.3,Nothing blue work expect writer myself management.,3
+386,2025-05-17,off white,blouse,Kids,General,XS,Blue,2569,0,2569.0,3,UPI,Chennai,App,CUST00385,Female,False,,0.0,4.7,Life cover both class learn either control say so.,1
+387,2025-06-28,aachho,salwar,Women,General,XXL,Beige,2013,10,1811.7,3,Cash,Coimbatore,Online,CUST00386,Other,True,Changed Mind,4.92,4.9,,7
+388,2025-05-22,nush,skirt,Kids,General,XXXL,Yellow,2068,10,1861.2,4,Cash,Pune,App,CUST00387,Other,False,,0.0,3.1,Particularly police if into foreign husband.,7
+389,2025-05-13,flipkart,jeans,Women,General,L,Yellow,2449,20,1959.2,4,Cash,Indore,App,CUST00388,Other,False,,0.0,3.9,Word local very according himself land.,7
+390,2025-05-29,h&m,bow tie,Unisex,General,XXXL,Beige,2063,20,1650.4,5,Card,Hyderabad,App,CUST00389,Other,False,,0.0,4.9,Few reveal activity president realize artist brother fill.,6
+391,2025-06-12,north face,sandals,Unisex,General,M,White,1544,40,926.4,4,Wallet,Patna,App,CUST00390,Other,True,Color Mismatch,3.36,4.5,,6
+392,2025-06-21,canada goose,lehenga,Men,General,XXL,Black,777,0,777.0,4,Card,Kochi,Online,CUST00391,Other,False,,0.0,3.7,,3
+393,2025-06-03,nykaa,anarkali,Men,General,XL,White,731,40,438.6,2,Card,Vadodara,Online,CUST00392,Male,True,Damaged,3.28,4.8,,2
+394,2025-05-15,campus sutra,jeans,Women,General,M,Green,2411,0,2411.0,4,UPI,Patna,Offline,CUST00393,Other,False,,0.0,3.5,,3
+395,2025-06-01,new balance,crop top,Kids,General,M,Black,1556,20,1244.8,2,Wallet,Bangalore,Offline,CUST00394,Male,False,,0.0,3.4,Pass despite card check security paper indeed near.,2
+396,2025-06-18,armani,bow tie,Men,General,L,Green,922,0,922.0,1,Card,Noida,App,CUST00395,Female,False,,0.0,3.0,Soon stay seven quite other skin moment month gun true.,6
+397,2025-05-14,fab alley,dress,Men,General,XXL,Yellow,1590,10,1431.0,3,Wallet,Noida,Online,CUST00396,Other,False,,0.0,4.0,Stock total dark Mr clearly.,6
+398,2025-06-23,name it,sweater,Women,General,XS,Yellow,2473,0,2473.0,5,UPI,Lucknow,App,CUST00397,Female,False,,0.0,3.1,,6
+399,2025-06-15,converse,blazer,Unisex,General,XS,Beige,1686,10,1517.4,2,Card,Indore,App,CUST00398,Male,False,,0.0,4.4,,6
+400,2025-05-15,central,earrings,Men,General,XXL,Beige,1275,10,1147.5,1,Cash,Mumbai,App,CUST00399,Other,True,Damaged,1.94,4.6,,4
+401,2025-05-23,here & now,formal wear,Men,General,XS,Pink,728,20,582.4,1,Wallet,Hyderabad,Online,CUST00400,Other,False,,0.0,4.9,,5
+402,2025-06-29,nush,skirt,Women,General,XS,Black,1078,30,754.6,1,Wallet,Gurgaon,Online,CUST00401,Male,True,Defective,0.86,3.1,Before member speak law message lead around left southern.,7
+403,2025-05-06,pantaloons,jacket,Women,General,XXXL,White,934,0,934.0,4,Cash,Bangalore,Online,CUST00402,Female,False,,0.0,4.6,,6
+404,2025-06-11,patagonia,cap,Men,General,XXL,Blue,1816,10,1634.4,1,Cash,Lucknow,Online,CUST00403,Male,False,,0.0,3.3,Staff second official and general as yes.,6
+405,2025-05-10,vila,ring,Women,General,L,Red,2882,0,2882.0,2,Card,Ludhiana,App,CUST00404,Female,True,Defective,4.4,3.2,All important shoulder she within position inside year him.,1
+406,2025-06-09,w,flats,Kids,General,XXL,Blue,1343,10,1208.7,3,Wallet,Nagpur,Online,CUST00405,Male,True,Late Delivery,0.9,4.0,,6
+407,2025-06-09,under armour,purse,Kids,General,XS,Red,1285,0,1285.0,5,Card,Gurgaon,Offline,CUST00406,Other,True,Damaged,3.85,4.3,Radio product much president girl.,2
+408,2025-05-21,sazo,jeans,Women,General,XXL,Beige,2536,10,2282.4,2,Card,Delhi,App,CUST00407,Female,False,,0.0,3.4,Hotel camera without strong series without leg rest interest here.,5
+409,2025-05-26,amazon,casual wear,Men,General,XXL,Black,2700,10,2430.0,2,Card,Coimbatore,App,CUST00408,Male,True,Size Issue,3.61,4.2,Leave choice country themselves she allow produce.,2
+410,2025-07-02,valentino,clutch,Men,General,M,Red,900,10,810.0,4,Cash,Indore,Online,CUST00409,Male,False,,0.0,4.2,Drive attack order land.,4
+411,2025-05-08,armani,shorts,Kids,General,S,Yellow,2028,10,1825.2,4,Cash,Ludhiana,Offline,CUST00410,Female,True,Changed Mind,0.64,4.4,Scientist I doctor describe tell argue mean.,2
+412,2025-06-01,go colors,jeans,Kids,General,L,Yellow,1200,20,960.0,2,UPI,Gurgaon,Online,CUST00411,Other,True,Late Delivery,4.85,4.7,Staff rule five our pull fly few.,7
+413,2025-05-17,the pant project,indo western,Women,General,XL,Beige,2394,20,1915.2,1,Wallet,Raipur,Online,CUST00412,Male,False,,0.0,3.9,Determine feel article we they treatment personal interview many win.,5
+414,2025-06-10,aachho,skirt,Men,General,L,Black,663,30,464.1,5,Card,Nagpur,App,CUST00413,Female,False,,0.0,4.6,,1
+415,2025-06-23,brand factory,formal wear,Women,General,XS,Black,2164,10,1947.6,2,UPI,Surat,Online,CUST00414,Other,True,Defective,2.4,3.6,,7
+416,2025-06-03,pantaloons,blouse,Kids,General,XXXL,Blue,2159,10,1943.1,3,Wallet,Vadodara,App,CUST00415,Male,True,Damaged,4.47,3.7,Impact feel contain Mrs drive different tax certain leg.,4
+417,2025-05-09,campus sutra,sandals,Women,General,XXXL,White,1874,0,1874.0,5,UPI,Delhi,Online,CUST00416,Female,False,,0.0,3.9,Include indicate morning home effort form bad last he movie.,3
+418,2025-05-22,bewakoof,salwar,Men,General,XL,Red,1065,20,852.0,2,Card,Ludhiana,Offline,CUST00417,Other,True,Color Mismatch,3.8,3.6,,5
+419,2025-05-09,moschino,tie,Men,General,XS,Pink,1913,30,1339.1,4,Card,Coimbatore,App,CUST00418,Other,False,,0.0,3.9,Help painting always authority source onto provide.,6
+420,2025-05-25,hermes,sweater,Kids,General,XS,White,2099,10,1889.1,3,Card,Hyderabad,Online,CUST00419,Female,True,Color Mismatch,0.74,3.3,Decade trade field training deep couple scientist section senior.,6
+421,2025-05-27,supreme,shirt,Kids,General,XXL,Blue,2440,20,1952.0,4,Wallet,Raipur,App,CUST00420,Male,False,,0.0,3.4,Region however dream focus executive letter possible final growth third.,7
+422,2025-06-18,alkemi,stole,Unisex,General,L,Pink,1835,30,1284.5,5,Wallet,Bhopal,Offline,CUST00421,Other,True,Changed Mind,0.86,3.5,Sort reveal seven floor data.,3
+423,2025-06-03,prada,tank top,Unisex,General,M,Beige,1180,40,708.0,2,UPI,Kolkata,Online,CUST00422,Other,True,Size Issue,1.19,3.1,Animal ten scientist administration network once result far.,2
+424,2025-05-23,celine,suit,Unisex,General,S,Red,2802,0,2802.0,3,UPI,Chennai,Offline,CUST00423,Female,True,Late Delivery,1.51,4.8,Discover now early nearly want front shake major.,4
+425,2025-06-20,lavie,shorts,Kids,General,M,Blue,516,40,309.6,5,UPI,Ludhiana,App,CUST00424,Female,False,,0.0,4.8,,7
+426,2025-06-17,fable street,shorts,Kids,General,M,White,2460,0,2460.0,2,Card,Surat,Online,CUST00425,Female,True,Damaged,1.79,3.7,,2
+427,2025-05-20,savlani,scarf,Unisex,General,S,Black,841,40,504.6,4,Card,Kochi,Offline,CUST00426,Male,False,,0.0,3.6,,1
+428,2025-06-07,jordan,bracelet,Women,General,XXL,Yellow,2013,30,1409.1,3,Card,Surat,Offline,CUST00427,Female,False,,0.0,5.0,,1
+429,2025-05-20,tistabene,dupatta,Kids,General,XXL,Yellow,2311,20,1848.8,2,Wallet,Raipur,Offline,CUST00428,Male,True,Size Issue,1.04,3.9,,3
+430,2025-05-17,fab alley,sweater,Kids,General,XS,Black,2176,20,1740.8,4,Cash,Visakhapatnam,Offline,CUST00429,Other,True,Size Issue,0.93,3.8,,1
+431,2025-06-26,alkemi,purse,Unisex,General,L,Beige,1418,0,1418.0,1,Cash,Jaipur,Offline,CUST00430,Other,False,,0.0,3.2,,3
+432,2025-06-20,balenciaga,scarf,Kids,General,XXL,Red,615,0,615.0,3,Wallet,Bangalore,App,CUST00431,Other,False,,0.0,4.2,,7
+433,2025-05-21,snitch,sneakers,Kids,General,XXL,White,2027,40,1216.2,5,Card,Jaipur,Online,CUST00432,Other,True,Size Issue,1.6,4.8,Wrong whatever model stuff avoid stand any according case piece.,2
+434,2025-05-10,fendi,tank top,Unisex,General,L,Pink,698,20,558.4,3,Card,Kochi,Online,CUST00433,Other,True,Defective,2.99,3.3,Across media health pay project pattern.,3
+435,2025-06-19,fendi,purse,Unisex,General,XS,Pink,1087,0,1087.0,2,UPI,Chandigarh,Offline,CUST00434,Female,False,,0.0,4.8,Administration mother in admit reveal movie expert maybe recently.,2
+436,2025-06-14,vero moda,skirt,Women,General,XXXL,Red,2787,40,1672.2,5,Card,Nagpur,Offline,CUST00435,Male,True,Size Issue,4.62,4.0,Blood benefit chance court money spring.,3
+437,2025-05-29,paul and shark,leggings,Kids,General,XL,Pink,1204,20,963.2,1,Card,Ahmedabad,Online,CUST00436,Other,True,Color Mismatch,1.13,3.3,Bad where learn during recently feel stock ball.,1
+438,2025-05-07,styched,tie,Men,General,XS,Black,2482,30,1737.4,1,Cash,Hyderabad,Online,CUST00437,Other,True,Damaged,0.59,3.5,If help live PM reflect.,6
+439,2025-05-12,postfold,top,Men,General,XXXL,White,2963,10,2666.7,5,Cash,Kolkata,App,CUST00438,Female,True,Defective,0.73,4.5,Suddenly population former with wind thus try discover top.,5
+440,2025-06-28,reebok,necklace,Women,General,XXXL,Red,2567,40,1540.2,1,Card,Noida,Online,CUST00439,Other,True,Color Mismatch,0.96,3.6,,5
+441,2025-06-19,march tee,dress,Men,General,S,Beige,2000,40,1200.0,2,Wallet,Kanpur,Online,CUST00440,Male,False,,0.0,5.0,Another avoid understand tonight nor allow up.,5
+442,2025-06-03,biba,stole,Men,General,XXXL,Pink,1005,30,703.5,1,Cash,Coimbatore,Offline,CUST00441,Other,False,,0.0,4.1,Which onto sell require.,3
+443,2025-06-11,levis,fusion wear,Kids,General,M,Beige,2958,20,2366.4,4,Cash,Visakhapatnam,Offline,CUST00442,Female,False,,0.0,3.4,Federal nor note support quality.,7
+444,2025-06-25,zouk,ethnic wear,Unisex,General,S,Black,2512,0,2512.0,4,Wallet,Kochi,App,CUST00443,Other,True,Defective,0.72,3.8,,1
+445,2025-06-05,forever21,kurti,Unisex,General,S,Pink,1319,40,791.4,4,Card,Ahmedabad,Offline,CUST00444,Other,False,,0.0,3.6,,5
+446,2025-06-10,postfold,sandals,Kids,General,M,Beige,2969,30,2078.3,4,UPI,Chennai,Offline,CUST00445,Male,True,Changed Mind,2.45,3.5,,1
+447,2025-05-17,nush,jacket,Men,General,XXXL,White,2539,0,2539.0,2,Wallet,Gurgaon,App,CUST00446,Female,True,Changed Mind,3.11,3.2,May window approach join stuff.,7
+448,2025-06-06,sazo,fusion wear,Kids,General,S,Green,2538,30,1776.6,5,UPI,Visakhapatnam,Offline,CUST00447,Other,True,Defective,4.95,4.8,Shoulder western however similar ahead event yeah make green wait.,4
+449,2025-06-14,go colors,backpack,Kids,General,L,Beige,646,0,646.0,2,UPI,Vadodara,Online,CUST00448,Female,False,,0.0,3.3,,4
+450,2025-05-22,object,jeans,Kids,General,XXL,Beige,2448,40,1468.8,2,Card,Indore,Offline,CUST00449,Female,False,,0.0,4.2,Produce beat peace something require bank child Republican plant science.,3
+451,2025-06-03,shein,clutch,Men,General,XL,Black,1024,20,819.2,3,Card,Patna,App,CUST00450,Female,False,,0.0,3.2,Blood accept final growth especially car cost large.,3
+452,2025-06-26,under armour,belt,Men,General,XXL,Red,1513,10,1361.7,3,Card,Vadodara,Online,CUST00451,Female,True,Changed Mind,0.85,4.1,Impact ago government behavior our foot history factor hold be.,6
+453,2025-06-27,object,tie,Kids,General,M,Black,2422,40,1453.2,1,UPI,Indore,App,CUST00452,Female,False,,0.0,4.1,,1
+454,2025-05-27,columbia,churidar,Kids,General,XL,Pink,1181,40,708.6,3,UPI,Nagpur,Online,CUST00453,Female,True,Late Delivery,1.07,3.5,Minute rate college especially environmental certainly cold every feel site.,5
+455,2025-06-08,fable street,cap,Women,General,XL,White,2867,0,2867.0,5,UPI,Jaipur,Online,CUST00454,Other,False,,0.0,3.9,Want result many pattern leader career according.,1
+456,2025-06-11,vero moda,purse,Unisex,General,L,Pink,1318,30,922.6,4,UPI,Gurgaon,App,CUST00455,Female,True,Defective,3.14,4.0,Success here television key issue statement prepare organization.,4
+457,2025-06-02,zouk,dupatta,Kids,General,M,Yellow,2817,0,2817.0,5,Cash,Chandigarh,Offline,CUST00456,Male,True,Size Issue,3.73,4.5,,4
+458,2025-06-04,the pant project,backpack,Men,General,XXL,Red,2188,20,1750.4,3,Cash,Jaipur,App,CUST00457,Other,True,Damaged,1.19,3.3,Water cut fire who why fact reason make office drug.,7
+459,2025-06-09,westside,handbag,Kids,General,XL,Yellow,2227,0,2227.0,2,Cash,Jaipur,Online,CUST00458,Male,False,,0.0,4.6,Staff hotel box nor or nation race.,5
+460,2025-06-26,bewakoof,salwar,Men,General,XXL,Beige,580,0,580.0,1,UPI,Gurgaon,Offline,CUST00459,Male,False,,0.0,4.8,,1
+461,2025-05-06,zouk,hat,Women,General,S,White,2837,40,1702.2,1,UPI,Coimbatore,Online,CUST00460,Male,True,Changed Mind,1.65,4.2,Wall decide something story attorney summer some pull cause.,6
+462,2025-06-02,fab alley,shawl,Kids,General,S,Blue,936,10,842.4,2,UPI,Bhopal,Offline,CUST00461,Female,True,Damaged,2.67,4.4,Education child institution help last our old.,5
+463,2025-06-24,reliance trends,tie,Women,General,M,Blue,1985,30,1389.5,3,UPI,Mumbai,App,CUST00462,Other,True,Color Mismatch,3.31,4.9,,7
+464,2025-06-22,bottega veneta,shawl,Kids,General,M,Pink,998,40,598.8,2,Wallet,Indore,Online,CUST00463,Female,False,,0.0,3.6,,7
+465,2025-06-13,stone island,shawl,Women,General,XXXL,Blue,2296,20,1836.8,4,Card,Jaipur,Online,CUST00464,Female,False,,0.0,4.5,,3
+466,2025-06-25,bunaai,tie,Men,General,XXXL,Blue,1567,40,940.2,1,UPI,Nagpur,App,CUST00465,Other,False,,0.0,3.9,So growth time Mr point.,1
+467,2025-05-12,snitch,lehenga,Kids,General,XXXL,Blue,511,30,357.7,2,UPI,Lucknow,App,CUST00466,Male,True,Size Issue,1.25,4.4,,6
+468,2025-05-14,rare rabbit,trousers,Kids,General,XXXL,Pink,2348,30,1643.6,2,UPI,Kolkata,App,CUST00467,Other,False,,0.0,4.6,Price great positive and worker quality hundred.,4
+469,2025-06-05,louis vuitton,ring,Kids,General,L,Red,583,0,583.0,5,Cash,Bangalore,Offline,CUST00468,Male,False,,0.0,4.4,Black better develop section newspaper reach determine hear leg.,4
+470,2025-06-30,noisy may,tie,Unisex,General,S,White,2006,10,1805.4,5,Card,Mumbai,App,CUST00469,Other,False,,0.0,4.5,,7
+471,2025-06-21,tommy hilfiger,fusion wear,Women,General,XXL,Red,1279,20,1023.2,3,Wallet,Indore,Online,CUST00470,Female,True,Late Delivery,1.08,4.6,,2
+472,2025-05-18,louis vuitton,scarf,Kids,General,XXXL,Blue,616,20,492.8,3,Cash,Gurgaon,Offline,CUST00471,Male,False,,0.0,4.2,,1
+473,2025-06-06,reliance trends,top,Women,General,XXXL,Pink,2127,10,1914.3,4,Wallet,Raipur,App,CUST00472,Female,True,Defective,2.78,3.1,,4
+474,2025-05-06,jdy,earrings,Men,General,XS,Green,2565,40,1539.0,4,UPI,Indore,App,CUST00473,Female,True,Late Delivery,0.21,3.4,Bit indeed which break wait center find lay deal.,4
+475,2025-06-19,bunaai,jewelry,Kids,General,S,White,1798,40,1078.8,4,Cash,Jaipur,Online,CUST00474,Female,True,Size Issue,2.5,4.9,Live just recent five feel special boy support.,3
+476,2025-05-14,off white,bow tie,Unisex,General,XL,Green,2616,20,2092.8,4,Cash,Lucknow,App,CUST00475,Female,True,Late Delivery,4.27,4.3,,1
+477,2025-05-19,chanel,anarkali,Men,General,S,Blue,645,30,451.5,3,Cash,Vadodara,Offline,CUST00476,Female,True,Damaged,0.2,3.7,,4
+478,2025-05-27,brand factory,casual wear,Men,General,XXXL,Blue,1005,20,804.0,1,Cash,Surat,Online,CUST00477,Male,False,,0.0,4.1,,2
+479,2025-06-23,selected,dress,Women,General,L,White,1507,30,1054.9,1,UPI,Mumbai,Offline,CUST00478,Other,True,Damaged,1.87,4.9,Necessary former interview left something picture.,3
+480,2025-05-22,ajio,skirt,Men,General,L,Beige,2358,20,1886.4,5,Card,Lucknow,Online,CUST00479,Other,False,,0.0,3.6,,6
+481,2025-06-14,armani,trousers,Men,General,XXXL,Green,1822,0,1822.0,1,Wallet,Bangalore,Offline,CUST00480,Female,True,Size Issue,4.83,4.7,Ahead pass culture or home relate day sell.,7
+482,2025-05-10,dior,churidar,Kids,General,XXXL,Yellow,1666,10,1499.4,1,UPI,Coimbatore,Offline,CUST00481,Other,False,,0.0,4.8,,3
+483,2025-06-29,alkemi,jacket,Unisex,General,XL,Red,2504,30,1752.8,4,Wallet,Jaipur,App,CUST00482,Other,False,,0.0,3.2,Son Mr hand culture box.,3
+484,2025-06-20,fabindia,lehenga,Kids,General,XS,Black,2601,20,2080.8,4,Cash,Ludhiana,App,CUST00483,Other,True,Damaged,2.64,4.3,Whole finish home hotel box goal leader common purpose song.,4
+485,2025-07-02,uniqlo,bow tie,Kids,General,M,Blue,1022,20,817.6,2,Wallet,Surat,App,CUST00484,Male,True,Defective,2.57,4.0,Be care brother figure consumer really memory industry case himself.,4
+486,2025-05-22,reebok,heels,Unisex,General,XL,White,2561,0,2561.0,1,Wallet,Kolkata,Online,CUST00485,Female,True,Defective,2.08,4.4,Player really population yourself never majority cell fire late.,6
+487,2025-05-09,postfold,casual wear,Kids,General,XL,Green,1897,10,1707.3,2,Cash,Bangalore,App,CUST00486,Other,False,,0.0,4.7,Weight machine crime himself no president important man.,5
+488,2025-06-16,zara,shirt,Kids,General,XS,Black,1202,30,841.4,4,Wallet,Kanpur,App,CUST00487,Other,False,,0.0,3.6,,5
+489,2025-06-20,styched,bracelet,Kids,General,XXXL,Green,857,10,771.3,2,Card,Pune,Online,CUST00488,Male,True,Defective,1.05,4.3,,4
+490,2025-05-20,nike,anarkali,Unisex,General,XXXL,Beige,1105,30,773.5,4,Card,Hyderabad,Online,CUST00489,Male,False,,0.0,4.9,Not somebody determine allow different.,7
+491,2025-06-01,junarose,formal wear,Women,General,S,Green,2831,30,1981.7,1,UPI,Mumbai,Online,CUST00490,Other,False,,0.0,5.0,,6
+492,2025-05-20,nykaa,bag,Kids,General,L,Beige,2601,40,1560.6,5,Wallet,Ahmedabad,App,CUST00491,Male,True,Damaged,2.88,4.1,Not significant manager member of environmental myself yard my.,6
+493,2025-05-08,libas,scarf,Kids,General,XS,Beige,1919,30,1343.3,4,Card,Kolkata,Offline,CUST00492,Other,True,Damaged,1.72,3.5,National wrong bill stop seem fear yourself last give.,6
+494,2025-05-12,indya,jewelry,Kids,General,S,Green,2097,30,1467.9,3,Wallet,Kolkata,App,CUST00493,Male,False,,0.0,4.4,Tend bring speech decide scene ready technology particular into.,4
+495,2025-07-02,balenciaga,trousers,Women,General,S,Beige,912,30,638.4,4,UPI,Ahmedabad,Online,CUST00494,Other,True,Defective,1.79,3.5,,2
+496,2025-05-17,nykaa,traditional wear,Men,General,M,Yellow,965,40,579.0,2,Card,Visakhapatnam,Online,CUST00495,Female,False,,0.0,5.0,,7
+497,2025-05-24,clovia,t-shirt,Unisex,General,S,White,705,30,493.5,4,Card,Hyderabad,App,CUST00496,Other,True,Late Delivery,0.21,3.2,,7
+498,2025-05-24,aachho,churidar,Unisex,General,S,Green,2307,40,1384.2,4,Card,Chennai,App,CUST00497,Female,False,,0.0,4.6,Now mother others collection without.,2
+499,2025-06-01,w,suit,Men,General,S,Beige,1897,20,1517.6,5,Cash,Bangalore,Offline,CUST00498,Female,False,,0.0,3.7,,2
+500,2025-06-01,savlani,scarf,Women,General,S,Yellow,2192,30,1534.4,4,UPI,Mumbai,Offline,CUST00499,Male,True,Color Mismatch,4.03,4.9,Environment teach world quickly believe while size try yeah term.,3
+501,2025-05-16,clovia,cap,Women,General,L,Black,2109,0,2109.0,2,Card,Ludhiana,App,CUST00500,Other,False,,0.0,3.8,,6
+502,2025-05-16,march tee,purse,Unisex,General,M,Black,1644,40,986.4,5,Cash,Vadodara,Offline,CUST00501,Female,True,Late Delivery,3.12,4.2,Chair focus easy such hotel central plan.,3
+503,2025-06-13,amanté,cap,Women,General,M,White,650,40,390.0,3,Wallet,Raipur,App,CUST00502,Other,True,Late Delivery,4.96,3.6,Later plant they behavior middle everything view hard.,5
+504,2025-06-20,jack jones,handbag,Unisex,General,XXXL,Blue,594,0,594.0,5,UPI,Ahmedabad,Offline,CUST00503,Other,False,,0.0,5.0,Old than suggest behavior will play recently sure.,1
+505,2025-06-24,celine,ring,Unisex,General,XS,Black,1009,30,706.3,3,Card,Bhopal,Offline,CUST00504,Male,True,Changed Mind,1.5,4.3,,5
+506,2025-06-11,the souled store,leggings,Kids,General,XL,Red,930,20,744.0,5,Cash,Patna,Offline,CUST00505,Female,True,Size Issue,3.56,4.7,Why station manager follow exist natural.,1
+507,2025-05-16,libas,tie,Women,General,L,Red,2326,0,2326.0,3,Wallet,Noida,App,CUST00506,Other,False,,0.0,4.7,,6
+508,2025-06-27,max fashion,tie,Kids,General,XXL,Yellow,1166,10,1049.4,5,Cash,Coimbatore,App,CUST00507,Female,True,Color Mismatch,2.57,4.1,,4
+509,2025-06-20,nykaa,ethnic wear,Women,General,XL,Pink,985,40,591.0,4,Card,Hyderabad,Offline,CUST00508,Other,False,,0.0,3.1,Thus several animal phone student administration upon citizen.,3
+510,2025-06-17,vans,handbag,Unisex,General,M,Beige,613,10,551.7,2,Wallet,Delhi,Offline,CUST00509,Female,True,Size Issue,4.1,4.0,Yeah into yet travel.,3
+511,2025-06-02,thesvaya,sweater,Men,General,L,Beige,2846,20,2276.8,5,Wallet,Lucknow,Offline,CUST00510,Female,True,Size Issue,2.52,3.9,Themselves theory behavior growth bar professor.,4
+512,2025-05-20,the pant project,skirt,Unisex,General,XS,Yellow,2085,10,1876.5,4,UPI,Visakhapatnam,Online,CUST00511,Other,False,,0.0,4.5,,7
+513,2025-05-09,ek by ekta kapoor,kurti,Men,General,XL,Green,2797,0,2797.0,5,Card,Pune,App,CUST00512,Other,True,Late Delivery,2.61,4.5,,1
+514,2025-06-11,zouk,pants,Women,General,XS,Green,1341,10,1206.9,5,Wallet,Bangalore,App,CUST00513,Other,False,,0.0,3.8,Figure record doctor pretty region ability live car difficult quite act.,7
+515,2025-06-06,columbia,shirt,Kids,General,S,Yellow,597,40,358.2,3,Wallet,Jaipur,Online,CUST00514,Male,True,Late Delivery,0.84,3.3,Write institution car audience him room.,1
+516,2025-05-13,moncler,skirt,Kids,General,XXL,Blue,740,40,444.0,3,Cash,Mumbai,App,CUST00515,Male,False,,0.0,3.8,Finish thing case similar send.,4
+517,2025-05-16,celine,clutch,Kids,General,XXXL,White,711,10,639.9,2,Cash,Coimbatore,App,CUST00516,Other,False,,0.0,4.9,Attention none particular clearly goal defense.,3
+518,2025-05-18,vila,party wear,Kids,General,XS,Beige,617,30,431.9,2,Card,Jaipur,App,CUST00517,Other,True,Size Issue,3.81,4.3,Pattern kind describe to cause but role goal.,5
+519,2025-06-14,lifestyle,belt,Men,General,XXXL,Red,1082,20,865.6,5,Cash,Ahmedabad,App,CUST00518,Female,False,,0.0,3.1,,7
+520,2025-06-03,tata cliq,bag,Women,General,XS,Black,2474,20,1979.2,5,UPI,Kanpur,Offline,CUST00519,Female,True,Late Delivery,4.2,3.6,Easy popular easy over return expect.,5
+521,2025-05-06,stone island,sweater,Men,General,L,White,1071,40,642.6,3,Wallet,Pune,App,CUST00520,Other,False,,0.0,4.8,,6
+522,2025-06-02,postfold,sneakers,Kids,General,M,Red,1816,20,1452.8,2,Wallet,Gurgaon,Offline,CUST00521,Male,True,Color Mismatch,4.61,4.2,Military meeting security far approach today.,1
+523,2025-05-27,biba,salwar,Kids,General,XXXL,Yellow,2703,0,2703.0,1,Card,Kanpur,Offline,CUST00522,Other,True,Changed Mind,4.86,3.8,,4
+524,2025-06-21,nush,salwar,Men,General,XS,Beige,2016,10,1814.4,4,Card,Ahmedabad,App,CUST00523,Male,False,,0.0,4.4,,2
+525,2025-06-10,paul and shark,blazer,Unisex,General,XXXL,Red,1458,30,1020.6,3,Card,Jaipur,Offline,CUST00524,Other,True,Defective,0.98,4.6,Drop point audience thousand activity.,7
+526,2025-06-08,object,boots,Kids,General,S,Red,2816,40,1689.6,5,Cash,Bangalore,App,CUST00525,Male,True,Size Issue,1.3,4.1,Car team nothing half raise several west side.,5
+527,2025-05-05,hermes,boots,Men,General,XXL,Green,2793,30,1955.1,1,Wallet,Ludhiana,App,CUST00526,Other,True,Changed Mind,2.16,5.0,Attack energy always art smile media pick may indeed reduce.,6
+528,2025-05-12,brand factory,party wear,Unisex,General,XL,Black,1418,0,1418.0,3,Wallet,Visakhapatnam,Offline,CUST00527,Female,True,Damaged,0.97,3.2,,1
+529,2025-06-25,styched,scarf,Kids,General,XS,Red,1305,10,1174.5,3,UPI,Bangalore,App,CUST00528,Other,True,Defective,2.4,4.6,,6
+530,2025-06-25,nush,sling bag,Unisex,General,S,White,2438,10,2194.2,3,Card,Lucknow,App,CUST00529,Male,True,Late Delivery,3.1,4.5,,5
+531,2025-07-02,uniqlo,pants,Men,General,XS,Yellow,1782,0,1782.0,2,Card,Bhopal,Online,CUST00530,Female,False,,0.0,3.1,,5
+532,2025-05-18,supreme,tank top,Kids,General,L,White,2182,10,1963.8,5,Card,Bhopal,Offline,CUST00531,Female,False,,0.0,4.8,,3
+533,2025-05-30,pantaloons,blouse,Unisex,General,XL,Red,941,0,941.0,1,Card,Noida,Online,CUST00532,Other,True,Color Mismatch,2.54,3.7,Finally memory data space movie.,5
+534,2025-06-10,louis vuitton,suit,Women,General,S,Black,746,10,671.4,3,Wallet,Kochi,App,CUST00533,Female,False,,0.0,4.2,,2
+535,2025-06-29,reliance trends,shorts,Unisex,General,XL,Pink,1691,20,1352.8,1,Cash,Delhi,Online,CUST00534,Other,True,Damaged,1.72,5.0,,2
+536,2025-05-10,columbia,sweater,Women,General,XXL,Beige,2413,40,1447.8,3,UPI,Gurgaon,Offline,CUST00535,Female,False,,0.0,3.3,Recognize role suffer around beat its law.,7
+537,2025-07-02,brand factory,t-shirt,Women,General,XS,Red,1442,30,1009.4,5,Cash,Ahmedabad,Offline,CUST00536,Other,False,,0.0,4.6,Finally score scientist budget remain.,4
+538,2025-05-05,koovs,lehenga,Men,General,M,Black,801,20,640.8,1,Card,Chennai,Offline,CUST00537,Female,True,Color Mismatch,2.93,4.5,Market get military state else head.,1
+539,2025-05-30,burberry,palazzo,Unisex,General,S,Red,1572,10,1414.8,3,Cash,Kolkata,Online,CUST00538,Male,True,Changed Mind,4.55,3.0,,4
+540,2025-05-15,columbia,jeans,Women,General,M,Beige,1482,20,1185.6,3,Cash,Kochi,App,CUST00539,Female,True,Defective,0.72,4.8,,2
+541,2025-05-06,styched,watch,Unisex,General,M,Yellow,1500,0,1500.0,5,Cash,Visakhapatnam,Offline,CUST00540,Male,False,,0.0,3.5,,3
+542,2025-06-05,rare rabbit,trousers,Kids,General,S,White,2426,40,1455.6,1,Cash,Kochi,Offline,CUST00541,Other,False,,0.0,4.0,Evening ask Republican office baby lawyer growth matter note.,3
+543,2025-06-08,selected,ring,Kids,General,XXL,Beige,2439,20,1951.2,5,Wallet,Ludhiana,App,CUST00542,Other,True,Size Issue,1.1,3.4,,4
+544,2025-05-19,moncler,dupatta,Kids,General,L,Blue,2031,20,1624.8,5,Card,Chennai,Online,CUST00543,Female,False,,0.0,4.0,Significant thus purpose boy scientist able teach.,1
+545,2025-05-05,only,party wear,Unisex,General,L,Beige,2414,30,1689.8,4,UPI,Coimbatore,Offline,CUST00544,Female,False,,0.0,3.0,Animal hair turn condition whether along sort.,3
+546,2025-06-13,reebok,hoodie,Men,General,M,White,1631,10,1467.9,1,Card,Bangalore,Offline,CUST00545,Male,True,Changed Mind,0.98,3.7,Focus indicate result even back head maybe.,7
+547,2025-05-09,hermes,boots,Women,General,XXXL,Green,533,20,426.4,3,UPI,Indore,Offline,CUST00546,Other,True,Damaged,3.27,5.0,,7
+548,2025-05-21,valentino,hat,Women,General,XXL,Red,2442,10,2197.8,5,Wallet,Raipur,Offline,CUST00547,Female,True,Changed Mind,4.23,3.9,,4
+549,2025-05-25,max fashion,churidar,Kids,General,XXXL,Black,2033,10,1829.7,5,Cash,Surat,App,CUST00548,Male,False,,0.0,4.6,,3
+550,2025-06-23,w,scarf,Kids,General,XXL,Yellow,2701,20,2160.8,3,Card,Noida,Online,CUST00549,Male,True,Changed Mind,2.84,4.6,,5
+551,2025-05-08,new balance,hat,Women,General,L,White,2688,30,1881.6,2,Wallet,Hyderabad,Offline,CUST00550,Other,False,,0.0,4.3,Attention let executive suddenly force network account customer.,2
+552,2025-06-27,house of masaba,coat,Women,General,XS,Beige,608,10,547.2,2,Card,Indore,Offline,CUST00551,Male,True,Changed Mind,3.3,3.1,Science drug happy will young simply run.,5
+553,2025-06-26,versace,top,Unisex,General,XXXL,Yellow,2100,10,1890.0,1,Cash,Visakhapatnam,Offline,CUST00552,Female,True,Damaged,4.78,4.7,Character usually agency must player really act.,2
+554,2025-06-05,fabindia,handbag,Kids,General,S,Green,2905,10,2614.5,5,Wallet,Jaipur,Online,CUST00553,Male,True,Damaged,0.32,3.8,,5
+555,2025-05-04,aachho,sling bag,Kids,General,L,Beige,2858,0,2858.0,1,UPI,Ludhiana,Offline,CUST00554,Female,False,,0.0,3.8,,7
+556,2025-06-09,w,salwar,Women,General,S,Yellow,2374,30,1661.8,2,Card,Indore,App,CUST00555,Male,True,Size Issue,1.37,4.3,Billion morning draw man art young Republican.,1
+557,2025-05-13,aachho,dupatta,Kids,General,L,White,2009,0,2009.0,1,UPI,Nagpur,Offline,CUST00556,Male,False,,0.0,3.4,Tv today mind red head.,1
+558,2025-05-12,daisy,hoodie,Kids,General,L,Pink,2134,10,1920.6,4,Card,Mumbai,Offline,CUST00557,Male,True,Changed Mind,3.35,3.9,Believe card star avoid nothing itself who door end fire.,1
+559,2025-06-11,the souled store,shoes,Kids,General,S,Beige,1642,10,1477.8,2,Card,Gurgaon,Online,CUST00558,Male,False,,0.0,3.2,,2
+560,2025-06-04,nirvanaa styles,hoodie,Men,General,XXL,Green,1127,30,788.9,3,Cash,Pune,App,CUST00559,Male,True,Damaged,3.48,4.7,,6
+561,2025-06-03,asics,coat,Unisex,General,L,Black,2949,0,2949.0,1,Wallet,Patna,Online,CUST00560,Male,False,,0.0,4.8,Evening avoid dark sister once choice clearly letter image.,1
+562,2025-06-25,ajio,scarf,Men,General,M,Red,757,10,681.3,1,Cash,Raipur,Online,CUST00561,Male,False,,0.0,4.0,,3
+563,2025-06-07,suta,anarkali,Women,General,XL,Yellow,2251,0,2251.0,2,Cash,Hyderabad,Offline,CUST00562,Female,True,Defective,2.01,3.6,Later leg system bed space fight.,4
+564,2025-07-01,forever21,scarf,Unisex,General,XXL,Pink,678,0,678.0,2,Wallet,Surat,App,CUST00563,Female,True,Color Mismatch,2.68,5.0,,2
+565,2025-05-07,mast and harbour,heels,Men,General,XL,Pink,2090,10,1881.0,3,Cash,Ludhiana,App,CUST00564,Female,False,,0.0,3.1,Structure foreign before eat green message.,5
+566,2025-06-02,new balance,formal wear,Women,General,XL,Black,1451,0,1451.0,5,Card,Surat,Online,CUST00565,Other,False,,0.0,4.5,,1
+567,2025-05-29,vans,leggings,Kids,General,M,Red,1120,30,784.0,2,Card,Ahmedabad,App,CUST00566,Other,False,,0.0,4.5,All identify laugh security economic left.,3
+568,2025-05-17,bewakoof,backpack,Men,General,XL,Yellow,1680,0,1680.0,2,UPI,Lucknow,Online,CUST00567,Male,True,Color Mismatch,4.94,4.6,,2
+569,2025-05-15,jack jones,watch,Unisex,General,S,Beige,523,0,523.0,4,Card,Pune,Online,CUST00568,Other,True,Size Issue,0.63,3.3,,7
+570,2025-05-05,givenchy,churidar,Men,General,L,Beige,1774,10,1596.6,2,Cash,Nagpur,Online,CUST00569,Other,True,Changed Mind,1.43,3.9,,3
+571,2025-05-09,uniqlo,western wear,Unisex,General,L,Yellow,1186,30,830.2,4,Wallet,Kochi,App,CUST00570,Other,False,,0.0,4.5,,7
+572,2025-05-25,myntra,western wear,Kids,General,L,White,1728,40,1036.8,5,Cash,Visakhapatnam,App,CUST00571,Male,False,,0.0,3.8,Cup hundred rather visit base only.,3
+573,2025-05-11,y.a.s,watch,Kids,General,XS,Pink,1058,30,740.6,2,Cash,Pune,Online,CUST00572,Male,False,,0.0,4.0,,4
+574,2025-05-06,asics,ring,Kids,General,M,White,2173,0,2173.0,1,Wallet,Noida,Online,CUST00573,Male,False,,0.0,4.9,,7
+575,2025-05-10,only,necklace,Kids,General,XXL,Pink,735,30,514.5,4,Cash,Ahmedabad,Offline,CUST00574,Male,False,,0.0,4.3,,6
+576,2025-05-23,celine,shorts,Kids,General,XXL,Blue,1540,10,1386.0,5,Cash,Mumbai,Online,CUST00575,Male,False,,0.0,3.8,,1
+577,2025-06-16,bunaai,anarkali,Kids,General,S,Yellow,1534,20,1227.2,5,Wallet,Noida,Offline,CUST00576,Other,False,,0.0,4.5,,7
+578,2025-05-16,puma,blazer,Unisex,General,XXXL,Blue,1600,10,1440.0,4,UPI,Mumbai,Online,CUST00577,Female,True,Defective,0.35,4.4,,6
+579,2025-05-12,tistabene,flats,Kids,General,S,Blue,2033,10,1829.7,2,Cash,Coimbatore,Online,CUST00578,Other,True,Damaged,2.84,3.4,Business walk anything under item right many him.,6
+580,2025-06-14,truebrowns,lehenga,Women,General,M,Yellow,2304,40,1382.4,1,Cash,Bangalore,Offline,CUST00579,Male,False,,0.0,3.2,Government traditional every land chance pass.,1
+581,2025-07-02,shoppers stop,shawl,Kids,General,XXL,White,537,0,537.0,3,Card,Kanpur,App,CUST00580,Male,True,Size Issue,2.61,3.0,,7
+582,2025-05-27,fab alley,sandals,Kids,General,L,Pink,2974,30,2081.8,3,UPI,Kanpur,Offline,CUST00581,Female,True,Changed Mind,3.33,3.8,Material third look because him information poor.,3
+583,2025-06-24,truebrowns,sling bag,Men,General,XS,Beige,2144,10,1929.6,1,Card,Kochi,Offline,CUST00582,Other,True,Changed Mind,2.26,4.4,,5
+584,2025-05-28,zouk,belt,Women,General,XS,Pink,567,20,453.6,1,UPI,Kanpur,Offline,CUST00583,Male,False,,0.0,3.8,,1
+585,2025-06-25,global desi,necklace,Kids,General,XXL,White,2075,20,1660.0,5,Cash,Vadodara,Online,CUST00584,Other,True,Size Issue,2.49,3.2,,5
+586,2025-05-05,versace,party wear,Kids,General,XS,Beige,2713,10,2441.7,2,Cash,Kolkata,App,CUST00585,Other,True,Defective,2.17,4.4,Site grow name machine tree maybe home conference.,3
+587,2025-06-03,clovia,sunglasses,Unisex,General,S,Green,2449,0,2449.0,2,Wallet,Bangalore,App,CUST00586,Female,True,Late Delivery,3.83,4.2,,4
+588,2025-06-30,tata cliq,watch,Kids,General,XXXL,Red,1414,20,1131.2,1,UPI,Bangalore,Online,CUST00587,Male,False,,0.0,4.5,,6
+589,2025-05-25,mamalicious,jeans,Unisex,General,S,Pink,2056,40,1233.6,1,UPI,Delhi,App,CUST00588,Other,True,Damaged,4.9,3.6,Time sing around yard morning.,6
+590,2025-06-29,jack jones,trousers,Women,General,XS,Yellow,536,40,321.6,4,UPI,Chennai,Offline,CUST00589,Male,False,,0.0,4.4,Wind beyond prevent entire staff true argue.,3
+591,2025-05-25,folklore,shorts,Men,General,XL,Pink,1764,40,1058.4,1,UPI,Vadodara,App,CUST00590,Female,True,Damaged,1.46,4.9,Suffer something great stuff suddenly compare or south recently trial.,7
+592,2025-05-06,chanel,sling bag,Women,General,XXXL,Red,714,10,642.6,4,Wallet,Surat,App,CUST00591,Male,True,Late Delivery,1.96,3.8,Way nor none could write think man finally.,3
+593,2025-06-20,jordan,hat,Men,General,XL,Green,1655,10,1489.5,5,Wallet,Hyderabad,Online,CUST00592,Female,True,Color Mismatch,1.52,4.3,,4
+594,2025-05-07,supreme,western wear,Women,General,S,Red,1300,0,1300.0,3,Card,Kanpur,Online,CUST00593,Female,False,,0.0,4.4,Argue own after long forward.,1
+595,2025-07-02,reebok,jacket,Kids,General,S,Black,979,40,587.4,3,Wallet,Chennai,App,CUST00594,Other,False,,0.0,3.5,Southern future concern sort than arrive.,4
+596,2025-05-18,stone island,indo western,Women,General,XXL,Yellow,866,30,606.2,4,UPI,Ludhiana,App,CUST00595,Female,False,,0.0,3.0,Relate center book money half authority relate product only from.,1
+597,2025-06-04,bewakoof,indo western,Women,General,XS,Beige,1620,0,1620.0,5,Cash,Indore,Offline,CUST00596,Other,False,,0.0,3.6,Wish run join police maintain fish.,3
+598,2025-06-27,the souled store,sweater,Women,General,L,Black,2111,40,1266.6,5,Wallet,Bangalore,App,CUST00597,Other,True,Size Issue,4.83,4.8,Skin development open compare fill read camera rock we we hot.,5
+599,2025-06-28,zara,lehenga,Kids,General,XXXL,Pink,1002,0,1002.0,2,Cash,Ludhiana,Online,CUST00598,Male,False,,0.0,4.7,Consider fish speak particularly policy.,1
+600,2025-05-14,stone island,traditional wear,Unisex,General,XL,Blue,2231,0,2231.0,2,UPI,Delhi,App,CUST00599,Female,False,,0.0,3.3,Cell seat draw word collection those become remember police.,3
+601,2025-06-05,jdy,earrings,Women,General,XXL,White,682,10,613.8,1,Cash,Chennai,Offline,CUST00600,Male,True,Late Delivery,2.76,4.2,Activity decide really go skin result answer just information.,6
+602,2025-05-20,mango,tie,Unisex,General,M,Yellow,1167,30,816.9,4,Card,Jaipur,App,CUST00601,Female,True,Late Delivery,1.02,4.3,Manage her national big look tell prepare reach.,6
+603,2025-05-19,the souled store,anarkali,Unisex,General,XL,Blue,2218,10,1996.2,3,Wallet,Indore,Online,CUST00602,Other,True,Defective,1.35,4.1,,4
+604,2025-06-16,north face,sweater,Men,General,M,Pink,1618,10,1456.2,2,UPI,Mumbai,Online,CUST00603,Female,True,Damaged,4.76,4.6,Son almost after end bit.,5
+605,2025-06-06,carmakoma,handbag,Kids,General,XS,Pink,2842,20,2273.6,5,UPI,Gurgaon,Online,CUST00604,Male,True,Changed Mind,4.73,3.8,Thousand claim avoid walk within full.,6
+606,2025-07-02,shoppers stop,cap,Women,General,M,Black,2602,10,2341.8,2,Cash,Indore,App,CUST00605,Other,False,,0.0,3.1,,3
+607,2025-06-19,house of masaba,shoes,Kids,General,XXL,Beige,1248,30,873.6,3,Wallet,Kochi,Offline,CUST00606,Female,False,,0.0,4.0,,7
+608,2025-05-07,moncler,stole,Men,General,M,Yellow,1779,0,1779.0,1,Card,Raipur,Online,CUST00607,Male,True,Late Delivery,0.29,4.5,,4
+609,2025-06-14,here & now,top,Kids,General,XXL,Blue,2463,30,1724.1,5,Card,Indore,Online,CUST00608,Other,True,Color Mismatch,0.04,3.8,,3
+610,2025-05-20,nush,shoes,Men,General,XL,Beige,1189,40,713.4,2,Cash,Bangalore,Offline,CUST00609,Male,False,,0.0,4.9,Threat church big day couple recent reveal role enter example.,4
+611,2025-05-27,vans,kurti,Men,General,M,Red,2707,0,2707.0,3,UPI,Coimbatore,Offline,CUST00610,Female,True,Defective,3.69,4.1,Anyone occur style child guess.,3
+612,2025-06-14,fab alley,tshirt,Kids,General,XL,Beige,734,20,587.2,1,Wallet,Lucknow,Offline,CUST00611,Female,True,Defective,1.75,4.4,Far product outside current agent.,1
+613,2025-05-20,fabindia,jacket,Kids,General,S,White,2666,40,1599.6,2,Wallet,Hyderabad,Offline,CUST00612,Male,True,Color Mismatch,1.25,3.9,With list break size likely thus enter.,3
+614,2025-06-25,rangriti,tie,Women,General,XL,Green,944,30,660.8,4,Cash,Chennai,Offline,CUST00613,Other,False,,0.0,3.0,,6
+615,2025-06-10,levis,palazzo,Women,General,M,Black,1046,30,732.2,4,UPI,Delhi,Online,CUST00614,Other,True,Damaged,4.8,5.0,He high cost and keep enjoy.,4
+616,2025-05-30,fable street,fusion wear,Women,General,M,Yellow,2554,30,1787.8,2,Card,Hyderabad,Online,CUST00615,Male,True,Changed Mind,2.5,4.5,Article sell property beat gas must wife operation network subject.,6
+617,2025-06-23,global desi,jewelry,Men,General,L,Beige,1684,20,1347.2,4,Card,Patna,Offline,CUST00616,Male,True,Color Mismatch,2.56,3.5,,7
+618,2025-06-13,campus sutra,sneakers,Women,General,XXL,Yellow,1311,30,917.7,1,Cash,Pune,App,CUST00617,Other,True,Size Issue,0.6,3.8,Reach view of dog federal house take alone number might.,2
+619,2025-06-28,global desi,shorts,Men,General,XL,Red,871,0,871.0,4,Wallet,Kochi,Offline,CUST00618,Other,True,Size Issue,1.68,4.0,,6
+620,2025-05-18,stone island,tank top,Men,General,M,Pink,1648,20,1318.4,4,Cash,Lucknow,Online,CUST00619,Male,True,Defective,0.26,4.5,We last we cold deep cover.,4
+621,2025-05-08,aachho,boots,Men,General,L,Blue,1532,30,1072.4,3,UPI,Surat,Online,CUST00620,Male,True,Color Mismatch,2.76,4.7,Bad raise dark state challenge organization floor road southern.,6
+622,2025-05-12,folklore,bracelet,Unisex,General,S,Green,1359,40,815.4,4,Card,Hyderabad,Online,CUST00621,Other,True,Defective,2.93,4.8,,2
+623,2025-06-10,ek by ekta kapoor,anarkali,Kids,General,XS,White,2737,40,1642.2,3,UPI,Raipur,Offline,CUST00622,Male,True,Defective,0.64,3.8,,7
+624,2025-06-27,rangriti,necklace,Unisex,General,L,White,2285,0,2285.0,4,Wallet,Kochi,App,CUST00623,Male,True,Late Delivery,1.37,4.9,Need task mind true actually red onto site.,5
+625,2025-05-14,sazo,crop top,Women,General,XXL,Yellow,2526,40,1515.6,5,Card,Kolkata,Offline,CUST00624,Other,False,,0.0,4.1,Change note old who beyond black single size test.,5
+626,2025-06-06,ralph lauren,sandals,Women,General,XS,Blue,2841,10,2556.9,5,Card,Kochi,Offline,CUST00625,Other,False,,0.0,3.6,Enough pressure occur list common idea peace race.,6
+627,2025-06-12,vila,sandals,Men,General,S,Red,685,40,411.0,2,UPI,Delhi,App,CUST00626,Male,False,,0.0,4.9,How these real any little.,7
+628,2025-05-30,bewakoof,tank top,Women,General,XXXL,Red,2688,0,2688.0,1,UPI,Ludhiana,App,CUST00627,Female,False,,0.0,3.2,,5
+629,2025-06-09,march tee,sneakers,Women,General,L,Green,1828,0,1828.0,1,UPI,Ahmedabad,App,CUST00628,Female,True,Changed Mind,4.86,4.1,,7
+630,2025-05-05,march tee,coat,Kids,General,XXL,Green,2974,40,1784.4,2,Wallet,Ahmedabad,Offline,CUST00629,Female,True,Late Delivery,3.15,4.7,Stage field exactly man receive better than care.,4
+631,2025-06-16,tistabene,stole,Kids,General,M,Blue,2461,0,2461.0,4,Cash,Bhopal,Online,CUST00630,Male,True,Late Delivery,2.45,4.5,,1
+632,2025-06-04,dior,handbag,Women,General,XXXL,Yellow,2988,10,2689.2,1,Cash,Bangalore,Offline,CUST00631,Male,False,,0.0,4.8,,1
+633,2025-05-30,tistabene,leggings,Men,General,XL,White,2046,30,1432.2,1,Card,Mumbai,App,CUST00632,Male,True,Size Issue,3.85,3.5,,5
+634,2025-06-13,sazo,top,Men,General,XXXL,White,2720,20,2176.0,1,Cash,Chennai,Offline,CUST00633,Other,False,,0.0,4.6,Population could deep station scientist service test start middle city.,4
+635,2025-06-03,saint laurent,skirt,Men,General,XL,Green,2725,0,2725.0,1,Card,Hyderabad,App,CUST00634,Female,True,Late Delivery,4.43,3.8,Idea sister modern notice community themselves customer arm almost.,2
+636,2025-05-08,valentino,blouse,Kids,General,L,Blue,1946,20,1556.8,2,Wallet,Kanpur,App,CUST00635,Male,False,,0.0,3.3,Relate ever statement measure play buy air head.,1
+637,2025-06-30,reebok,flats,Men,General,XL,Pink,983,20,786.4,1,Card,Gurgaon,Online,CUST00636,Male,False,,0.0,4.1,,6
+638,2025-06-16,chanel,tie,Unisex,General,XL,Green,1925,0,1925.0,3,Wallet,Kanpur,Offline,CUST00637,Female,True,Defective,4.31,5.0,,2
+639,2025-05-21,prada,backpack,Kids,General,L,Beige,774,0,774.0,5,Wallet,Raipur,Offline,CUST00638,Male,True,Changed Mind,4.97,3.4,Only glass clear thus see read expect hit clear.,3
+640,2025-06-28,global desi,fusion wear,Kids,General,XXL,Yellow,2963,20,2370.4,2,Cash,Indore,Offline,CUST00639,Other,False,,0.0,4.1,Tax positive question especially important after.,5
+641,2025-05-04,asics,stole,Men,General,XL,Yellow,2657,40,1594.2,2,Card,Ahmedabad,Offline,CUST00640,Male,True,Defective,1.81,3.9,Treatment positive over across education source figure whom poor.,1
+642,2025-06-14,aachho,crop top,Unisex,General,M,Blue,1706,30,1194.2,2,Wallet,Ahmedabad,Online,CUST00641,Male,True,Color Mismatch,0.69,4.9,,4
+643,2025-06-09,campus sutra,blouse,Kids,General,M,Black,933,40,559.8,1,Wallet,Gurgaon,Online,CUST00642,Male,True,Changed Mind,0.71,3.5,Learn design few minute perhaps once account yourself.,7
+644,2025-06-09,chanel,scarf,Women,General,L,Blue,2659,20,2127.2,4,Wallet,Raipur,Offline,CUST00643,Female,True,Changed Mind,0.56,3.1,,5
+645,2025-06-27,vero moda,salwar,Women,General,XS,Yellow,2234,30,1563.8,5,UPI,Noida,App,CUST00644,Female,True,Damaged,4.66,3.5,Participant fear blue as write political technology end represent throughout.,4
+646,2025-06-02,folklore,trousers,Women,General,L,Black,1395,30,976.5,2,Card,Vadodara,Offline,CUST00645,Female,False,,0.0,4.3,Change she tonight south sort outside.,4
+647,2025-06-04,flipkart,kurti,Unisex,General,XXL,Yellow,1296,20,1036.8,1,Card,Bangalore,Offline,CUST00646,Other,False,,0.0,3.1,Return pretty young else industry home.,5
+648,2025-05-07,forever21,coat,Women,General,XL,Black,1765,10,1588.5,5,Cash,Ludhiana,Online,CUST00647,Male,False,,0.0,3.2,,1
+649,2025-06-29,amazon,western wear,Men,General,M,White,1763,0,1763.0,3,UPI,Indore,App,CUST00648,Male,False,,0.0,4.5,,2
+650,2025-06-28,north face,jacket,Kids,General,XXL,White,2555,10,2299.5,1,Wallet,Coimbatore,App,CUST00649,Male,False,,0.0,3.3,,1
+651,2025-05-22,lavie,blazer,Women,General,S,Blue,1158,40,694.8,5,UPI,Bhopal,Online,CUST00650,Female,False,,0.0,3.7,,4
+652,2025-06-06,rangriti,t-shirt,Kids,General,S,Red,2999,40,1799.4,1,Cash,Noida,App,CUST00651,Female,True,Defective,0.71,4.7,,7
+653,2025-05-25,brand factory,blazer,Men,General,L,Pink,1194,20,955.2,2,Card,Jaipur,App,CUST00652,Female,False,,0.0,3.2,Point little wait grow feel color price next family likely.,7
+654,2025-05-29,celine,casual wear,Kids,General,M,Beige,1074,0,1074.0,5,Wallet,Delhi,Offline,CUST00653,Female,False,,0.0,3.8,,6
+655,2025-06-27,max fashion,trousers,Unisex,General,XL,Pink,2029,0,2029.0,4,Wallet,Jaipur,App,CUST00654,Male,True,Color Mismatch,3.95,4.4,,2
+656,2025-05-21,supreme,coat,Kids,General,S,Yellow,797,10,717.3,4,Wallet,Kanpur,Online,CUST00655,Female,False,,0.0,3.9,,7
+657,2025-06-05,puma,party wear,Men,General,S,White,2124,30,1486.8,2,Wallet,Lucknow,Online,CUST00656,Female,False,,0.0,5.0,Develop development the inside thought.,6
+658,2025-06-09,levis,ethnic wear,Unisex,General,L,Black,2731,10,2457.9,4,Cash,Ludhiana,Online,CUST00657,Female,True,Late Delivery,3.87,3.1,,7
+659,2025-05-29,reliance trends,bow tie,Women,General,XS,Red,592,30,414.4,3,UPI,Ludhiana,Online,CUST00658,Male,True,Defective,1.37,3.2,,4
+660,2025-06-29,selected,scarf,Women,General,XXL,Green,1252,0,1252.0,1,Wallet,Lucknow,Offline,CUST00659,Male,True,Changed Mind,4.71,4.0,,7
+661,2025-06-01,here & now,saree,Kids,General,M,Yellow,539,40,323.4,5,Cash,Bangalore,App,CUST00660,Other,True,Changed Mind,3.32,4.6,,7
+662,2025-06-18,h&m,backpack,Women,General,L,Blue,2544,20,2035.2,1,Wallet,Jaipur,App,CUST00661,Other,True,Damaged,4.72,4.7,,6
+663,2025-05-15,nykaa,jacket,Women,General,XXL,Red,2220,40,1332.0,2,Wallet,Pune,Offline,CUST00662,Male,True,Color Mismatch,2.88,3.0,,1
+664,2025-06-18,rangriti,purse,Unisex,General,XL,White,2543,30,1780.1,4,Wallet,Chandigarh,Offline,CUST00663,Other,False,,0.0,4.0,,1
+665,2025-05-09,pantaloons,salwar,Kids,General,M,Blue,2763,40,1657.8,2,Wallet,Indore,Offline,CUST00664,Other,False,,0.0,4.3,,7
+666,2025-06-29,nike,jacket,Men,General,XS,Black,2183,0,2183.0,4,Card,Ludhiana,Offline,CUST00665,Other,True,Color Mismatch,1.45,3.8,Want author threat matter test high fear approach take case.,4
+667,2025-05-23,levis,watch,Women,General,XXXL,Beige,1008,20,806.4,4,Wallet,Ludhiana,App,CUST00666,Other,False,,0.0,3.0,Important notice trade leader first resource single maintain.,2
+668,2025-05-21,off white,traditional wear,Unisex,General,XXL,Green,1758,30,1230.6,2,Card,Nagpur,Online,CUST00667,Male,True,Size Issue,3.95,4.7,,6
+669,2025-06-03,north face,backpack,Women,General,XL,Yellow,1489,40,893.4,4,Cash,Gurgaon,App,CUST00668,Female,True,Late Delivery,2.15,4.9,Above event seven collection share.,6
+670,2025-06-20,yeezy,salwar,Unisex,General,XL,Blue,2290,10,2061.0,1,Cash,Kochi,Online,CUST00669,Other,False,,0.0,4.7,,3
+671,2025-05-12,lavie,saree,Unisex,General,S,White,881,0,881.0,4,Card,Ludhiana,App,CUST00670,Male,True,Late Delivery,3.54,4.8,Pass plant idea whole himself also.,4
+672,2025-05-23,folklore,blouse,Women,General,L,Pink,1263,10,1136.7,2,UPI,Pune,App,CUST00671,Male,False,,0.0,4.5,,3
+673,2025-06-09,fab alley,cardigan,Women,General,XXL,Black,2872,0,2872.0,1,Wallet,Gurgaon,Online,CUST00672,Male,True,Changed Mind,1.31,3.4,Throughout series most adult.,7
+674,2025-05-04,aachho,bracelet,Women,General,L,White,2510,0,2510.0,4,Card,Coimbatore,App,CUST00673,Male,True,Color Mismatch,2.1,4.8,,4
+675,2025-05-28,louis vuitton,saree,Unisex,General,XS,Blue,2822,40,1693.2,1,Card,Lucknow,Offline,CUST00674,Female,True,Size Issue,2.61,3.5,Really general can himself open cold statement.,5
+676,2025-06-01,pieces,blouse,Men,General,XL,Blue,1384,20,1107.2,1,Cash,Mumbai,Offline,CUST00675,Male,True,Defective,3.64,4.9,Lay minute model its rather card you.,4
+677,2025-06-20,mast and harbour,palazzo,Men,General,M,Green,2412,30,1688.4,4,Wallet,Pune,Offline,CUST00676,Male,True,Color Mismatch,4.23,4.4,,1
+678,2025-06-07,versace,handbag,Women,General,XXL,Beige,2274,30,1591.8,4,UPI,Lucknow,App,CUST00677,Male,False,,0.0,3.9,,3
+679,2025-05-22,lifestyle,sweater,Women,General,XS,Green,2902,30,2031.4,3,UPI,Indore,Online,CUST00678,Male,True,Changed Mind,2.15,3.4,Way truth idea direction road capital.,2
+680,2025-05-06,vans,ring,Women,General,XXXL,Pink,999,0,999.0,3,Card,Vadodara,Offline,CUST00679,Male,False,,0.0,4.1,Mean but represent society heart policy side perhaps order answer.,2
+681,2025-05-14,asics,sweater,Unisex,General,XL,Red,2658,10,2392.2,1,UPI,Vadodara,App,CUST00680,Other,True,Late Delivery,4.46,3.8,,3
+682,2025-05-05,burberry,backpack,Women,General,XS,Beige,2541,0,2541.0,3,Wallet,Hyderabad,Online,CUST00681,Female,True,Late Delivery,1.63,3.8,,3
+683,2025-05-08,bewakoof,shirt,Men,General,L,Green,1035,30,724.5,1,Card,Lucknow,App,CUST00682,Male,True,Damaged,0.48,4.6,,3
+684,2025-05-15,postfold,backpack,Unisex,General,L,White,2778,20,2222.4,4,Card,Indore,Offline,CUST00683,Other,False,,0.0,4.0,,1
+685,2025-06-13,zouk,ring,Men,General,XS,Red,694,0,694.0,2,Card,Lucknow,App,CUST00684,Other,False,,0.0,3.5,Herself natural listen check receive piece feeling product production.,6
+686,2025-05-30,paul and shark,ring,Men,General,XXL,Black,1562,0,1562.0,1,Card,Surat,Online,CUST00685,Female,False,,0.0,4.4,,4
+687,2025-07-01,campus sutra,sandals,Women,General,S,Beige,990,10,891.0,3,Cash,Patna,App,CUST00686,Female,False,,0.0,4.3,,2
+688,2025-05-17,zouk,western wear,Kids,General,M,Pink,2476,10,2228.4,1,UPI,Patna,Offline,CUST00687,Other,True,Changed Mind,2.79,4.7,,6
+689,2025-06-13,styched,churidar,Men,General,XS,Beige,745,10,670.5,1,Cash,Bhopal,Offline,CUST00688,Male,False,,0.0,3.2,Memory pay executive size marriage.,5
+690,2025-07-02,zivame,backpack,Unisex,General,XXL,Beige,1129,40,677.4,1,Cash,Ahmedabad,Offline,CUST00689,Female,False,,0.0,4.7,,7
+691,2025-05-23,hermes,cap,Men,General,M,Yellow,1171,20,936.8,5,Card,Chennai,Offline,CUST00690,Male,True,Size Issue,0.08,3.9,Story win group important civil nature travel.,4
+692,2025-06-19,reebok,formal wear,Unisex,General,XS,White,1950,30,1365.0,2,Cash,Indore,App,CUST00691,Female,False,,0.0,3.1,Doctor actually become book off management we single.,1
+693,2025-05-11,tata cliq,tank top,Kids,General,XXL,Yellow,1293,20,1034.4,2,Wallet,Kolkata,App,CUST00692,Female,False,,0.0,4.0,Toward popular lead with enough.,1
+694,2025-05-08,mast and harbour,shoes,Men,General,S,White,716,0,716.0,5,UPI,Ahmedabad,Online,CUST00693,Other,True,Changed Mind,1.13,4.2,,4
+695,2025-05-13,adidas,hat,Women,General,XXL,Green,2527,10,2274.3,2,Cash,Chandigarh,App,CUST00694,Female,False,,0.0,4.5,Them system growth quality international break.,5
+696,2025-05-08,nush,western wear,Unisex,General,XXXL,Red,1196,20,956.8,1,Cash,Kolkata,Offline,CUST00695,Female,True,Defective,3.33,3.9,System professional color group.,3
+697,2025-06-15,versace,hoodie,Men,General,XL,Pink,2439,40,1463.4,1,Wallet,Ahmedabad,Offline,CUST00696,Male,True,Defective,2.84,5.0,,5
+698,2025-05-30,versace,traditional wear,Women,General,XXXL,White,908,20,726.4,3,Wallet,Coimbatore,App,CUST00697,Female,False,,0.0,4.3,Head garden box hundred lead.,4
+699,2025-06-10,koovs,top,Unisex,General,M,Pink,2620,40,1572.0,4,Card,Jaipur,App,CUST00698,Other,True,Size Issue,4.89,4.7,,2
+700,2025-06-19,brand factory,earrings,Men,General,S,Yellow,1971,10,1773.9,1,Cash,Indore,App,CUST00699,Male,False,,0.0,4.8,,4
+701,2025-06-13,celine,salwar,Unisex,General,M,Yellow,2912,30,2038.4,3,UPI,Pune,Online,CUST00700,Other,False,,0.0,4.7,Both receive around wall city indeed.,7
+702,2025-06-30,object,casual wear,Unisex,General,M,White,533,30,373.1,2,Wallet,Kanpur,Online,CUST00701,Other,False,,0.0,4.2,,3
+703,2025-06-19,off white,indo western,Men,General,XXXL,Green,562,30,393.4,1,Cash,Surat,App,CUST00702,Male,True,Damaged,1.53,3.9,,1
+704,2025-06-28,bottega veneta,tank top,Women,General,M,Green,2555,40,1533.0,2,Card,Vadodara,Offline,CUST00703,Male,True,Damaged,2.93,3.2,Consider here grow agreement range stuff wind candidate turn.,4
+705,2025-05-14,saint laurent,earrings,Kids,General,L,Yellow,900,20,720.0,3,UPI,Kolkata,App,CUST00704,Female,False,,0.0,4.6,Key as pressure actually than modern season rich.,7
+706,2025-05-25,bottega veneta,palazzo,Women,General,L,Red,1732,20,1385.6,1,UPI,Noida,App,CUST00705,Female,True,Damaged,3.91,4.7,Mind read peace item risk loss professional political.,5
+707,2025-05-18,styched,suit,Unisex,General,XL,Pink,2417,20,1933.6,4,Wallet,Nagpur,Offline,CUST00706,Female,True,Late Delivery,0.13,4.5,Throughout party activity various measure light many close seem fly.,2
+708,2025-06-05,savlani,purse,Women,General,XL,Pink,1020,40,612.0,5,UPI,Delhi,Offline,CUST00707,Male,False,,0.0,4.3,Anyone development poor idea dog learn soon.,7
+709,2025-06-16,nush,casual wear,Men,General,XS,Black,1605,0,1605.0,3,Card,Surat,App,CUST00708,Female,False,,0.0,4.7,Task language budget market president.,5
+710,2025-05-13,campus sutra,tank top,Women,General,XL,Blue,2801,30,1960.7,2,Cash,Kanpur,App,CUST00709,Male,False,,0.0,4.3,,1
+711,2025-06-12,suta,indo western,Women,General,XS,White,499,10,449.1,5,Card,Kochi,Online,CUST00710,Male,True,Defective,2.37,4.7,Along near stay social white point three none.,1
+712,2025-06-17,stone island,pants,Kids,General,L,Blue,1461,40,876.6,3,Wallet,Kanpur,App,CUST00711,Male,False,,0.0,3.3,Guy approach development lawyer nice people list price.,2
+713,2025-06-16,versace,shawl,Women,General,L,Beige,1686,20,1348.8,1,Wallet,Chandigarh,App,CUST00712,Female,False,,0.0,3.8,,4
+714,2025-05-15,paul and shark,scarf,Kids,General,S,Black,1659,30,1161.3,1,Wallet,Mumbai,App,CUST00713,Female,True,Color Mismatch,3.25,4.3,Service develop game stop who.,3
+715,2025-06-01,westside,leggings,Kids,General,M,Black,1147,20,917.6,5,Cash,Chandigarh,App,CUST00714,Other,False,,0.0,4.0,Miss reduce animal clearly cell response return blood particularly could.,2
+716,2025-06-11,tata cliq,earrings,Unisex,General,L,Blue,1639,20,1311.2,4,Card,Ludhiana,Offline,CUST00715,Female,False,,0.0,4.2,Lead sit response blue increase unit.,6
+717,2025-06-30,amanté,traditional wear,Unisex,General,S,Pink,2910,40,1746.0,3,Wallet,Bangalore,Online,CUST00716,Male,True,Size Issue,0.48,3.2,,4
+718,2025-05-15,zivame,clutch,Women,General,XXXL,Red,930,10,837.0,4,Wallet,Bangalore,Online,CUST00717,Other,False,,0.0,3.2,,1
+719,2025-06-16,zivame,suit,Unisex,General,XL,Black,1211,20,968.8,1,Wallet,Indore,Online,CUST00718,Other,True,Size Issue,1.26,3.9,Probably what care material morning any very stuff lot.,2
+720,2025-06-22,fabindia,saree,Women,General,XS,Black,893,10,803.7,1,Cash,Mumbai,Offline,CUST00719,Female,True,Changed Mind,0.93,4.5,,6
+721,2025-05-21,hermes,fusion wear,Women,General,XL,Beige,2550,20,2040.0,3,Cash,Bangalore,Offline,CUST00720,Female,False,,0.0,4.7,,2
+722,2025-06-29,adidas,purse,Men,General,L,Red,709,40,425.4,5,UPI,Mumbai,Online,CUST00721,Female,False,,0.0,3.8,Room campaign hold over third mean.,7
+723,2025-06-10,here & now,saree,Unisex,General,XS,Red,2619,40,1571.4,5,UPI,Indore,App,CUST00722,Male,True,Late Delivery,2.35,4.8,Woman trouble several event white wife laugh card include.,1
+724,2025-06-22,columbia,tshirt,Kids,General,M,Red,1869,0,1869.0,2,Cash,Visakhapatnam,App,CUST00723,Female,True,Size Issue,2.47,4.6,,5
+725,2025-06-02,under armour,tshirt,Men,General,L,White,2757,30,1929.9,2,UPI,Raipur,Online,CUST00724,Male,True,Damaged,2.54,4.3,Team Republican very plan cut person fact generation public wonder.,3
+726,2025-05-21,myntra,stole,Men,General,XS,Red,2687,40,1612.2,4,Card,Visakhapatnam,Offline,CUST00725,Male,False,,0.0,4.5,,4
+727,2025-06-21,vila,tie,Women,General,XS,Beige,982,40,589.2,3,UPI,Pune,Offline,CUST00726,Female,True,Size Issue,1.16,4.2,Reason follow break good lose number project individual security subject.,6
+728,2025-05-31,fable street,t-shirt,Men,General,XXXL,Red,731,0,731.0,1,Cash,Bhopal,Online,CUST00727,Female,True,Changed Mind,1.75,4.3,Space mission agent certainly prove customer seek claim expert.,3
+729,2025-05-28,jdy,trousers,Kids,General,L,White,813,0,813.0,3,Cash,Coimbatore,App,CUST00728,Other,False,,0.0,4.8,,4
+730,2025-05-18,zouk,purse,Unisex,General,XXXL,Green,1499,40,899.4,3,UPI,Vadodara,App,CUST00729,Other,True,Defective,1.73,3.8,,4
+731,2025-05-10,uniqlo,boots,Women,General,S,Red,1748,40,1048.8,2,Card,Chandigarh,App,CUST00730,Male,True,Size Issue,3.49,4.3,Daughter must grow laugh pattern push no.,1
+732,2025-05-25,brand factory,shirt,Men,General,M,Green,2908,30,2035.6,3,Card,Delhi,Offline,CUST00731,Other,False,,0.0,4.0,,4
+733,2025-06-27,amazon,suit,Women,General,S,Yellow,1254,30,877.8,5,Card,Kanpur,Offline,CUST00732,Male,False,,0.0,4.9,,7
+734,2025-06-10,melange,jewelry,Unisex,General,XXXL,Red,611,20,488.8,5,Wallet,Nagpur,App,CUST00733,Other,True,Defective,2.77,4.9,,3
+735,2025-05-27,global desi,party wear,Unisex,General,S,Yellow,2413,10,2171.7,2,Card,Jaipur,App,CUST00734,Female,True,Size Issue,3.86,3.6,,1
+736,2025-06-22,converse,boots,Unisex,General,XXL,Green,2989,0,2989.0,1,UPI,Noida,App,CUST00735,Female,False,,0.0,4.7,Realize another high indicate small rate whole.,1
+737,2025-05-09,h&m,suit,Kids,General,XS,Pink,2465,40,1479.0,2,Wallet,Delhi,App,CUST00736,Male,False,,0.0,4.8,,1
+738,2025-05-05,louis vuitton,suit,Unisex,General,XXXL,Green,1562,30,1093.4,2,Cash,Ludhiana,Online,CUST00737,Male,True,Size Issue,0.57,3.1,,7
+739,2025-05-28,junarose,suit,Unisex,General,XS,Red,748,20,598.4,3,Card,Kanpur,Offline,CUST00738,Other,True,Late Delivery,1.17,3.2,,1
+740,2025-05-23,givenchy,hoodie,Women,General,M,Pink,2202,0,2202.0,4,UPI,Chennai,Online,CUST00739,Female,False,,0.0,3.7,Than team kitchen difficult plant remember happy open school cultural right.,6
+741,2025-05-22,reliance trends,ring,Unisex,General,XL,Black,1155,20,924.0,1,UPI,Chennai,App,CUST00740,Male,True,Late Delivery,1.06,3.6,,6
+742,2025-06-01,zouk,necklace,Women,General,L,Black,1113,30,779.1,1,Card,Ahmedabad,App,CUST00741,Other,False,,0.0,4.1,Concern radio cost community message help investment news candidate.,5
+743,2025-06-29,jdy,tank top,Kids,General,XXL,Beige,1797,20,1437.6,2,UPI,Ahmedabad,Offline,CUST00742,Male,False,,0.0,3.5,Accept letter visit always up others similar.,1
+744,2025-07-02,max fashion,shawl,Kids,General,M,White,1940,40,1164.0,5,Card,Chandigarh,App,CUST00743,Female,True,Damaged,3.93,3.5,,2
+745,2025-06-02,amanté,shoes,Kids,General,XXL,Blue,2979,20,2383.2,3,UPI,Lucknow,Online,CUST00744,Male,False,,0.0,3.8,,5
+746,2025-06-20,snitch,fusion wear,Women,General,S,Beige,562,10,505.8,1,Wallet,Jaipur,App,CUST00745,Other,False,,0.0,4.5,Nearly authority remain moment whatever minute skill city myself idea.,1
+747,2025-06-06,ajio,bow tie,Women,General,XS,Blue,2608,40,1564.8,4,Wallet,Chandigarh,Online,CUST00746,Female,True,Color Mismatch,1.47,3.7,,3
+748,2025-05-25,march tee,coat,Men,General,XS,Pink,2337,30,1635.9,4,Wallet,Surat,Offline,CUST00747,Other,True,Color Mismatch,0.92,4.5,,5
+749,2025-05-24,chanel,cardigan,Men,General,XL,Pink,2356,30,1649.2,3,Wallet,Kolkata,App,CUST00748,Other,False,,0.0,4.9,Former family wear peace little no sell power.,3
+750,2025-05-15,columbia,fusion wear,Men,General,XL,Yellow,1667,20,1333.6,4,UPI,Patna,Online,CUST00749,Male,True,Color Mismatch,4.41,4.5,Knowledge toward party perform where radio fly trouble.,3
+751,2025-05-15,adidas,backpack,Unisex,General,M,Blue,984,20,787.2,3,Wallet,Bhopal,Online,CUST00750,Male,False,,0.0,4.9,Either rich agency might side method meet main.,5
+752,2025-06-01,melange,coat,Women,General,XXL,Green,1076,0,1076.0,2,Cash,Mumbai,App,CUST00751,Male,True,Defective,2.44,4.6,Fly bank benefit will significant mouth.,3
+753,2025-05-10,tistabene,tie,Kids,General,XL,Blue,2357,20,1885.6,1,Card,Bhopal,Offline,CUST00752,Female,False,,0.0,3.2,Prove similar ten interest billion Mrs.,3
+754,2025-06-15,here & now,jeans,Unisex,General,XXXL,White,1410,0,1410.0,3,Cash,Kochi,Offline,CUST00753,Female,False,,0.0,4.3,,7
+755,2025-05-11,ek by ekta kapoor,hoodie,Unisex,General,XS,Yellow,910,40,546.0,3,Cash,Visakhapatnam,App,CUST00754,Other,True,Color Mismatch,3.14,3.5,,7
+756,2025-05-18,house of masaba,scarf,Women,General,M,Beige,1119,30,783.3,2,Wallet,Surat,Online,CUST00755,Male,True,Late Delivery,4.29,4.5,Learn forward beautiful approach some.,1
+757,2025-06-27,y.a.s,indo western,Women,General,XXL,Blue,657,30,459.9,3,Wallet,Ludhiana,App,CUST00756,Male,False,,0.0,4.0,,2
+758,2025-05-10,nush,purse,Women,General,M,Beige,2506,30,1754.2,5,UPI,Visakhapatnam,Offline,CUST00757,Female,True,Size Issue,0.56,4.8,,3
+759,2025-06-28,lifestyle,scarf,Unisex,General,S,Yellow,973,10,875.7,4,UPI,Kanpur,Online,CUST00758,Female,False,,0.0,4.4,,4
+760,2025-05-26,noisy may,indo western,Kids,General,XXL,Red,617,20,493.6,3,Cash,Nagpur,Online,CUST00759,Other,False,,0.0,3.5,Imagine later identify first hope brother accept.,4
+761,2025-05-10,global desi,suit,Kids,General,M,Black,1598,30,1118.6,2,UPI,Ludhiana,Online,CUST00760,Female,False,,0.0,3.8,,2
+762,2025-06-29,amanté,churidar,Men,General,XL,Pink,1028,40,616.8,5,Card,Raipur,Online,CUST00761,Female,True,Color Mismatch,1.67,3.7,,1
+763,2025-05-08,jack jones,tank top,Women,General,M,Red,1142,40,685.2,4,Cash,Surat,Online,CUST00762,Female,False,,0.0,3.8,,2
+764,2025-05-11,nykaa,top,Men,General,XXXL,White,2553,30,1787.1,4,Card,Kolkata,Offline,CUST00763,Female,True,Size Issue,3.16,4.4,Up blood skin feeling beat she join house.,6
+765,2025-05-06,paul and shark,pants,Kids,General,XXL,Yellow,1036,20,828.8,1,Card,Bangalore,App,CUST00764,Other,False,,0.0,3.0,,5
+766,2025-06-19,adidas,skirt,Kids,General,S,Green,1824,30,1276.8,5,Card,Surat,Offline,CUST00765,Female,True,Defective,1.32,4.3,Mouth carry hospital something nation whether.,3
+767,2025-05-17,nike,tie,Women,General,L,Green,2478,20,1982.4,5,Cash,Indore,Online,CUST00766,Female,False,,0.0,4.9,,6
+768,2025-06-01,lifestyle,coat,Women,General,XL,Black,2126,10,1913.4,4,UPI,Coimbatore,App,CUST00767,Male,False,,0.0,3.7,,1
+769,2025-06-09,y.a.s,jacket,Women,General,S,Beige,2929,10,2636.1,1,Cash,Indore,App,CUST00768,Female,True,Defective,3.84,3.5,Network never but above.,3
+770,2025-06-30,nykaa,skirt,Unisex,General,XXL,Yellow,521,20,416.8,2,Wallet,Visakhapatnam,Offline,CUST00769,Female,True,Changed Mind,2.31,4.0,,6
+771,2025-06-11,indya,cardigan,Men,General,L,White,2037,10,1833.3,1,Cash,Kochi,App,CUST00770,Male,True,Size Issue,2.19,4.9,Natural be decide scientist rise deep town surface central contain.,4
+772,2025-07-02,versace,fusion wear,Kids,General,S,Yellow,2134,0,2134.0,3,Card,Nagpur,Offline,CUST00771,Other,False,,0.0,4.0,,3
+773,2025-05-28,prada,kurti,Unisex,General,XL,Red,2019,40,1211.4,5,UPI,Coimbatore,Offline,CUST00772,Male,False,,0.0,4.9,,7
+774,2025-05-22,versace,leggings,Kids,General,XS,Pink,2204,10,1983.6,2,Wallet,Bangalore,Online,CUST00773,Female,True,Size Issue,3.47,4.1,Consider son system surface usually.,1
+775,2025-06-26,noisy may,party wear,Women,General,XS,Pink,2789,10,2510.1,3,Card,Pune,Offline,CUST00774,Female,False,,0.0,4.2,Popular available public economy culture oil week ground provide.,5
+776,2025-05-26,fab alley,cap,Unisex,General,XL,Red,816,40,489.6,2,Card,Raipur,Online,CUST00775,Female,True,Changed Mind,2.82,3.3,,6
+777,2025-05-13,north face,sunglasses,Unisex,General,XXXL,Beige,1356,10,1220.4,1,Cash,Pune,Online,CUST00776,Other,True,Size Issue,0.82,4.7,People too fish late pattern figure once.,1
+778,2025-06-27,only,leggings,Kids,General,L,Beige,1838,20,1470.4,5,Card,Ahmedabad,App,CUST00777,Female,False,,0.0,4.5,,3
+779,2025-06-28,nush,handbag,Unisex,General,XL,White,2978,10,2680.2,2,UPI,Vadodara,Online,CUST00778,Female,False,,0.0,4.0,,6
+780,2025-06-08,y.a.s,pants,Kids,General,XXL,Pink,1228,0,1228.0,3,Wallet,Patna,App,CUST00779,Female,False,,0.0,3.4,,2
+781,2025-06-03,vans,watch,Women,General,XXL,Black,1301,30,910.7,3,Cash,Mumbai,App,CUST00780,Female,False,,0.0,3.2,Collection finish size Republican political everybody growth quickly former.,3
+782,2025-06-19,indya,traditional wear,Men,General,XL,Green,636,20,508.8,4,Wallet,Delhi,App,CUST00781,Other,False,,0.0,3.5,Knowledge simple main board population bank exactly step through.,5
+783,2025-05-23,the pant project,blouse,Kids,General,XL,Beige,2507,10,2256.3,4,Card,Delhi,Offline,CUST00782,Male,True,Color Mismatch,3.68,4.7,Safe phone road throughout support place spend.,4
+784,2025-06-29,shein,pants,Kids,General,XXL,Black,1786,0,1786.0,5,UPI,Pune,App,CUST00783,Other,True,Changed Mind,4.19,4.7,Shoulder defense already end thus music president chance.,6
+785,2025-06-11,rustorange,kurti,Unisex,General,XL,Black,2150,30,1505.0,1,Card,Pune,App,CUST00784,Male,False,,0.0,3.2,Through operation tax card may bed hair.,3
+786,2025-05-05,styched,palazzo,Kids,General,S,Black,1773,20,1418.4,5,UPI,Hyderabad,Offline,CUST00785,Female,True,Late Delivery,4.65,3.2,,2
+787,2025-05-27,louis vuitton,blazer,Unisex,General,XL,Black,1192,0,1192.0,2,UPI,Bhopal,Online,CUST00786,Other,True,Changed Mind,4.19,4.3,,2
+788,2025-07-02,moncler,trousers,Men,General,L,Green,1228,20,982.4,2,UPI,Nagpur,Online,CUST00787,Male,False,,0.0,4.8,Serious cell city not not the.,3
+789,2025-05-18,campus sutra,sneakers,Kids,General,M,White,2505,20,2004.0,5,UPI,Chandigarh,App,CUST00788,Other,False,,0.0,4.7,,2
+790,2025-06-19,lavie,tshirt,Kids,General,S,Red,2276,20,1820.8,3,Cash,Lucknow,App,CUST00789,Other,False,,0.0,3.2,,3
+791,2025-06-07,westside,dupatta,Unisex,General,XS,White,2616,10,2354.4,4,Cash,Bhopal,App,CUST00790,Female,False,,0.0,4.1,,1
+792,2025-05-07,campus sutra,clutch,Men,General,XXL,Pink,531,10,477.9,4,Wallet,Lucknow,Offline,CUST00791,Other,True,Size Issue,4.57,3.6,Seven discussion enough doctor protect military social.,2
+793,2025-06-10,max fashion,shirt,Kids,General,XL,Yellow,2134,30,1493.8,2,UPI,Raipur,Offline,CUST00792,Other,False,,0.0,4.0,Truth thing always possible billion why plant event score.,1
+794,2025-06-29,zivame,stole,Men,General,L,Yellow,1602,40,961.2,4,Card,Kolkata,App,CUST00793,Male,False,,0.0,4.8,,5
+795,2025-06-25,lavie,palazzo,Women,General,S,Pink,719,0,719.0,3,Cash,Chandigarh,Offline,CUST00794,Female,True,Damaged,0.0,3.3,,3
+796,2025-06-28,uniqlo,handbag,Women,General,S,Red,2287,0,2287.0,2,Cash,Kanpur,App,CUST00795,Female,True,Damaged,0.8,3.2,,4
+797,2025-05-20,aachho,dupatta,Kids,General,XXL,Yellow,2397,10,2157.3,1,Wallet,Chennai,Offline,CUST00796,Male,False,,0.0,4.5,,7
+798,2025-06-09,noisy may,tie,Kids,General,XL,White,1919,30,1343.3,5,Card,Ahmedabad,App,CUST00797,Male,True,Changed Mind,1.81,4.0,Half president structure might heavy trade might good.,5
+799,2025-06-06,indya,hat,Men,General,XXL,Red,1064,30,744.8,2,Card,Pune,Offline,CUST00798,Female,True,Changed Mind,1.92,3.4,Society thought according think key discover method exactly change.,3
+800,2025-05-19,house of masaba,sunglasses,Kids,General,XS,Green,2226,10,2003.4,2,Wallet,Kanpur,App,CUST00799,Male,False,,0.0,4.6,Own stage produce increase form box push look.,6
+801,2025-06-30,tata cliq,jacket,Kids,General,XXXL,Black,1157,20,925.6,2,Wallet,Kanpur,Offline,CUST00800,Male,False,,0.0,4.3,,4
+802,2025-05-19,stone island,tank top,Kids,General,M,White,2971,30,2079.7,5,UPI,Patna,Offline,CUST00801,Other,False,,0.0,4.7,,1
+803,2025-06-12,global desi,salwar,Kids,General,XXXL,White,1114,0,1114.0,3,UPI,Pune,App,CUST00802,Other,False,,0.0,3.9,During campaign or care.,1
+804,2025-06-22,thesvaya,pants,Kids,General,L,Pink,704,40,422.4,3,UPI,Nagpur,Offline,CUST00803,Other,False,,0.0,4.5,Three chair coach two might.,3
+805,2025-06-12,supreme,salwar,Unisex,General,L,Black,2328,20,1862.4,3,Card,Gurgaon,Online,CUST00804,Female,True,Late Delivery,3.69,3.5,Wide point these road start water describe paper likely loss.,1
+806,2025-05-25,tistabene,trousers,Women,General,XXL,Beige,2264,20,1811.2,3,Wallet,Vadodara,App,CUST00805,Male,False,,0.0,3.1,Over some star consider process enough right garden.,1
+807,2025-06-17,jdy,shorts,Men,General,L,White,1882,20,1505.6,4,Wallet,Mumbai,Online,CUST00806,Other,False,,0.0,4.4,,1
+808,2025-06-30,here & now,bow tie,Men,General,XXXL,Red,2837,20,2269.6,3,Cash,Vadodara,Online,CUST00807,Female,False,,0.0,3.4,,3
+809,2025-06-30,moschino,lehenga,Men,General,XL,Yellow,1241,20,992.8,3,Card,Nagpur,Online,CUST00808,Male,False,,0.0,4.3,Discover history board dark teacher.,4
+810,2025-06-21,adidas,backpack,Women,General,S,Black,1828,10,1645.2,1,UPI,Raipur,App,CUST00809,Other,False,,0.0,4.2,,3
+811,2025-06-13,reliance trends,sunglasses,Men,General,M,Pink,1808,20,1446.4,4,Cash,Bhopal,App,CUST00810,Female,True,Late Delivery,3.49,4.3,Painting concern top outside there mother.,1
+812,2025-05-15,snitch,cardigan,Kids,General,XL,Pink,839,10,755.1,5,UPI,Surat,Offline,CUST00811,Female,False,,0.0,4.3,Lot candidate owner still to.,5
+813,2025-06-14,suta,kurti,Unisex,General,XL,Yellow,2200,0,2200.0,3,Wallet,Ahmedabad,Offline,CUST00812,Other,True,Damaged,3.04,4.7,Inside themselves recently investment voice lot shoulder go source traditional.,2
+814,2025-06-28,levis,dupatta,Unisex,General,S,Blue,2141,40,1284.6,4,UPI,Patna,Online,CUST00813,Female,False,,0.0,3.6,International effort she travel base.,1
+815,2025-07-01,vero moda,backpack,Kids,General,S,Yellow,2525,30,1767.5,3,Wallet,Kolkata,Online,CUST00814,Female,False,,0.0,3.0,,7
+816,2025-06-25,tata cliq,party wear,Women,General,XXL,White,2069,40,1241.4,4,Wallet,Nagpur,Online,CUST00815,Other,True,Late Delivery,1.12,4.2,,1
+817,2025-06-12,lavie,belt,Men,General,M,Red,1180,40,708.0,4,Card,Chandigarh,Online,CUST00816,Other,False,,0.0,4.1,,7
+818,2025-05-29,pantaloons,saree,Unisex,General,XXL,Red,1216,30,851.2,2,UPI,Chennai,Offline,CUST00817,Male,True,Size Issue,2.89,3.9,,4
+819,2025-05-22,sazo,shawl,Women,General,L,White,2973,20,2378.4,2,Cash,Bhopal,App,CUST00818,Male,True,Color Mismatch,0.16,4.4,,4
+820,2025-05-04,mango,sunglasses,Kids,General,M,White,2985,40,1791.0,1,Wallet,Coimbatore,App,CUST00819,Male,False,,0.0,4.6,,6
+821,2025-05-04,converse,t-shirt,Kids,General,XXL,Beige,2254,0,2254.0,1,Cash,Jaipur,App,CUST00820,Male,True,Changed Mind,2.06,3.7,,7
+822,2025-06-29,ralph lauren,western wear,Unisex,General,XS,Pink,802,30,561.4,4,Cash,Patna,Offline,CUST00821,Female,False,,0.0,4.4,Brother according pressure reach firm gun choice prepare effect talk.,4
+823,2025-06-14,object,sneakers,Unisex,General,XL,Black,1072,10,964.8,5,UPI,Mumbai,Online,CUST00822,Female,False,,0.0,4.4,Hand every quite sense including six lot have never effect.,6
+824,2025-06-02,object,saree,Unisex,General,L,Beige,1706,10,1535.4,2,Cash,Gurgaon,Offline,CUST00823,Female,False,,0.0,4.3,General relationship save talk process security land record class Democrat.,2
+825,2025-06-11,prada,purse,Men,General,M,Pink,2582,40,1549.2,4,Wallet,Gurgaon,Online,CUST00824,Female,True,Late Delivery,4.26,3.6,Song pass range appear home player source statement.,7
+826,2025-06-18,bewakoof,indo western,Women,General,XXXL,Beige,1217,30,851.9,4,Card,Kanpur,Online,CUST00825,Female,True,Changed Mind,1.03,3.3,,6
+827,2025-07-01,tata cliq,pants,Women,General,M,Beige,2380,40,1428.0,1,Cash,Raipur,Online,CUST00826,Female,True,Damaged,3.13,4.9,,3
+828,2025-06-15,fable street,cardigan,Men,General,L,Red,1501,20,1200.8,2,Cash,Ahmedabad,App,CUST00827,Other,False,,0.0,3.4,,3
+829,2025-05-12,nike,boots,Women,General,XXL,White,1041,40,624.6,3,Card,Pune,Online,CUST00828,Male,False,,0.0,3.9,,7
+830,2025-05-10,canada goose,tank top,Men,General,S,Beige,975,30,682.5,1,Wallet,Pune,Online,CUST00829,Other,True,Late Delivery,2.44,4.1,,7
+831,2025-05-29,march tee,jeans,Kids,General,XXXL,Red,2911,40,1746.6,4,Card,Jaipur,Offline,CUST00830,Other,False,,0.0,4.0,He participant right us husband prevent expert.,5
+832,2025-07-01,only,western wear,Unisex,General,XXL,Green,1581,40,948.6,2,UPI,Jaipur,App,CUST00831,Other,False,,0.0,4.3,Watch star policy keep cut.,7
+833,2025-06-23,central,lehenga,Men,General,M,Beige,2529,10,2276.1,2,Card,Patna,Offline,CUST00832,Other,False,,0.0,3.2,,3
+834,2025-05-31,hermes,lehenga,Men,General,XXXL,Red,1372,20,1097.6,5,UPI,Lucknow,App,CUST00833,Female,True,Color Mismatch,1.5,4.2,,2
+835,2025-05-22,dior,clutch,Women,General,XXXL,Yellow,1202,10,1081.8,5,Cash,Lucknow,App,CUST00834,Female,False,,0.0,4.6,Six member recognize past purpose.,3
+836,2025-06-07,fab alley,ethnic wear,Unisex,General,M,Blue,1753,20,1402.4,3,UPI,Bhopal,Offline,CUST00835,Female,False,,0.0,4.5,Pretty wish beautiful every human prove if.,4
+837,2025-05-23,here & now,crop top,Kids,General,M,Blue,2370,20,1896.0,1,Cash,Pune,App,CUST00836,Other,False,,0.0,3.6,Address region try near risk next on girl spring difficult.,3
+838,2025-05-22,sazo,tie,Kids,General,M,Red,1379,40,827.4,5,Wallet,Jaipur,Online,CUST00837,Male,True,Size Issue,1.63,4.0,,4
+839,2025-06-17,amanté,t-shirt,Kids,General,XXL,Beige,1522,20,1217.6,5,Wallet,Delhi,Online,CUST00838,Male,False,,0.0,3.6,Offer end imagine blood authority family water sort.,3
+840,2025-05-29,reliance trends,jeans,Women,General,XXL,White,1828,30,1279.6,2,Cash,Noida,Offline,CUST00839,Other,True,Late Delivery,0.44,3.5,,7
+841,2025-06-25,y.a.s,sneakers,Unisex,General,XXL,Black,1074,0,1074.0,3,UPI,Patna,Offline,CUST00840,Other,True,Size Issue,1.61,3.5,Economic kind help low during fund simply race to television.,2
+842,2025-06-19,bottega veneta,sneakers,Men,General,S,White,2181,30,1526.7,4,Wallet,Delhi,App,CUST00841,Male,False,,0.0,3.0,Election him small detail red.,1
+843,2025-06-03,thesvaya,traditional wear,Unisex,General,XXXL,Beige,1656,40,993.6,3,Card,Raipur,Online,CUST00842,Other,True,Late Delivery,3.9,4.1,,7
+844,2025-06-13,mamalicious,blazer,Kids,General,XL,Red,798,30,558.6,3,Wallet,Bhopal,App,CUST00843,Male,False,,0.0,3.1,,3
+845,2025-06-07,selected,casual wear,Kids,General,XS,Yellow,2853,20,2282.4,1,Wallet,Mumbai,Online,CUST00844,Male,False,,0.0,3.9,Movie red enjoy expert human see garden never condition finish.,2
+846,2025-05-25,pieces,clutch,Kids,General,XXL,Red,2851,20,2280.8,5,Cash,Pune,Online,CUST00845,Male,False,,0.0,3.4,Especially water raise travel material current save their deal dark.,5
+847,2025-05-28,amanté,t-shirt,Women,General,XL,Pink,782,20,625.6,3,Cash,Kanpur,Online,CUST00846,Male,False,,0.0,3.3,,2
+848,2025-06-07,clovia,dupatta,Unisex,General,XS,Blue,2299,0,2299.0,4,Card,Bhopal,App,CUST00847,Other,True,Damaged,0.25,3.9,Single build bad what manage according.,7
+849,2025-06-25,carmakoma,watch,Men,General,XS,Blue,2574,40,1544.4,5,Card,Kolkata,Online,CUST00848,Male,False,,0.0,4.5,Summer he firm together thing.,3
+850,2025-06-28,hermes,scarf,Women,General,XS,Pink,2456,20,1964.8,5,Card,Bhopal,Online,CUST00849,Male,False,,0.0,4.6,Make worker trouble exactly develop office approach.,7
+851,2025-06-14,reebok,jacket,Unisex,General,M,White,2277,20,1821.6,2,Card,Ludhiana,App,CUST00850,Female,False,,0.0,3.0,,6
+852,2025-06-19,amazon,clutch,Women,General,XXXL,Red,1225,40,735.0,1,Cash,Kochi,Online,CUST00851,Male,False,,0.0,4.5,Allow girl team simply lead build million firm across purpose.,7
+853,2025-06-09,the pant project,churidar,Unisex,General,M,Yellow,1144,30,800.8,2,Cash,Kochi,Online,CUST00852,Other,True,Changed Mind,4.4,3.2,Beyond gun technology cost enjoy especially when gas contain interest.,4
+854,2025-06-13,moncler,churidar,Kids,General,XXL,Pink,1585,40,951.0,3,Card,Mumbai,Offline,CUST00853,Male,False,,0.0,3.1,,4
+855,2025-06-09,name it,t-shirt,Kids,General,XXXL,Blue,1146,0,1146.0,1,UPI,Ahmedabad,Online,CUST00854,Female,True,Defective,4.84,3.9,Take evidence conference capital office direction between establish.,5
+856,2025-05-26,gucci,suit,Men,General,M,Beige,2422,20,1937.6,2,UPI,Kanpur,App,CUST00855,Female,True,Damaged,2.46,4.7,,2
+857,2025-06-26,only,scarf,Women,General,XXXL,Blue,1422,0,1422.0,1,Wallet,Surat,App,CUST00856,Male,True,Size Issue,1.25,4.5,Task cultural son school list act instead care throw.,6
+858,2025-06-23,nirvanaa styles,party wear,Unisex,General,XXXL,Blue,1842,30,1289.4,3,Cash,Noida,App,CUST00857,Male,False,,0.0,4.3,,2
+859,2025-06-24,prada,top,Men,General,XXXL,Red,1162,30,813.4,3,Card,Noida,Offline,CUST00858,Female,False,,0.0,3.4,,5
+860,2025-06-03,lifestyle,cap,Women,General,L,Green,2734,30,1913.8,1,UPI,Ludhiana,App,CUST00859,Female,False,,0.0,5.0,Feel no nothing huge real art sport live picture.,3
+861,2025-06-16,clovia,indo western,Kids,General,XXL,White,1901,40,1140.6,3,Card,Chandigarh,Offline,CUST00860,Other,True,Late Delivery,0.63,3.5,Employee growth newspaper special general in go quickly.,1
+862,2025-07-01,vila,pants,Unisex,General,S,Pink,1756,30,1229.2,4,Card,Kochi,Online,CUST00861,Female,True,Size Issue,4.2,3.4,Officer practice Mrs without expect foot.,6
+863,2025-06-22,selected,earrings,Women,General,XL,Black,2682,20,2145.6,5,Cash,Vadodara,App,CUST00862,Male,False,,0.0,3.3,,6
+864,2025-06-20,nush,scarf,Women,General,XL,Yellow,1327,20,1061.6,1,Wallet,Surat,Offline,CUST00863,Other,False,,0.0,4.8,Threat high expert place certain cold space front piece.,2
+865,2025-06-28,zara,purse,Men,General,M,Green,1354,40,812.4,5,Card,Delhi,Offline,CUST00864,Male,True,Damaged,4.11,4.5,,2
+866,2025-06-12,savlani,hat,Women,General,XXL,Yellow,2100,40,1260.0,2,Cash,Chandigarh,Online,CUST00865,Male,False,,0.0,3.3,Bad gas finish president report.,6
+867,2025-07-01,ralph lauren,skirt,Kids,General,S,Green,1840,0,1840.0,1,UPI,Kochi,Online,CUST00866,Other,False,,0.0,3.5,Even know television guy only whole including contain.,7
+868,2025-05-06,name it,pants,Kids,General,S,White,1897,20,1517.6,1,Wallet,Jaipur,Online,CUST00867,Other,False,,0.0,3.9,Road product wait red bag cold.,6
+869,2025-05-14,zivame,indo western,Unisex,General,S,White,861,40,516.6,5,UPI,Ahmedabad,App,CUST00868,Female,False,,0.0,3.8,,7
+870,2025-05-13,nush,boots,Unisex,General,M,Pink,2217,20,1773.6,3,Card,Mumbai,Online,CUST00869,Other,False,,0.0,3.5,View list approach side model.,5
+871,2025-05-12,nirvanaa styles,bow tie,Unisex,General,XS,Beige,2795,40,1677.0,5,Wallet,Gurgaon,App,CUST00870,Other,False,,0.0,3.1,Energy choice pressure those finally.,7
+872,2025-05-28,mamalicious,jacket,Men,General,XS,Red,1976,40,1185.6,5,Wallet,Indore,App,CUST00871,Other,True,Changed Mind,3.24,3.9,Kitchen call money color along ground trip.,7
+873,2025-06-19,zouk,tshirt,Kids,General,XXXL,Yellow,604,10,543.6,5,Cash,Mumbai,App,CUST00872,Female,True,Changed Mind,4.6,4.6,,7
+874,2025-06-18,reebok,heels,Unisex,General,M,Red,1632,30,1142.4,1,UPI,Bhopal,App,CUST00873,Other,False,,0.0,4.5,Various nature career way much opportunity lead see theory itself.,5
+875,2025-06-24,nush,clutch,Kids,General,XXXL,Pink,1203,30,842.1,1,UPI,Chandigarh,App,CUST00874,Other,True,Changed Mind,4.14,3.2,,6
+876,2025-06-03,canada goose,cap,Kids,General,XXL,Blue,2066,10,1859.4,3,Wallet,Chandigarh,Offline,CUST00875,Female,False,,0.0,4.5,,3
+877,2025-06-06,levis,shirt,Women,General,XL,Green,2572,40,1543.2,3,Cash,Indore,App,CUST00876,Other,True,Size Issue,0.47,4.4,,6
+878,2025-06-19,go colors,cap,Unisex,General,S,Pink,2681,20,2144.8,4,Cash,Indore,Online,CUST00877,Other,False,,0.0,4.2,,3
+879,2025-06-25,max fashion,scarf,Men,General,S,Blue,1620,0,1620.0,4,Cash,Vadodara,Online,CUST00878,Male,True,Damaged,3.24,3.4,Source kind hand employee field a spring.,2
+880,2025-05-17,go colors,shirt,Kids,General,XXXL,Beige,2196,40,1317.6,5,Cash,Nagpur,Online,CUST00879,Other,False,,0.0,4.3,,4
+881,2025-06-06,ek by ekta kapoor,sneakers,Unisex,General,XXXL,Green,2265,20,1812.0,3,Cash,Lucknow,App,CUST00880,Female,True,Color Mismatch,0.67,4.7,,2
+882,2025-05-31,adidas,trousers,Kids,General,XL,Pink,928,40,556.8,2,UPI,Vadodara,App,CUST00881,Other,True,Damaged,1.35,4.7,Movement reach man sense federal she something others someone.,4
+883,2025-06-26,carmakoma,fusion wear,Kids,General,XS,Blue,589,40,353.4,4,Card,Chandigarh,Offline,CUST00882,Other,True,Defective,3.41,3.1,,5
+884,2025-06-09,lavie,heels,Men,General,XXL,Beige,2263,10,2036.7,4,Cash,Kanpur,Offline,CUST00883,Female,False,,0.0,3.7,,5
+885,2025-05-22,prada,belt,Unisex,General,XXXL,Black,2995,0,2995.0,3,Card,Patna,Online,CUST00884,Other,True,Late Delivery,2.07,3.3,Think join economic resource position stock determine bad.,5
+886,2025-05-27,alkemi,salwar,Women,General,XS,Beige,988,20,790.4,1,Card,Indore,App,CUST00885,Other,False,,0.0,4.6,Share travel space range expect sea speak include table consumer.,4
+887,2025-06-01,rare rabbit,leggings,Unisex,General,S,White,1773,20,1418.4,2,Wallet,Jaipur,Offline,CUST00886,Male,True,Changed Mind,2.01,3.5,,6
+888,2025-05-14,columbia,cardigan,Kids,General,XXXL,White,2644,20,2115.2,1,Card,Visakhapatnam,Online,CUST00887,Other,False,,0.0,3.2,Pay evening performance could affect anyone movement control bill.,5
+889,2025-05-30,zara,top,Unisex,General,L,Green,612,40,367.2,5,UPI,Bangalore,Online,CUST00888,Male,False,,0.0,3.4,Resource road do character management game.,3
+890,2025-06-03,thesvaya,jacket,Women,General,XL,Pink,2850,10,2565.0,4,Cash,Kochi,Online,CUST00889,Female,True,Late Delivery,0.19,4.1,,1
+891,2025-06-21,fab alley,handbag,Unisex,General,XS,Pink,1237,40,742.2,5,Cash,Hyderabad,Offline,CUST00890,Male,True,Late Delivery,4.6,4.9,,5
+892,2025-06-09,savlani,sunglasses,Kids,General,XS,White,1884,10,1695.6,3,Cash,Ahmedabad,Offline,CUST00891,Male,False,,0.0,3.1,Recent all bag seek certainly entire hotel myself consider.,4
+893,2025-05-28,rare rabbit,jacket,Men,General,XXL,Pink,2658,40,1594.8,5,Wallet,Patna,App,CUST00892,Other,True,Changed Mind,1.6,3.9,Stock business should eat side kitchen scene almost.,6
+894,2025-06-17,yeezy,tie,Kids,General,L,White,2507,0,2507.0,4,Card,Lucknow,App,CUST00893,Female,False,,0.0,3.6,,7
+895,2025-05-13,clovia,flats,Men,General,XL,Black,1269,0,1269.0,3,Cash,Ludhiana,Offline,CUST00894,Other,True,Late Delivery,0.14,4.9,Program decade home which view city rock seat near business.,3
+896,2025-06-19,koovs,tank top,Kids,General,XXL,Blue,2582,20,2065.6,1,Cash,Hyderabad,Offline,CUST00895,Male,True,Color Mismatch,1.6,4.4,Cup thought tell design both plan foot.,5
+897,2025-05-20,amazon,top,Kids,General,S,White,1688,0,1688.0,2,UPI,Kolkata,Offline,CUST00896,Male,False,,0.0,4.8,Once how during why ok real read.,2
+898,2025-05-19,noisy may,shorts,Women,General,XL,Green,2230,40,1338.0,3,Cash,Ludhiana,App,CUST00897,Female,False,,0.0,4.4,Side eat matter rather full wide service art.,4
+899,2025-06-07,moschino,watch,Women,General,XXXL,Beige,1537,40,922.2,1,Wallet,Delhi,App,CUST00898,Female,True,Color Mismatch,3.45,3.1,Red social call discussion word small.,2
+900,2025-06-06,forever21,indo western,Women,General,XL,Pink,1184,20,947.2,4,UPI,Visakhapatnam,Offline,CUST00899,Female,False,,0.0,3.2,Run again help right economy always religious next my.,7
+901,2025-06-20,lavie,palazzo,Men,General,XL,Beige,1321,10,1188.9,5,Card,Coimbatore,Offline,CUST00900,Male,True,Size Issue,0.19,3.8,Note myself food life test out.,6
+902,2025-06-26,givenchy,sweater,Kids,General,XL,Pink,2293,10,2063.7,4,Card,Kanpur,App,CUST00901,Male,True,Color Mismatch,1.59,4.1,,3
+903,2025-05-19,indya,heels,Women,General,M,Beige,1320,0,1320.0,4,Wallet,Chennai,Offline,CUST00902,Other,True,Size Issue,0.92,3.4,,4
+904,2025-05-10,thesvaya,blouse,Kids,General,XS,Red,2963,40,1777.8,3,Cash,Chennai,App,CUST00903,Female,True,Defective,3.42,3.8,,5
+905,2025-06-24,march tee,kurti,Unisex,General,M,Black,1086,0,1086.0,2,Card,Indore,Online,CUST00904,Other,True,Damaged,3.84,3.2,Last standard must law simply media.,6
+906,2025-05-22,object,tshirt,Men,General,XS,Beige,2839,30,1987.3,3,Wallet,Bhopal,App,CUST00905,Male,False,,0.0,4.2,People hair per fly.,6
+907,2025-05-10,shoppers stop,casual wear,Women,General,L,Pink,1415,10,1273.5,3,Cash,Indore,Offline,CUST00906,Male,False,,0.0,4.5,Standard couple raise she child executive important focus benefit probably.,3
+908,2025-05-08,amazon,shorts,Kids,General,L,Red,2146,10,1931.4,3,Cash,Indore,Offline,CUST00907,Female,False,,0.0,4.5,Condition all blood court all politics.,4
+909,2025-06-10,converse,party wear,Unisex,General,M,Yellow,1044,40,626.4,2,Cash,Pune,App,CUST00908,Male,True,Color Mismatch,3.3,4.2,,5
+910,2025-06-20,vans,belt,Unisex,General,S,Yellow,1077,30,753.9,1,Wallet,Surat,App,CUST00909,Female,True,Size Issue,1.09,4.1,Perhaps opportunity any determine responsibility actually TV pretty up story.,4
+911,2025-06-18,louis vuitton,bow tie,Kids,General,XS,Red,2079,40,1247.4,2,UPI,Raipur,App,CUST00910,Other,True,Color Mismatch,2.01,4.6,Guess sea three state some.,4
+912,2025-05-09,westside,backpack,Women,General,XXXL,Blue,2492,20,1993.6,5,Card,Kanpur,Online,CUST00911,Male,True,Defective,0.04,4.7,Entire American audience fight war whether best rise mother country moment.,7
+913,2025-05-28,canada goose,blazer,Unisex,General,S,Blue,1371,20,1096.8,1,UPI,Gurgaon,Offline,CUST00912,Other,False,,0.0,4.0,,3
+914,2025-06-28,adidas,purse,Women,General,S,Blue,2199,0,2199.0,5,Wallet,Kolkata,App,CUST00913,Other,False,,0.0,4.4,Way next newspaper second short office purpose reflect interview bit society.,7
+915,2025-06-26,levis,shoes,Women,General,L,White,660,10,594.0,4,Wallet,Indore,Offline,CUST00914,Male,True,Late Delivery,3.44,4.6,,5
+916,2025-06-11,lifestyle,lehenga,Men,General,L,Pink,1890,0,1890.0,3,Card,Kolkata,Online,CUST00915,Other,False,,0.0,4.4,,1
+917,2025-06-22,here & now,palazzo,Unisex,General,M,White,1951,40,1170.6,4,Card,Gurgaon,App,CUST00916,Female,True,Changed Mind,4.26,3.4,Price move outside value total nearly you suddenly.,5
+918,2025-06-13,central,blouse,Unisex,General,S,Black,1477,20,1181.6,3,Wallet,Nagpur,Offline,CUST00917,Male,False,,0.0,4.5,,4
+919,2025-06-14,north face,cardigan,Men,General,S,Black,2848,0,2848.0,3,Wallet,Pune,Offline,CUST00918,Female,False,,0.0,3.1,,6
+920,2025-06-04,north face,watch,Unisex,General,XXXL,Yellow,2166,20,1732.8,2,UPI,Raipur,Offline,CUST00919,Other,True,Damaged,1.41,3.2,Drive nation heart nearly season growth laugh where a alone.,6
+921,2025-05-31,truebrowns,cardigan,Unisex,General,XXXL,White,593,10,533.7,1,Cash,Bangalore,Online,CUST00920,Female,True,Size Issue,2.86,3.5,Administration career three according worker Democrat fire sign wall state.,1
+922,2025-06-26,march tee,top,Men,General,XXL,Pink,787,10,708.3,5,Wallet,Ludhiana,Offline,CUST00921,Other,True,Late Delivery,0.61,4.4,News unit choice also green catch happen old do specific.,6
+923,2025-05-12,louis vuitton,cardigan,Men,General,XXL,White,514,30,359.8,2,Cash,Delhi,App,CUST00922,Male,False,,0.0,3.6,,4
+924,2025-06-28,ek by ekta kapoor,palazzo,Kids,General,XL,Blue,2420,20,1936.0,5,Card,Bhopal,Online,CUST00923,Other,True,Defective,0.88,3.4,Notice design baby foot lot major together reflect.,5
+925,2025-05-13,campus sutra,anarkali,Men,General,XXL,White,1269,10,1142.1,3,Cash,Kolkata,Offline,CUST00924,Other,False,,0.0,4.2,,3
+926,2025-06-30,global desi,dupatta,Unisex,General,XXXL,Pink,1485,40,891.0,1,UPI,Surat,Online,CUST00925,Male,True,Defective,2.47,4.8,Also space high sister two free they.,7
+927,2025-06-15,uniqlo,bow tie,Kids,General,XS,White,1803,40,1081.8,3,Card,Noida,Offline,CUST00926,Other,False,,0.0,3.9,,4
+928,2025-06-13,brand factory,ring,Unisex,General,XXXL,Beige,1782,40,1069.2,2,Cash,Noida,Online,CUST00927,Male,False,,0.0,3.8,,3
+929,2025-05-15,westside,cap,Kids,General,L,Blue,1080,30,756.0,4,Card,Chennai,Offline,CUST00928,Female,True,Damaged,1.83,3.9,,2
+930,2025-05-26,carmakoma,skirt,Women,General,S,White,566,30,396.2,4,Cash,Jaipur,Offline,CUST00929,Male,True,Damaged,1.96,3.6,,5
+931,2025-07-01,valentino,boots,Women,General,L,Beige,2271,30,1589.7,2,Wallet,Kanpur,Online,CUST00930,Female,True,Defective,4.76,4.4,,2
+932,2025-05-05,jack jones,shawl,Kids,General,XXXL,Red,2204,30,1542.8,1,UPI,Ludhiana,Online,CUST00931,Female,False,,0.0,4.4,Him fight American music change maybe determine anything rule hotel knowledge.,1
+933,2025-06-30,selected,trousers,Unisex,General,M,Pink,1023,20,818.4,5,Wallet,Bangalore,Online,CUST00932,Female,False,,0.0,3.8,Measure develop face hour car bar number any human be.,3
+934,2025-06-21,aachho,stole,Unisex,General,XXL,Beige,1648,40,988.8,3,UPI,Vadodara,Online,CUST00933,Male,False,,0.0,4.6,,2
+935,2025-06-15,paul and shark,shawl,Women,General,L,Beige,578,20,462.4,5,Card,Indore,Online,CUST00934,Other,False,,0.0,3.2,Seven lose cup house number night.,5
+936,2025-06-23,forever21,sandals,Kids,General,L,Red,1630,10,1467.0,3,Card,Coimbatore,Online,CUST00935,Male,True,Changed Mind,1.78,4.2,,7
+937,2025-05-27,mast and harbour,sandals,Unisex,General,L,Pink,2976,40,1785.6,2,Cash,Gurgaon,App,CUST00936,Male,False,,0.0,4.5,,2
+938,2025-05-27,off white,traditional wear,Women,General,XXXL,Yellow,2231,0,2231.0,3,UPI,Pune,Online,CUST00937,Female,True,Defective,3.26,4.5,Entire involve range office both.,4
+939,2025-06-13,lifestyle,shorts,Kids,General,XL,Blue,2931,30,2051.7,3,Card,Jaipur,Offline,CUST00938,Female,True,Color Mismatch,3.03,3.6,,3
+940,2025-06-14,tommy hilfiger,shirt,Men,General,XXXL,Pink,2762,30,1933.4,3,Cash,Lucknow,App,CUST00939,Female,True,Color Mismatch,2.17,3.6,Give fly order agency fight write pattern wrong.,5
+941,2025-06-15,bewakoof,tshirt,Unisex,General,M,Black,2594,0,2594.0,2,Wallet,Bangalore,Online,CUST00940,Male,True,Defective,2.61,4.9,Certainly and stand current health serious table both approach we unit.,7
+942,2025-05-31,reebok,bracelet,Unisex,General,XS,Yellow,1906,0,1906.0,4,Wallet,Visakhapatnam,Online,CUST00941,Other,False,,0.0,4.3,Gas sound figure likely.,2
+943,2025-06-05,paul and shark,blazer,Women,General,L,Blue,971,20,776.8,2,Cash,Delhi,App,CUST00942,Other,True,Defective,3.21,4.4,Science deep national seek nature performance.,1
+944,2025-05-17,zivame,scarf,Women,General,S,Blue,2549,20,2039.2,3,Wallet,Patna,App,CUST00943,Other,False,,0.0,3.0,,4
+945,2025-05-05,nirvanaa styles,blouse,Kids,General,XL,White,663,10,596.7,5,Card,Pune,Online,CUST00944,Other,False,,0.0,3.0,,5
+946,2025-06-09,only,ring,Women,General,L,Red,1122,40,673.2,1,UPI,Jaipur,App,CUST00945,Female,False,,0.0,3.3,Town money eight art customer recent even let war at.,5
+947,2025-05-30,north face,heels,Women,General,M,Green,2107,0,2107.0,3,Wallet,Mumbai,Offline,CUST00946,Other,False,,0.0,3.4,Ten affect test power discuss herself with between.,4
+948,2025-06-03,folklore,coat,Women,General,S,Green,1376,40,825.6,3,UPI,Bhopal,Online,CUST00947,Other,True,Late Delivery,4.45,4.7,Term mother cost may leader unit again easy morning.,1
+949,2025-06-05,h&m,handbag,Women,General,XXXL,Blue,1866,10,1679.4,4,Wallet,Raipur,Offline,CUST00948,Female,False,,0.0,4.2,Hotel church get goal personal door within may speech.,4
+950,2025-05-29,y.a.s,western wear,Unisex,General,XXXL,Red,817,40,490.2,1,Card,Mumbai,App,CUST00949,Male,True,Changed Mind,4.65,3.6,Three spring ahead never exactly charge today prevent.,5
+951,2025-05-12,adidas,saree,Men,General,M,Red,1280,30,896.0,3,Card,Jaipur,Offline,CUST00950,Other,True,Changed Mind,3.85,4.8,Minute question their rather individual of interview fine.,3
+952,2025-07-01,fab alley,casual wear,Women,General,XS,Black,2450,10,2205.0,1,Card,Bangalore,App,CUST00951,Male,False,,0.0,4.7,,5
+953,2025-06-04,fendi,sandals,Men,General,XXL,Beige,758,10,682.2,2,Card,Indore,App,CUST00952,Female,True,Defective,2.49,4.7,My deal catch must son television finally relate model.,1
+954,2025-05-17,zouk,t-shirt,Men,General,XXXL,Green,1652,30,1156.4,2,UPI,Mumbai,App,CUST00953,Female,True,Size Issue,3.45,4.6,,1
+955,2025-06-14,y.a.s,bow tie,Kids,General,XXXL,Red,692,20,553.6,3,Card,Gurgaon,Offline,CUST00954,Female,False,,0.0,4.1,Prevent north citizen attack mouth rest.,3
+956,2025-05-21,patagonia,shorts,Unisex,General,L,Blue,2875,30,2012.5,3,Wallet,Chandigarh,Offline,CUST00955,Male,False,,0.0,4.4,Style certainly ahead five win which field seat.,4
+957,2025-05-30,jdy,blazer,Unisex,General,S,Pink,1968,30,1377.6,4,Cash,Delhi,Offline,CUST00956,Other,True,Late Delivery,1.71,4.3,,7
+958,2025-05-18,paul and shark,leggings,Women,General,XXXL,Yellow,833,30,583.1,1,Card,Kochi,Online,CUST00957,Other,True,Changed Mind,4.67,4.3,Blood continue several partner environment note.,2
+959,2025-05-26,central,sling bag,Men,General,M,Pink,2745,30,1921.5,5,Wallet,Ahmedabad,App,CUST00958,Female,False,,0.0,4.4,,2
+960,2025-06-30,chanel,casual wear,Women,General,XXL,Black,2565,0,2565.0,4,Cash,Bangalore,App,CUST00959,Female,True,Damaged,1.51,3.4,,7
+961,2025-05-26,ajio,anarkali,Men,General,XS,Green,994,10,894.6,2,Card,Bangalore,Offline,CUST00960,Female,True,Damaged,4.72,4.3,Reach grow read live maybe painting Republican.,5
+962,2025-06-09,columbia,purse,Kids,General,M,Red,1743,30,1220.1,5,Wallet,Ludhiana,App,CUST00961,Other,True,Color Mismatch,2.46,3.1,System man case cover allow share.,1
+963,2025-05-05,campus sutra,heels,Kids,General,XXXL,Yellow,2706,0,2706.0,4,UPI,Kanpur,Offline,CUST00962,Male,False,,0.0,3.1,Wear development provide dark daughter computer western.,1
+964,2025-06-15,bottega veneta,ethnic wear,Men,General,XS,Red,884,30,618.8,4,UPI,Ahmedabad,App,CUST00963,Female,True,Changed Mind,1.55,4.6,,2
+965,2025-07-02,adidas,belt,Men,General,XXL,Blue,2929,0,2929.0,5,Wallet,Bangalore,App,CUST00964,Male,False,,0.0,3.5,,7
+966,2025-06-20,bottega veneta,tank top,Men,General,XXL,Beige,1211,30,847.7,3,Cash,Delhi,Offline,CUST00965,Other,False,,0.0,3.9,,7
+967,2025-06-04,burberry,hoodie,Kids,General,L,Red,522,30,365.4,2,Wallet,Delhi,Offline,CUST00966,Male,True,Changed Mind,4.33,4.2,Thought into simply part station result hour voice occur.,6
+968,2025-06-25,truebrowns,suit,Men,General,XS,Blue,1069,10,962.1,5,Card,Bhopal,Offline,CUST00967,Female,False,,0.0,3.0,,6
+969,2025-06-23,daisy,ring,Men,General,L,Beige,636,20,508.8,4,Wallet,Bangalore,Online,CUST00968,Male,False,,0.0,4.8,,4
+970,2025-05-07,vero moda,cap,Women,General,S,White,597,10,537.3,1,Cash,Kanpur,Online,CUST00969,Female,False,,0.0,4.1,Body lead there there early Mrs worker always hold share.,7
+971,2025-05-08,junarose,lehenga,Kids,General,XS,Black,1450,10,1305.0,2,UPI,Chennai,App,CUST00970,Other,False,,0.0,3.0,Fact huge fight still leave institution.,7
+972,2025-07-02,levis,top,Unisex,General,XL,Black,1741,10,1566.9,3,Cash,Coimbatore,Online,CUST00971,Male,False,,0.0,4.0,Ready tough less position bed.,2
+973,2025-06-21,vila,sunglasses,Men,General,S,Blue,2587,10,2328.3,1,Wallet,Kochi,Online,CUST00972,Other,True,Size Issue,3.13,3.8,,2
+974,2025-05-14,biba,sneakers,Men,General,XXXL,Yellow,674,20,539.2,4,Card,Pune,App,CUST00973,Other,False,,0.0,3.8,,7
+975,2025-05-21,folklore,scarf,Women,General,L,Yellow,1143,10,1028.7,5,UPI,Coimbatore,Online,CUST00974,Female,True,Damaged,0.33,3.2,,2
+976,2025-06-29,vans,t-shirt,Unisex,General,L,Green,2401,20,1920.8,3,UPI,Surat,Offline,CUST00975,Other,False,,0.0,3.8,,6
+977,2025-06-26,reliance trends,leggings,Unisex,General,XS,Beige,1901,40,1140.6,5,Card,Jaipur,App,CUST00976,Female,False,,0.0,4.7,,2
+978,2025-05-17,melange,backpack,Unisex,General,S,Red,1926,20,1540.8,2,UPI,Kochi,App,CUST00977,Female,False,,0.0,3.5,Including late condition opportunity Republican dark lawyer economic.,6
+979,2025-05-19,clovia,anarkali,Women,General,XXXL,Green,1277,20,1021.6,5,UPI,Pune,Offline,CUST00978,Other,True,Defective,3.62,4.8,,2
+980,2025-05-15,louis vuitton,jewelry,Kids,General,M,Red,2103,30,1472.1,3,Wallet,Visakhapatnam,Offline,CUST00979,Male,False,,0.0,4.2,Box last guy model himself.,4
+981,2025-06-22,zara,hat,Men,General,S,Green,2526,30,1768.2,5,UPI,Kochi,App,CUST00980,Female,True,Changed Mind,0.25,3.9,,5
+982,2025-07-02,reliance trends,coat,Kids,General,L,Pink,988,10,889.2,2,Card,Chandigarh,Online,CUST00981,Male,True,Changed Mind,0.54,4.1,Her herself should treatment not process.,1
+983,2025-05-18,ralph lauren,tie,Men,General,XXL,Black,539,0,539.0,3,UPI,Surat,Offline,CUST00982,Male,True,Size Issue,3.09,4.1,Than condition Republican information finally shoulder.,5
+984,2025-06-16,nush,earrings,Women,General,S,Black,2766,40,1659.6,3,Cash,Kolkata,Offline,CUST00983,Male,True,Size Issue,0.46,4.5,,3
+985,2025-06-01,tommy hilfiger,indo western,Men,General,S,Yellow,1404,10,1263.6,4,Cash,Kolkata,Online,CUST00984,Female,True,Defective,1.19,3.6,,5
+986,2025-05-21,lifestyle,sunglasses,Women,General,S,White,834,30,583.8,4,Wallet,Chennai,App,CUST00985,Female,False,,0.0,3.0,,2
+987,2025-05-15,fabindia,indo western,Unisex,General,M,Black,2543,40,1525.8,5,Wallet,Bhopal,App,CUST00986,Male,False,,0.0,3.3,Whether about she activity marriage material.,7
+988,2025-05-04,versace,watch,Kids,General,S,Red,1786,20,1428.8,4,UPI,Ahmedabad,App,CUST00987,Female,True,Damaged,3.0,3.9,Third down open little improve bag outside each natural people.,5
+989,2025-06-27,bewakoof,shoes,Men,General,L,Black,2091,40,1254.6,3,UPI,Indore,Online,CUST00988,Female,False,,0.0,4.4,,1
+990,2025-05-24,bottega veneta,bow tie,Unisex,General,S,Green,2000,20,1600.0,4,Cash,Kolkata,Online,CUST00989,Other,True,Defective,4.9,3.7,,1
+991,2025-05-08,nike,saree,Men,General,M,White,2650,20,2120.0,4,Cash,Surat,Online,CUST00990,Female,False,,0.0,4.7,Challenge president already take project study.,4
+992,2025-06-01,versace,handbag,Men,General,S,White,712,40,427.2,2,UPI,Visakhapatnam,Offline,CUST00991,Female,True,Size Issue,0.09,4.9,,1
+993,2025-06-05,clovia,sweater,Men,General,M,Blue,2686,0,2686.0,4,UPI,Raipur,Online,CUST00992,Male,True,Size Issue,3.93,3.7,Any indicate condition public particularly.,3
+994,2025-06-30,vero moda,shirt,Men,General,L,Blue,1183,0,1183.0,4,Cash,Chennai,Online,CUST00993,Other,False,,0.0,4.1,Skin concern lay often use behavior federal happy her attack.,2
+995,2025-06-14,balenciaga,casual wear,Men,General,XXL,Red,1162,40,697.2,1,Card,Indore,Online,CUST00994,Male,False,,0.0,3.9,,6
+996,2025-06-26,vila,hat,Kids,General,XL,Beige,2627,20,2101.6,5,Wallet,Patna,Offline,CUST00995,Other,False,,0.0,3.3,,2
+997,2025-05-10,ralph lauren,tshirt,Men,General,XL,Pink,1721,0,1721.0,5,Wallet,Indore,Offline,CUST00996,Female,False,,0.0,3.0,Likely business teacher forget including decide decade.,7
+998,2025-05-09,armani,shirt,Kids,General,XXXL,Blue,2341,40,1404.6,2,UPI,Indore,Online,CUST00997,Male,True,Size Issue,4.52,3.5,Number without more because right.,6
+999,2025-07-01,vans,party wear,Women,General,L,Blue,2202,0,2202.0,2,Cash,Ludhiana,Online,CUST00998,Female,False,,0.0,3.1,Interview summer employee offer perhaps until pass.,4
+1000,2025-06-21,mango,bow tie,Unisex,General,M,Beige,664,30,464.8,1,UPI,Lucknow,Online,CUST00999,Female,True,Defective,4.96,3.3,,3

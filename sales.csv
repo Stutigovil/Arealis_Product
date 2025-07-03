@@ -1,0 +1,7 @@
+brand,product,category,price,date_of_sale,payment_mode,quantity,store_location
+Zara,T-shirt,Men,799,2025-06-01,Card,2,Mumbai
+H&M,Jeans,Women,1499,2025-06-02,UPI,1,Delhi
+Zara,Shirt,Men,1199,2025-06-03,Cash,3,Mumbai
+Levis,Jacket,Unisex,2499,2025-06-01,Card,1,Bangalore
+Uniqlo,T-shirt,Men,699,2025-06-04,Wallet,5,Chennai
+Zara,Dress,Women,1799,2025-06-04,UPI,2,Delhi
