@@ -1,3 +1,11 @@
 streamlit
 pandas
 google-generativeai
+
+numpy
+
+fuzzywuzzy 
+sqlite3
+requests
+re
+plotly
